@@ -16,7 +16,7 @@ https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="CCTV-Live",CCTV-5+
 https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="CCTV-Live",CCTV-6
-http://178.157.60.73/proxy/1275265590/1275265590.m3u8
+https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8
 #EXTINF:-1 tvg-name="1905-电影网" tvg-logo="https://live.fanmingming.com/tv/1905-电影网.png" group-title="CCTV-Live",1905-电影网
 http://178.157.60.73/proxy/1747360543/1747360543.m3u8
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="CCTV-Live",CCTV-7
@@ -38,7 +38,7 @@ http://178.157.60.73/proxy/1977445545/1977445545.m3u8
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="CCTV-Live",CCTV-15
 http://178.157.60.73/proxy/2128760541/2128760541.m3u8
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="CCTV-Live",CCTV-16
-http://178.157.60.73/proxy/434481154/434481154.m3u8
+https://node1.olelive.com:6443/live/CCTV16HD/hls.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="CCTV-Live",CCTV-17
 https://node1.olelive.com:6443/live/CCTV17HD/hls.m3u8
 #EXTINF:-1 tvg-name="咪咕体育" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="CCTV-Live",咪咕体育
