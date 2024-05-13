@@ -17,10 +17,8 @@ https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="CCTV-Live",CCTV-6
 https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8
-#EXTINF:-1 tvg-name="1905-电影网" tvg-logo="https://live.fanmingming.com/tv/1905-电影网.png" group-title="CCTV-Live",1905-电影网
-http://178.157.60.73/proxy/1747360543/1747360543.m3u8
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="CCTV-Live",CCTV-7
-https://node1.olelive.com:6443/live/CCTV7HD/hls.m3u8
+http://64.140.167.170:8080/live/fjydcctv7/hls.m3u8
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="CCTV-Live",CCTV-8
 https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="CCTV-Live",CCTV-9
@@ -611,3 +609,5 @@ http://allinone.netsite.cc/douyu/8770422
 http://178.157.60.73/proxy/847703940/847703940.m3u8
 #EXTINF:-1 tvg-name="大立電視台" tvg-logo="https://live.fanmingming.com/tv/大立電視台.png" group-title="海外(已隐藏)",大立電視台
 http://178.157.60.73/proxy/1485397580/1485397580.m3u8
+#EXTINF:-1 tvg-name="1905-电影网" tvg-logo="https://live.fanmingming.com/tv/1905-电影网.png" group-title="CCTV-Live",1905-电影网
+http://178.157.60.73/proxy/1747360543/1747360543.m3u8
