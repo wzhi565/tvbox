@@ -24,7 +24,7 @@ https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="CCTV-Live",CCTV-9
 https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="CCTV-Live",CCTV-10
-https://node1.olelive.com:6443/live/CCTV10HD/hls.m3u8
+http://64.140.167.170:8080/live/fjydcctv10/hls.m3u8
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="CCTV-Live",CCTV-11
 http://178.157.60.73/proxy/1384058039/1384058039.m3u8
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="CCTV-Live",CCTV-12
@@ -42,7 +42,7 @@ https://node1.olelive.com:6443/live/CCTV17HD/hls.m3u8
 #EXTINF:-1 tvg-name="咪咕体育" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="CCTV-Live",咪咕体育
 http://178.157.60.73/proxy/1168525477/1168525477.m3u8
 #EXTINF:-1 tvg-name="凤凰卫视" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视.png" group-title="CCTV-Live",凤凰卫视
-http://178.157.60.73/proxy/1650326537/1650326537.m3u8
+http://tvbox.netsite.cc/proxy/1650326537/1650326537.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="CCTV-Live",凤凰中文
 http://178.157.60.73/proxy/1846789161/1846789161.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯(备用)" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯(备用).png" group-title="CCTV-Live",凤凰资讯(备用)
