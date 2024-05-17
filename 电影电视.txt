@@ -469,134 +469,6 @@ http://178.157.60.73/proxy/145384285/145384285.m3u8
 http://178.157.60.73/proxy/1052067340/1052067340.m3u8
 #EXTINF:-1 tvg-name="镇江二套社会民生频道" tvg-logo="https://live.fanmingming.com/tv/镇江二套社会民生频道.png" group-title="地方台",镇江二套社会民生频道
 http://178.157.60.73/proxy/1259661680/1259661680.m3u8
-#EXTINF:-1 tvg-name="北京密云司马台长城" tvg-logo="https://live.fanmingming.com/tv/北京密云司马台长城.png" group-title="直播中国",北京密云司马台长城
-http://178.157.60.73/proxy/771753543/771753543.m3u8
-#EXTINF:-1 tvg-name="北京昌平居庸关长城" tvg-logo="https://live.fanmingming.com/tv/北京昌平居庸关长城.png" group-title="直播中国",北京昌平居庸关长城
-http://178.157.60.73/proxy/1214950026/1214950026.m3u8
-#EXTINF:-1 tvg-name="北京鸟巢和水立方" tvg-logo="https://live.fanmingming.com/tv/北京鸟巢和水立方.png" group-title="直播中国",北京鸟巢和水立方
-http://178.157.60.73/proxy/2139720500/2139720500.m3u8
-#EXTINF:-1 tvg-name="北京密云古北水镇" tvg-logo="https://live.fanmingming.com/tv/北京密云古北水镇.png" group-title="直播中国",北京密云古北水镇
-http://178.157.60.73/proxy/698677872/698677872.m3u8
-#EXTINF:-1 tvg-name="北京怀柔黄花城水长城" tvg-logo="https://live.fanmingming.com/tv/北京怀柔黄花城水长城.png" group-title="直播中国",北京怀柔黄花城水长城
-http://178.157.60.73/proxy/1266694830/1266694830.m3u8
-#EXTINF:-1 tvg-name="湖南张家界武陵源景区" tvg-logo="https://live.fanmingming.com/tv/湖南张家界武陵源景区.png" group-title="直播中国",湖南张家界武陵源景区
-http://178.157.60.73/proxy/762554012/762554012.m3u8
-#EXTINF:-1 tvg-name="湖南长沙果园镇田汉文化园" tvg-logo="https://live.fanmingming.com/tv/湖南长沙果园镇田汉文化园.png" group-title="直播中国",湖南长沙果园镇田汉文化园
-http://178.157.60.73/proxy/1933462135/1933462135.m3u8
-#EXTINF:-1 tvg-name="湖南张家界天门山景区" tvg-logo="https://live.fanmingming.com/tv/湖南张家界天门山景区.png" group-title="直播中国",湖南张家界天门山景区
-http://178.157.60.73/proxy/1114678886/1114678886.m3u8
-#EXTINF:-1 tvg-name="湖南湘西凤凰古城" tvg-logo="https://live.fanmingming.com/tv/湖南湘西凤凰古城.png" group-title="直播中国",湖南湘西凤凰古城
-http://178.157.60.73/proxy/1244287653/1244287653.m3u8
-#EXTINF:-1 tvg-name="湖南张家界大峡谷景区" tvg-logo="https://live.fanmingming.com/tv/湖南张家界大峡谷景区.png" group-title="直播中国",湖南张家界大峡谷景区
-http://178.157.60.73/proxy/848407143/848407143.m3u8
-#EXTINF:-1 tvg-name="湖南邵阳崀山风景名胜区" tvg-logo="https://live.fanmingming.com/tv/湖南邵阳崀山风景名胜区.png" group-title="直播中国",湖南邵阳崀山风景名胜区
-http://178.157.60.73/proxy/2086847518/2086847518.m3u8
-#EXTINF:-1 tvg-name="湖南沙洲瑶族村" tvg-logo="https://live.fanmingming.com/tv/湖南沙洲瑶族村.png" group-title="直播中国",湖南沙洲瑶族村
-http://178.157.60.73/proxy/1641373861/1641373861.m3u8
-#EXTINF:-1 tvg-name="江苏南京永宁张圩花海" tvg-logo="https://live.fanmingming.com/tv/江苏南京永宁张圩花海.png" group-title="直播中国",江苏南京永宁张圩花海
-http://178.157.60.73/proxy/25264739/25264739.m3u8
-#EXTINF:-1 tvg-name="江苏徐州之夜" tvg-logo="https://live.fanmingming.com/tv/江苏徐州之夜.png" group-title="直播中国",江苏徐州之夜
-http://178.157.60.73/proxy/391073776/391073776.m3u8
-#EXTINF:-1 tvg-name="江苏无锡惠山二茅峰望锡城" tvg-logo="https://live.fanmingming.com/tv/江苏无锡惠山二茅峰望锡城.png" group-title="直播中国",江苏无锡惠山二茅峰望锡城
-http://178.157.60.73/proxy/1877891602/1877891602.m3u8
-#EXTINF:-1 tvg-name="江苏南京长江大桥" tvg-logo="https://live.fanmingming.com/tv/江苏南京长江大桥.png" group-title="直播中国",江苏南京长江大桥
-http://178.157.60.73/proxy/1764141811/1764141811.m3u8
-#EXTINF:-1 tvg-name="江苏南京玄武湖" tvg-logo="https://live.fanmingming.com/tv/江苏南京玄武湖.png" group-title="直播中国",江苏南京玄武湖
-http://178.157.60.73/proxy/1985889373/1985889373.m3u8
-#EXTINF:-1 tvg-name="南京Live" tvg-logo="https://live.fanmingming.com/tv/南京Live.png" group-title="直播中国",南京Live
-http://178.157.60.73/proxy/2096554630/2096554630.m3u8
-#EXTINF:-1 tvg-name="南京南站" tvg-logo="https://live.fanmingming.com/tv/南京南站.png" group-title="直播中国",南京南站
-http://178.157.60.73/proxy/2072143452/2072143452.m3u8
-#EXTINF:-1 tvg-name="南京紫金山" tvg-logo="https://live.fanmingming.com/tv/南京紫金山.png" group-title="直播中国",南京紫金山
-http://178.157.60.73/proxy/177566095/177566095.m3u8
-#EXTINF:-1 tvg-name="南京音乐台" tvg-logo="https://live.fanmingming.com/tv/南京音乐台.png" group-title="直播中国",南京音乐台
-http://178.157.60.73/proxy/171515367/171515367.m3u8
-#EXTINF:-1 tvg-name="南京情侣园" tvg-logo="https://live.fanmingming.com/tv/南京情侣园.png" group-title="直播中国",南京情侣园
-http://178.157.60.73/proxy/185079179/185079179.m3u8
-#EXTINF:-1 tvg-name="南京长江大桥" tvg-logo="https://live.fanmingming.com/tv/南京长江大桥.png" group-title="直播中国",南京长江大桥
-http://178.157.60.73/proxy/1033254824/1033254824.m3u8
-#EXTINF:-1 tvg-name="南京栖霞山" tvg-logo="https://live.fanmingming.com/tv/南京栖霞山.png" group-title="直播中国",南京栖霞山
-http://178.157.60.73/proxy/182710545/182710545.m3u8
-#EXTINF:-1 tvg-name="南京鼓楼广场" tvg-logo="https://live.fanmingming.com/tv/南京鼓楼广场.png" group-title="直播中国",南京鼓楼广场
-http://178.157.60.73/proxy/960879458/960879458.m3u8
-#EXTINF:-1 tvg-name="南京新街口" tvg-logo="https://live.fanmingming.com/tv/南京新街口.png" group-title="直播中国",南京新街口
-http://178.157.60.73/proxy/183420062/183420062.m3u8
-#EXTINF:-1 tvg-name="南京紫峰眺望" tvg-logo="https://live.fanmingming.com/tv/南京紫峰眺望.png" group-title="直播中国",南京紫峰眺望
-http://178.157.60.73/proxy/1222351744/1222351744.m3u8
-#EXTINF:-1 tvg-name="南京白鹭洲公园" tvg-logo="https://live.fanmingming.com/tv/南京白鹭洲公园.png" group-title="直播中国",南京白鹭洲公园
-http://178.157.60.73/proxy/320590871/320590871.m3u8
-#EXTINF:-1 tvg-name="南京北极阁" tvg-logo="https://live.fanmingming.com/tv/南京北极阁.png" group-title="直播中国",南京北极阁
-http://178.157.60.73/proxy/188239043/188239043.m3u8
-#EXTINF:-1 tvg-name="南京三汊河" tvg-logo="https://live.fanmingming.com/tv/南京三汊河.png" group-title="直播中国",南京三汊河
-http://178.157.60.73/proxy/189455176/189455176.m3u8
-#EXTINF:-1 tvg-name="南京黄龙砚" tvg-logo="https://live.fanmingming.com/tv/南京黄龙砚.png" group-title="直播中国",南京黄龙砚
-http://178.157.60.73/proxy/169184085/169184085.m3u8
-#EXTINF:-1 tvg-name="南京矿坑公园" tvg-logo="https://live.fanmingming.com/tv/南京矿坑公园.png" group-title="直播中国",南京矿坑公园
-http://178.157.60.73/proxy/1263482067/1263482067.m3u8
-#EXTINF:-1 tvg-name="南京百家湖" tvg-logo="https://live.fanmingming.com/tv/南京百家湖.png" group-title="直播中国",南京百家湖
-http://178.157.60.73/proxy/179633244/179633244.m3u8
-#EXTINF:-1 tvg-name="南京眼" tvg-logo="https://live.fanmingming.com/tv/南京眼.png" group-title="直播中国",南京眼
-http://178.157.60.73/proxy/1734263806/1734263806.m3u8
-#EXTINF:-1 tvg-name="南京五马渡" tvg-logo="https://live.fanmingming.com/tv/南京五马渡.png" group-title="直播中国",南京五马渡
-http://178.157.60.73/proxy/188955121/188955121.m3u8
-#EXTINF:-1 tvg-name="浙江舟山嵊泗县中心渔港" tvg-logo="https://live.fanmingming.com/tv/浙江舟山嵊泗县中心渔港.png" group-title="直播中国",浙江舟山嵊泗县中心渔港
-http://178.157.60.73/proxy/748822183/748822183.m3u8
-#EXTINF:-1 tvg-name="浙江温州泰顺县廊桥文化园" tvg-logo="https://live.fanmingming.com/tv/浙江温州泰顺县廊桥文化园.png" group-title="直播中国",浙江温州泰顺县廊桥文化园
-http://178.157.60.73/proxy/1144314894/1144314894.m3u8
-#EXTINF:-1 tvg-name="浙江舟山东极岛" tvg-logo="https://live.fanmingming.com/tv/浙江舟山东极岛.png" group-title="直播中国",浙江舟山东极岛
-http://178.157.60.73/proxy/1973269961/1973269961.m3u8
-#EXTINF:-1 tvg-name="浙江杭州千岛湖" tvg-logo="https://live.fanmingming.com/tv/浙江杭州千岛湖.png" group-title="直播中国",浙江杭州千岛湖
-http://178.157.60.73/proxy/1683811739/1683811739.m3u8
-#EXTINF:-1 tvg-name="浙江嘉兴乌镇" tvg-logo="https://live.fanmingming.com/tv/浙江嘉兴乌镇.png" group-title="直播中国",浙江嘉兴乌镇
-http://178.157.60.73/proxy/463129046/463129046.m3u8
-#EXTINF:-1 tvg-name="安徽黄山黟县" tvg-logo="https://live.fanmingming.com/tv/安徽黄山黟县.png" group-title="直播中国",安徽黄山黟县
-http://178.157.60.73/proxy/1759244982/1759244982.m3u8
-#EXTINF:-1 tvg-name="上海南浦大桥" tvg-logo="https://live.fanmingming.com/tv/上海南浦大桥.png" group-title="直播中国",上海南浦大桥
-http://178.157.60.73/proxy/1514561649/1514561649.m3u8
-#EXTINF:-1 tvg-name="西藏林芝米林岷山彩门民宿" tvg-logo="https://live.fanmingming.com/tv/西藏林芝米林岷山彩门民宿.png" group-title="直播中国",西藏林芝米林岷山彩门民宿
-http://178.157.60.73/proxy/751076408/751076408.m3u8
-#EXTINF:-1 tvg-name="西藏林芝岷山错高民宿" tvg-logo="https://live.fanmingming.com/tv/西藏林芝岷山错高民宿.png" group-title="直播中国",西藏林芝岷山错高民宿
-http://178.157.60.73/proxy/680426319/680426319.m3u8
-#EXTINF:-1 tvg-name="西藏日喀则珠穆朗玛峰" tvg-logo="https://live.fanmingming.com/tv/西藏日喀则珠穆朗玛峰.png" group-title="直播中国",西藏日喀则珠穆朗玛峰
-http://178.157.60.73/proxy/209923082/209923082.m3u8
-#EXTINF:-1 tvg-name="西藏拉萨布达拉宫" tvg-logo="https://live.fanmingming.com/tv/西藏拉萨布达拉宫.png" group-title="直播中国",西藏拉萨布达拉宫
-http://178.157.60.73/proxy/800329695/800329695.m3u8
-#EXTINF:-1 tvg-name="西藏林芝墨脱县" tvg-logo="https://live.fanmingming.com/tv/西藏林芝墨脱县.png" group-title="直播中国",西藏林芝墨脱县
-http://178.157.60.73/proxy/476608588/476608588.m3u8
-#EXTINF:-1 tvg-name="新疆喀什达瓦昆景区" tvg-logo="https://live.fanmingming.com/tv/新疆喀什达瓦昆景区.png" group-title="直播中国",新疆喀什达瓦昆景区
-http://178.157.60.73/proxy/404107611/404107611.m3u8
-#EXTINF:-1 tvg-name="新疆伊犁州蝶湖公园" tvg-logo="https://live.fanmingming.com/tv/新疆伊犁州蝶湖公园.png" group-title="直播中国",新疆伊犁州蝶湖公园
-http://178.157.60.73/proxy/132379804/132379804.m3u8
-#EXTINF:-1 tvg-name="新疆昌吉州天山天池风景区" tvg-logo="https://live.fanmingming.com/tv/新疆昌吉州天山天池风景区.png" group-title="直播中国",新疆昌吉州天山天池风景区
-http://178.157.60.73/proxy/1482666116/1482666116.m3u8
-#EXTINF:-1 tvg-name="安徽黄山风景区" tvg-logo="https://live.fanmingming.com/tv/安徽黄山风景区.png" group-title="直播中国",安徽黄山风景区
-http://178.157.60.73/proxy/2125074276/2125074276.m3u8
-#EXTINF:-1 tvg-name="四川邛崃天台山" tvg-logo="https://live.fanmingming.com/tv/四川邛崃天台山.png" group-title="直播中国",四川邛崃天台山
-http://178.157.60.73/proxy/690671060/690671060.m3u8
-#EXTINF:-1 tvg-name="四川甘孜州石渠县" tvg-logo="https://live.fanmingming.com/tv/四川甘孜州石渠县.png" group-title="直播中国",四川甘孜州石渠县
-http://178.157.60.73/proxy/682530961/682530961.m3u8
-#EXTINF:-1 tvg-name="四川西昌市邛海景区" tvg-logo="https://live.fanmingming.com/tv/四川西昌市邛海景区.png" group-title="直播中国",四川西昌市邛海景区
-http://178.157.60.73/proxy/239112006/239112006.m3u8
-#EXTINF:-1 tvg-name="四川成都东安湖体育公园" tvg-logo="https://live.fanmingming.com/tv/四川成都东安湖体育公园.png" group-title="直播中国",四川成都东安湖体育公园
-http://178.157.60.73/proxy/648790008/648790008.m3u8
-#EXTINF:-1 tvg-name="四川成都安顺廊桥" tvg-logo="https://live.fanmingming.com/tv/四川成都安顺廊桥.png" group-title="直播中国",四川成都安顺廊桥
-http://178.157.60.73/proxy/1937762418/1937762418.m3u8
-#EXTINF:-1 tvg-name="四川成都天府熊猫塔" tvg-logo="https://live.fanmingming.com/tv/四川成都天府熊猫塔.png" group-title="直播中国",四川成都天府熊猫塔
-http://178.157.60.73/proxy/1936214178/1936214178.m3u8
-#EXTINF:-1 tvg-name="四川成都春熙路" tvg-logo="https://live.fanmingming.com/tv/四川成都春熙路.png" group-title="直播中国",四川成都春熙路
-http://178.157.60.73/proxy/614090729/614090729.m3u8
-#EXTINF:-1 tvg-name="四川阿坝州汶川映秀新城" tvg-logo="https://live.fanmingming.com/tv/四川阿坝州汶川映秀新城.png" group-title="直播中国",四川阿坝州汶川映秀新城
-http://178.157.60.73/proxy/369813965/369813965.m3u8
-#EXTINF:-1 tvg-name="四川阿坝州黄龙五彩池" tvg-logo="https://live.fanmingming.com/tv/四川阿坝州黄龙五彩池.png" group-title="直播中国",四川阿坝州黄龙五彩池
-http://178.157.60.73/proxy/411064268/411064268.m3u8
-#EXTINF:-1 tvg-name="四川乐山市峨眉山风景区" tvg-logo="https://live.fanmingming.com/tv/四川乐山市峨眉山风景区.png" group-title="直播中国",四川乐山市峨眉山风景区
-http://178.157.60.73/proxy/1575586364/1575586364.m3u8
-#EXTINF:-1 tvg-name="重庆巫山长江画卷" tvg-logo="https://live.fanmingming.com/tv/重庆巫山长江画卷.png" group-title="直播中国",重庆巫山长江画卷
-http://178.157.60.73/proxy/923062896/923062896.m3u8
-#EXTINF:-1 tvg-name="重庆李子坝站" tvg-logo="https://live.fanmingming.com/tv/重庆李子坝站.png" group-title="直播中国",重庆李子坝站
-http://178.157.60.73/proxy/1077381778/1077381778.m3u8
-#EXTINF:-1 tvg-name="重庆巫山长江大桥" tvg-logo="https://live.fanmingming.com/tv/重庆巫山长江大桥.png" group-title="直播中国",重庆巫山长江大桥
-http://178.157.60.73/proxy/1215290450/1215290450.m3u8
 #EXTINF:-1 tvg-name="4K电影" tvg-logo="https://live.fanmingming.com/tv/4K电影.png" group-title="斗鱼电影",4K电影
 http://allinone.netsite.cc/douyu/9249162
 #EXTINF:-1 tvg-name="华语电影1" tvg-logo="https://live.fanmingming.com/tv/华语电影1.png" group-title="斗鱼电影",华语电影1
@@ -629,3 +501,83 @@ http://178.157.60.73/proxy/847703940/847703940.m3u8
 http://178.157.60.73/proxy/1485397580/1485397580.m3u8
 #EXTINF:-1 tvg-name="1905-电影网" tvg-logo="https://live.fanmingming.com/tv/1905-电影网.png" group-title="CCTV-Live",1905-电影网
 http://178.157.60.73/proxy/1747360543/1747360543.m3u8
+#EXTINF:-1 group-title="Japan" tvg-logo="https://i.imgur.com/fAZ2BEZ.png",NHK G (Tokyo) Ⓢ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01
+#EXTINF:-1 group-title="Japan" tvg-logo="https://i.imgur.com/fAZ2BEZ.png",NHK G (Osaka) Ⓢ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06
+#EXTINF:-1 group-title="Japan" tvg-logo="https://i.imgur.com/WxtftlO.png",NHK E Ⓢ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02
+#EXTINF:-1 group-title="Japan" tvg-logo="https://i.imgur.com/IxD8V5X.png",Nippon TV (日テレ) Ⓢ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03
+#EXTINF:-1 group-title="Japan" tvg-logo="https://i.imgur.com/Wfu61ZU.png",日テレNEWS24 Ⓢ
+https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+#EXTINF:-1 group-title="Japan" tvg-logo="https://i.imgur.com/rls8NVc.png",TV Asahi Ⓢ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06
+#EXTINF:-1 group-title="Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/1200px-Tokyo_Broadcasting_System_logo_2020.svg.png",TBS Ⓢ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04
+#EXTINF:-1 group-title="Japan" tvg-logo="https://i.imgur.com/GoNmywa.png",TBS News
+https://ythls.armelin.one/channel/UC6AG81pAkf6Lbi_1VC5NmPA.m3u8
+#EXTINF:-1 group-title="Japan" tvg-logo="https://i.imgur.com/tDyxk0Y.png",TV Tokyo Ⓢ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07
+#EXTINF:-1 group-title="Japan" tvg-logo="https://i.imgur.com/sEWDmMD.png",Fuji TV (フジテレビ) Ⓢ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05
+#EXTINF:-1 group-title="Japan" tvg-logo="https://i.imgur.com/igia8OX.png",Tokyo MX1 Ⓢ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08
+#EXTINF:-1 group-title="Japan" tvg-logo="https://i.imgur.com/vcGsZVD.png",HBC Hokkaido News 24
+https://ythls.armelin.one/channel/UCCTpf5c_9HDo_OSu3aX8uFQ.m3u8
+#EXTINF:-1 group-title="Japan" tvg-logo="https://i.imgur.com/yqUItvM.png",HTB Hokkaido News 24
+https://ythls.armelin.one/channel/UCSWOnDD1KIriGmyQ7SgNA4A.m3u8
+#EXTINF:-1 group-title="Japan" tvg-logo="https://i.imgur.com/G8lAJYc.png",Hokkaido News UHB
+https://ythls.armelin.one/channel/UCpQs_warGhUzJhBdwLfF34g.m3u8
+#EXTINF:-1 group-title="Japan" tvg-logo="https://i.imgur.com/5dJE8Fc.jpg",Niigata News NST
+https://ythls.armelin.one/channel/UC8iN-WKPu820ve-4t9NxHRw.m3u8
+#EXTINF:-1 group-title="Japan" tvg-logo="https://i.imgur.com/PxFcRh9.jpg",SATV News 24H
+https://ythls.armelin.one/channel/UCvF5vIejmf-H_XSluaBldfg.m3u8
+#EXTINF:-1 group-title="Japan" tvg-logo="https://i.imgur.com/oyQ2FnC.jpg",STV News Hokkaido
+https://ythls.armelin.one/channel/UCOZv-6MiXqJdLpmYtR431Ow.m3u8
+#EXTINF:-1 group-title="Japan" tvg-logo="https://i.imgur.com/JBkXyvj.jpg",TOS News
+https://ythls.armelin.one/channel/UChx_y6aLWNkifSDUt2TVAzg.m3u8
+#EXTINF:-1 group-title="Japan" tvg-logo="https://i.imgur.com/A8uRSTS.png",Weathernews
+https://ythls.armelin.one/channel/UCNsidkYpIAQ4QaufptQBPHQ.m3u8
+#EXTINF:-1 group-title="Japan" tvg-logo="https://i.imgur.com/ECnVG5I.png",GSTV
+https://gstv-tnz-gsmediastreaming.preview-jpea.channel.media.azure.net/dfd06b62-e9d1-4a7f-bcbb-89d2ecbc82ee/preview.ism/manifest(format=mpd-time-csf,audio-only=false)
+#EXTINF:-1 group-title="Japan" tvg-logo="https://i.imgur.com/xWSzQ34.png",QVC
+https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
+#EXTINF:-1 group-title="Japan" tvg-logo="https://i.imgur.com/GTyQhBF.png",Shop Channel
+https://stream3.shopch.jp/HLS/master.m3u8
+#EXTINF:-1 group-title="Japan" tvg-logo="https://i.imgur.com/9IVsFXz.png",ANN News
+https://ythls.armelin.one/channel/UCGCZAYq5Xxojl_tSXcVJhiQ.m3u8
+#EXTINF:-1 group-title="Japan" tvg-logo="https://i.imgur.com/DuGepQp.jpg",Asahi Shimbun Digital
+https://ythls.armelin.one/channel/UCMKvT0YVLufHMdGLH89J1oA.m3u8
+#EXTINF:-1 group-title="Japan" tvg-logo="https://i.imgur.com/fSNc0jP.png",Chukyo TV News
+https://ythls.armelin.one/channel/UCxiRdfyH0FtFCRZTRfRsdsA.m3u8
+#EXTINF:-1 group-title="Japan" tvg-logo="https://i.imgur.com/RfrkGrd.png",MBS TV (MBSテレビ) Ⓢ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01
+#EXTINF:-1 group-title="Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/1920px-Asahi_Broadcasting_Corporation_Logo.svg.png",ABC TV (ABCテレビ) Ⓢ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02
+#EXTINF:-1 group-title="Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ktv_logo.svg/1920px-Ktv_logo.svg.png",Kansai TV (カンテレ) Ⓢ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03
+#EXTINF:-1 group-title="Japan" tvg-logo="https://i.imgur.com/ONbuWvo.png",Yomiuri TV (読売テレビ) Ⓢ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04
+#EXTINF:-1 group-title="Japan" tvg-logo="https://i.imgur.com/rUmrruq.png",TV Osaka (テレビ大阪) Ⓢ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05
+#EXTINF:-1 group-title="Japan" tvg-logo="https://i.imgur.com/0qtXIRM.png",Sun TV (サンテレビ) Ⓢ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07
+#EXTINF:-1 group-title="Japan" tvg-logo="https://i.imgur.com/oWKCBIz.png",NHK Kishou-Saigai Ⓢ
+https://newssimul-stream.nhk.jp/hls/live/2010561/nhknewssimul/master.m3u8
+#EXTINF:-1 group-title="Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/96/Japanesepod101.png",JapanesePod101
+https://ythls.armelin.one/channel/UC0ox9NuTHYeRys63yZpBFuA.m3u8
+#EXTINF:-1 group-title="Japan" tvg-logo="https://i.imgur.com/t0uZcSR.png",NHK BS
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11
+#EXTINF:-1 group-title="Japan" tvg-logo="https://i.imgur.com/uvPpFo5.png",NHK BSP4K
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
+#EXTINF:-1 group-title="Japan" tvg-logo="https://i.imgur.com/D8lhZCI.png",BS Nippon TV (BS日テレ)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02
+#EXTINF:-1 group-title="Japan" tvg-logo="https://i.imgur.com/huXFL3A.png",BS Asahi
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 group-title="Japan" tvg-logo="https://i.imgur.com/h20eGKq.png",BS-TBS
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04
+#EXTINF:-1 group-title="Japan" tvg-logo="https://i.imgur.com/yJfA6ak.png",BS TV Tokyo
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 group-title="Japan" tvg-logo="https://i.imgur.com/aDdwjjc.png",BS Fuji TV (BSフジテレビ)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06
