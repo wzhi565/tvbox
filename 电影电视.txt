@@ -576,6 +576,11 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02
 #EXTINF:-1 group-title="Japan" tvg-logo="https://i.imgur.com/huXFL3A.png",BS Asahi
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1 group-title="Japan" tvg-logo="https://i.imgur.com/h20eGKq.png",BS-TBS
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04
+#EXTINF:-1 group-title="Japan" tvg-logo="https://i.imgur.com/yJfA6ak.png",BS TV Tokyo
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 group-title="Japan" tvg-logo="https://i.imgur.com/aDdwjjc.png",BS Fuji TV (BSフジテレビ)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06
 #EXTINF:-1 group-title="韩国" tvg-logo="https://live.fanmingming.com/tv/SBS.png",SBS
 https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8
 #EXTINF:-1 group-title="韩国" tvg-logo="https://live.fanmingming.com/tv/MBC.png",MBC
@@ -644,11 +649,3 @@ https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
 https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-name="朝鲜中央台" tvg-logo="https://live.fanmingming.com/tv/朝鲜中央台.png",朝鲜中央台
 http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
-
-
-
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04
-#EXTINF:-1 group-title="Japan" tvg-logo="https://i.imgur.com/yJfA6ak.png",BS TV Tokyo
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 group-title="Japan" tvg-logo="https://i.imgur.com/aDdwjjc.png",BS Fuji TV (BSフジテレビ)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06
