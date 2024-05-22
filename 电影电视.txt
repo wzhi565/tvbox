@@ -11,6 +11,8 @@ http://60.190.128.194:8888/newlive/live/hls/3/live.m3u8
 http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/cctv38m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="CCTV-Live",CCTV-3
 http://60.190.128.194:8888/newlive/live/hls/4/live.m3u8
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="CCTV-Live",CCTV-3
+http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/cctv38m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="CCTV-Live",CCTV-4 中文国际（亚）
 http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/cctv4hd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="CCTV-Live",CCTV-5
