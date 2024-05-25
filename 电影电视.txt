@@ -1,6 +1,8 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-name="CCTV4k" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="CCTV-Live",CCTV-4k
+#EXTINF:-1 tvg-name="CCTV4k" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="4k",CCTV-4k
 http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="LOVE NATURE 4K" tvg-logo="https://live.fanmingming.com/tv/LOVE NATURE 4K.png" group-title="4k",LOVE NATURE 4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="CCTV-Live",CCTV-1
 https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="CCTV-Live",CCTV-2
