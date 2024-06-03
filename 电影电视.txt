@@ -20,7 +20,7 @@ http://59.62.8.250:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="CCTV-Live",CCTV-3
 http://112.101.78.50:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="CCTV-Live",CCTV-3
-http://223.151.51.74:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+http://171.109.211.52:8888/udp/239.81.0.231:4056
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="CCTV-Live",CCTV-3
 http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/cctv38m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="CCTV-Live",CCTV-3
