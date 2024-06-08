@@ -859,74 +859,74 @@ https://m3u.haiwaikan.com/xm3u8/e98d1f4d099c75c5355b3542729ecb4ade03351666c91f97
 #EXTINF:-1 group-title="延禧攻略" tvg-name="第70集" tvg-logo="https://live.fanmingming.com/tv/第70集.png",第70集
 https://m3u.haiwaikan.com/xm3u8/74c0bba0c027faad2bb7cc05929391a69d07dea37e1cea445fe8da94946bc5bc9921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="正阳门下",tvg-name="第01集" tvg-logo="https://live.fanmingming.com/tv/第01集.png",第01集
-https://cdn.wlcdn99.com:777/jepLaSzT/index.m3u8
+https://m3u.haiwaikan.com/xm3u8/735f5eed2c11dc9d2f559f92fa073d367bcfa998e544697fbb226e49622d4f8d9921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="正阳门下",tvg-name="第02集" tvg-logo="https://live.fanmingming.com/tv/第02集.png",第02集
-https://cdn.wlcdn99.com:777/pmZ4kOxX/index.m3u8
+https://m3u.haiwaikan.com/xm3u8/68cbbffcf1409dcfc410f5c118234663aba3c48ee8e7a9e13602308df77305489921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="正阳门下",tvg-name="第03集" tvg-logo="https://live.fanmingming.com/tv/第03集.png",第03集
-https://cdn.wlcdn99.com:777/x0DRd1QT/index.m3u8
+https://m3u.haiwaikan.com/xm3u8/d8fc4a2ed58ae15be8ad284d840ccf321c46ba479c6c8a3fa908e774af22ea579921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="正阳门下",tvg-name="第04集" tvg-logo="https://live.fanmingming.com/tv/第04集.png",第04集
-https://cdn.wlcdn99.com:777/lB3J9VtG/index.m3u8
+https://m3u.haiwaikan.com/xm3u8/e1f240e2887dda313b216fa03daf9838036dac59f860b449addd7d05d768f0fe9921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="正阳门下",tvg-name="第05集" tvg-logo="https://live.fanmingming.com/tv/第05集.png",第05集
-https://cdn.wlcdn99.com:777/Krewg9hA/index.m3u8
+https://m3u.haiwaikan.com/xm3u8/d86ff903933ea096abcde15a3cd41ba145962724def104d029603192f22017849921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="正阳门下",tvg-name="第06集" tvg-logo="https://live.fanmingming.com/tv/第06集.png",第06集
-https://cdn.wlcdn99.com:777/QV6cOxJX/index.m3u8
+https://m3u.haiwaikan.com/xm3u8/d42fb23051a0d39be8bf5b545f2982790b4714e34a0209cc75e92b2bc389a94a9921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="正阳门下",tvg-name="第07集" tvg-logo="https://live.fanmingming.com/tv/第07集.png",第07集
-https://cdn.wlcdn99.com:777/WUapgR4f/index.m3u8
+https://m3u.haiwaikan.com/xm3u8/5fa48bb851d0345bd59021b237687c021110401e708b7396a0f8ac9cde24d21e9921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="正阳门下",tvg-name="第08集" tvg-logo="https://live.fanmingming.com/tv/第08集.png",第08集
-https://cdn.wlcdn99.com:777/pGXyfJPj/index.m3u8
+https://m3u.haiwaikan.com/xm3u8/15bdc4cf0561ca81e5dbebd3c67e009b7785c078be344a7c3f116d4e372fc5ae9921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="正阳门下",tvg-name="第09集" tvg-logo="https://live.fanmingming.com/tv/第09集.png",第09集
-https://cdn.wlcdn99.com:777/RgxPNcpj/index.m3u8
+https://m3u.haiwaikan.com/xm3u8/6003ac83043cd03905543f3b6f1779fcc5950d80a22ca11555a1be2081720d2b9921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="正阳门下",tvg-name="第10集" tvg-logo="https://live.fanmingming.com/tv/第10集.png",第10集
-https://cdn.wlcdn99.com:777/6wMDLc7j/index.m3u8
+https://m3u.haiwaikan.com/xm3u8/a655e75d9f00274ed20b76932e1e1eef4090f3309af47557c413619bb323604b9921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="正阳门下",tvg-name="第11集" tvg-logo="https://live.fanmingming.com/tv/第11集.png",第11集
-https://cdn.wlcdn99.com:777/RqSO5sel/index.m3u8
+https://m3u.haiwaikan.com/xm3u8/95b7971b632ec1eb97d0b4cdcb9aeb470392779cfe6f9a036b618eb95159d3019921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="正阳门下",tvg-name="第12集" tvg-logo="https://live.fanmingming.com/tv/第12集.png",第12集
-https://cdn.wlcdn99.com:777/LeVmuRI8/index.m3u8
+https://m3u.haiwaikan.com/xm3u8/e0a3b76892ed329bf7799bf91596458a421f33d540c763394e83691b346ddabe9921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="正阳门下",tvg-name="第13集" tvg-logo="https://live.fanmingming.com/tv/第13集.png",第13集
-https://cdn.wlcdn99.com:777/IL2kt7YV/index.m3u8
+https://m3u.haiwaikan.com/xm3u8/0b7310b9911eb087ac42f2ee7be8cf693dcb74d96d9f0d7b40e505b48b2e828b9921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="正阳门下",tvg-name="第14集" tvg-logo="https://live.fanmingming.com/tv/第14集.png",第14集
-https://cdn.wlcdn99.com:777/6pM3ELAn/index.m3u8
+https://m3u.haiwaikan.com/xm3u8/063cb3d7f5b36a432c5029882e31bac4aa781d53abf9269721792aa8aebe19939921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="正阳门下",tvg-name="第15集" tvg-logo="https://live.fanmingming.com/tv/第15集.png",第15集
-https://cdn.wlcdn99.com:777/or3yxTEz/index.m3u8
+https://m3u.haiwaikan.com/xm3u8/6019a1214e609bde74cc3368b34a8cfec9764071418daa0704368390635790bb9921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="正阳门下",tvg-name="第16集" tvg-logo="https://live.fanmingming.com/tv/第16集.png",第16集
-https://cdn.wlcdn99.com:777/Te10J9hP/index.m3u8
+https://m3u.haiwaikan.com/xm3u8/057de75f8d3271b357783188aa6b7a0d98b0de9fb22798c1c8e9fdb7e02529cb9921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="正阳门下",tvg-name="第17集" tvg-logo="https://live.fanmingming.com/tv/第17集.png",第17集
-https://cdn.wlcdn99.com:777/DQyaZUXg/index.m3u8
+https://m3u.haiwaikan.com/xm3u8/b129620f9e80b4d1bba219870c2fc0803658266cd9054423261ef2414437ece69921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="正阳门下",tvg-name="第18集" tvg-logo="https://live.fanmingming.com/tv/第18集.png",第18集
-https://cdn.wlcdn99.com:777/mwQJOH1u/index.m3u8
+https://m3u.haiwaikan.com/xm3u8/642b74056ecebb93d71ce8912a7924eb575d0a8fa5a8584d99f2dc14f652ddf69921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="正阳门下",tvg-name="第19集" tvg-logo="https://live.fanmingming.com/tv/第19集.png",第19集
-https://cdn.wlcdn99.com:777/1Guh0naZ/index.m3u8
+https://m3u.haiwaikan.com/xm3u8/7b8c900f86949e0747c042dba5521360daf119eb73c995c0aeb522cb31b260f69921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="正阳门下",tvg-name="第20集" tvg-logo="https://live.fanmingming.com/tv/第20集.png",第20集
-https://cdn.wlcdn99.com:777/HyP2nFc9/index.m3u8
+https://m3u.haiwaikan.com/xm3u8/05daf8d6f17aca2c691c1760c6e73b0f49426a76eca63cc6b55ab4b69d0ad39d9921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="正阳门下",tvg-name="第21集" tvg-logo="https://live.fanmingming.com/tv/第21集.png",第21集
-https://cdn.wlcdn99.com:777/yCedPsFz/index.m3u8
+https://m3u.haiwaikan.com/xm3u8/3684fe10f068d99579cf76dad1af92f8bf6dd71bcae31578d863582b4503fc489921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="正阳门下",tvg-name="第22集" tvg-logo="https://live.fanmingming.com/tv/第22集.png",第22集
-https://cdn.wlcdn99.com:777/vuhf09Xy/index.m3u8
+https://m3u.haiwaikan.com/xm3u8/04692651dca16212844d53daa067221eee25acbbcd2b1d5373b98039f9fcdd9f9921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="正阳门下",tvg-name="第23集" tvg-logo="https://live.fanmingming.com/tv/第23集.png",第23集
-https://cdn.wlcdn99.com:777/8edV9TgY/index.m3u8
+https://m3u.haiwaikan.com/xm3u8/1b73071bdd30fbe846a9dbe1425e83049c5e506892019bc9b897ee30e432febb9921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="正阳门下",tvg-name="第24集" tvg-logo="https://live.fanmingming.com/tv/第24集.png",第24集
-https://cdn.wlcdn99.com:777/Zuo6PIew/index.m3u8
+https://m3u.haiwaikan.com/xm3u8/02bc868785148d3eaaa6053f784c9d8ab8660f07c64eb23d876fc4038f1c8efd9921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="正阳门下",tvg-name="第25集" tvg-logo="https://live.fanmingming.com/tv/第25集.png",第25集
-https://cdn.wlcdn99.com:777/m0xC8gTy/index.m3u8
+https://m3u.haiwaikan.com/xm3u8/adf3ac4d7fcf46c5de2f1690d97d19cc8618bdbd7e1cfffd7d43c5f473a6c1b39921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="正阳门下",tvg-name="第26集" tvg-logo="https://live.fanmingming.com/tv/第26集.png",第26集
-https://cdn.wlcdn99.com:777/8sBCSLWA/index.m3u8
+https://m3u.haiwaikan.com/xm3u8/76ca8d6fd8747b156b3c9819e4bc1821e7dbeaba5a3a1f3bbed8280f8749ad239921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="正阳门下",tvg-name="第27集" tvg-logo="https://live.fanmingming.com/tv/第27集.png",第27集
-https://cdn.wlcdn99.com:777/Syrc5OCp/index.m3u8
+https://m3u.haiwaikan.com/xm3u8/015659faa85b5e89bed0dfaa7e47bfd67643e108b9ade8dc56b02c36408ba5ee9921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="正阳门下",tvg-name="第28集" tvg-logo="https://live.fanmingming.com/tv/第28集.png",第28集
-https://cdn.wlcdn99.com:777/c7sMi3nt/index.m3u8
+https://m3u.haiwaikan.com/xm3u8/8628e25ee82b0ca82268d26f8375ae9b290568c8556aaa57a87e601b4a75d5e39921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="正阳门下",tvg-name="第29集" tvg-logo="https://live.fanmingming.com/tv/第29集.png",第29集
-https://cdn.wlcdn99.com:777/9yanwPhI/index.m3u8
+https://m3u.haiwaikan.com/xm3u8/c1625705cc69f5bec4937a866b2abe18dc9c84d15c2239e46336529c1a2f24049921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="正阳门下",tvg-name="第30集" tvg-logo="https://live.fanmingming.com/tv/第30集.png",第30集
-https://cdn.wlcdn99.com:777/k7RWCT25/index.m3u8
+https://m3u.haiwaikan.com/xm3u8/33f7280e362784e6db2bd059ecf03f8e4392d0a8538879a5ff0bf63261e46d289921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="正阳门下",tvg-name="第31集" tvg-logo="https://live.fanmingming.com/tv/第31集.png",第31集
-https://cdn.wlcdn99.com:777/EWqPHkeM/index.m3u8
+https://m3u.haiwaikan.com/xm3u8/06878d1d2ff513b9c9cd91925e22d12f226af26eba332bdd961308d097aa0cb69921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="正阳门下",tvg-name="第32集" tvg-logo="https://live.fanmingming.com/tv/第32集.png",第32集
-https://cdn.wlcdn99.com:777/EQvOfTZB/index.m3u8
+https://m3u.haiwaikan.com/xm3u8/d025fc5d266cb7a497cffba0ebdc5b00ba271180abab0f8264f8e26181f1bf8f9921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="正阳门下",tvg-name="第33集" tvg-logo="https://live.fanmingming.com/tv/第33集.png",第33集
-https://cdn.wlcdn99.com:777/PEah7IfH/index.m3u8
+https://m3u.haiwaikan.com/xm3u8/f49e0217f0b76b6b762214d6b9cda69a1aa1cf99dea6be24616c64453f535fae9921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="正阳门下",tvg-name="第34集" tvg-logo="https://live.fanmingming.com/tv/第34集.png",第34集
-https://cdn.wlcdn99.com:777/IzASLjOe/index.m3u8
+https://m3u.haiwaikan.com/xm3u8/e1e19d05cbb9226e15d63773042be3bde253eff3ff04414d8d400eff503d62599921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="正阳门下",tvg-name="第35集" tvg-logo="https://live.fanmingming.com/tv/第35集.png",第35集
-https://cdn.wlcdn99.com:777/SI4F6zcZ/index.m3u8
+https://m3u.haiwaikan.com/xm3u8/7b1ef62f9e621fc4649d481346550716097d127d1a092e45b6895122d1f36c4d9921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="正阳门下",tvg-name="第36集" tvg-logo="https://live.fanmingming.com/tv/第36集.png",第36集
-https://cdn.wlcdn99.com:777/PUp83EfZ/index.m3u8
+https://m3u.haiwaikan.com/xm3u8/f8b7f7da2b519b26261c2f4b805e009f6459cea797138b88883727ba3f9fdfae9921f11e97d0da21.m3u8
