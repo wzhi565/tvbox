@@ -16,6 +16,8 @@ https://outlivecloud-cdn.ysp.cctv.cn/9F8CEBF4AF7ADF42C9E6B1E39059840AF2CF32256EA
 #EXTINF:-1 group-title="CCTV-Live" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png",CCTV-2
 http://59.62.8.250:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="CCTV-Live" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png",CCTV-3
+http://220.175.144.163:9000/udp/239.252.219.252:5140
+#EXTINF:-1 group-title="CCTV-Live" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png",CCTV-3
 http://61.136.67.238:50085/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="CCTV-Live" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png",CCTV-3
 http://220.175.144.163:9000/udp/239.252.219.252:5140
@@ -113,6 +115,32 @@ https://outlivecloud-cdn.ysp.cctv.cn/67ED9E31894D25C88B6A4C931A79CCC7F2A246081DA
 https://outlivecloud-cdn.ysp.cctv.cn/B90EBE7CBDD7C09D8C1FBE14ADA8F25B454C2B6AED44ABB333D17F96F5AEFA51D2512F0EE3772F37454B80310616F4171C17FDD09042F662F24460328878D0CCE2D341AE66ECAFC3F4243587D971F8CD81E8FD443F6E36AE33A968B0F64CECA5AC9E4B68276561C2DEEC710F416CFB6A/2000294802.m3u8?from=player&svrtime=1717904738&pid=600002513&cdn=5401&revoi=FC8E75A733E7D9FF68852F93AE52F3ECE956DBA151133311AA1C0450715DAFCE41A7157494BA75AFAAA6F09C38BE41D80CF70BBE639CE652BCA095FF6440277377B75EC401E48A960D3F96C0000EFA057A1C333371B9975814242F944C9A43EDB6BF0E1CF1B18411CE553F3916C80FA032C1BF0F74798F2C7019DDAF0F83B389DB20FB50EB8374D33E510F0FC98F8F23B19E34902C3E33F8F769ED8AF7C358469604FD9F56E9A90B29898C35349C369F8C33D222F0B3A284&app_id=519748109&guid=lw648bcg_ucqx403yo&ysign=3aa891a3e27b5c68620a559dfb101736&ytime=1717904738&ytype=1
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png",凤凰资讯
 http://112.19.171.156:9999/udp/239.93.0.118:2191
+#EXTINF:-1 group-title="港澳台" tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png",凤凰卫视资讯台
+https://cdn.ggapk.net/live/tv?id=475doADm65WNutj_b4NZl4hVeB9O1aAMTjkdzVBSix4CMP_sa0u_39xCxLH-xuqS1QmtK-gEVzGSssKEI58dBOPIyV9XqGiDyCNw5gFvSo-cuM6bip1MX2W7u95_ZB2OD4eLk_2W3OAvmn0OPRDMoV9YVZag_gdtbE0&idp=efffHPP3LB2KyFgsc_UTXZuTZ7IBKuaZbxvYVlfgvczt5W6QKqiZMZI81A
+#EXTINF:-1 group-title="港澳台" tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png",凤凰卫视中文台
+https://cdn.ggapk.net/live/tv?id=1c78b-F1DzLihYd41TO98eSsE3Mte7ZUIEYUs6vWKxGhv5RxdgO2aqeWvXsRa2w7RgHrwjtZeNvk6j5708qJ2YFl9SI6JcsGAEI9P3ex8hpi0S4ER1UWskpHBgGGz1AnfSdzbCm6CZjbahsLDKFCmvKGGkAp10yMgpo&idp=d8c1SAUAjKUsmjKEXbB4HPfX0KTGG2R5ffLVtIElnvmbz9s8xX_0ZzcDcg
+#EXTINF:-1 group-title="港澳台" tvg-name="凤凰卫视香港台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png",凤凰卫视香港台
+https://cdn.ggapk.net/live/tv?id=3ba9GHtTRGNsguR0JKC7hFhnSP0XPta3Gk9OJp0dVfTNTcv6z05n_A4WlsI5bV_9-HM8k7F3FUe1aMxgGPPR4fmyAByYv8Ch8VwgXyfNCc2zqjMnq0D4mfPsp9UBWWTOfmOJKp_uqF3BKvkO-UxPmOF2fqckzaNFyD8&idp=32b1ASTE0wo_vXAh8zdh-jGz6-lX2nOBZiPYPLOStYS44lgeACwPS2Eccg
+#EXTINF:-1 group-title="港澳台" tvg-name="TVB经典" tvg-logo="https://live.fanmingming.com/tv/TVB经典.png",TVB经典
+https://cdn.ggapk.net/live/tv?id=81aeQF17gJ5gHKZ7KaLg5cVgFdqWj5dVQIJ3UaQ5S_8IUqL-790b0VjkesEW_b5OPPOaFrf5n8SXoG1An4Z0zNQmBOpPBA8r5BWkF9jwHQrH8Qct3c3AQ20ZodfNyQIArNlmyvgt0VCie7UfO88e9cZFzhqmHFyPTrqBv6-hjjIIgIRnXuzKjg43us3AbHrJxOfxMECfboCjZU09yBHqdHfZJqEwpO9xwWSy2oOu-m9EBNGcF2iq4t5JuKeRPDsqmF3PNCiTNTHEa5Q5-fXi-qm0pE6wgLsZDRpoa0KYYOQXmbQd4Wwh_aUVZtfd77v_f3d0NGgk0CCuooieQPlSDzqxVosvHEPHTgxiZrdhYEiK4r80upSfc2NulbAzRmD4C_9P1orqZ4i3DV5rh3Ln_3mFvlw4VokgqkeEmYeaj2OaNDO_72UaWJ5tEPjWGZS2t7IQrbUXKpOpNB3xBi-LD23JKrxR4XEEo0VlfCSf_KCL6ggTJkVsxzQ4TC4kpu1p7gFVINIpMdEk_8ovwZ3u83G2XRs1Xa2E_SOWlIBaiASrHC2UbTSGOXl_mf3bHcS5v84Oqnf8hEilaYpSeaFHISnETgGkAa3eTW82ruf5RtC1aPC8EdprjEYtjg&idp=0baekvdS6IESeitpUs6CfGNdQ-wMaPDtBYhRyiIrTiEB_RcaR2PRmnD-OA
+#EXTINF:-1 group-title="港澳台" tvg-name="无线财经台" tvg-logo="https://live.fanmingming.com/tv/无线财经台.png",无线财经台
+https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="TVB翡翠台" tvg-logo="https://live.fanmingming.com/tv/TVB翡翠台.png",TVB翡翠台
+https://cdn.ggapk.net/live/tv?id=ee570A1xAdx3VSIAu1DKSw8mfjSfG3-ypagavuLzVnOW0ZlUinNIXBojCebLk0kfjIFPbsjjQu9JNkqqL0X98RmZ5uPqqq4LBcnO79vHSwobd2-zvFe-pAjewaW8Tmwq1q1GwOcMGSqXLITb6g5rZmm97_sima5X55Je&idp=bd471CvhTel8IqjwpHkpVBb7nPb8ck24cBhO_N9D7sguAssolcyAA1QaVQ
+#EXTINF:-1 group-title="港澳台" tvg-name="TVB明珠台" tvg-logo="https://live.fanmingming.com/tv/TVB明珠台.png",TVB明珠台
+https://cdn.ggapk.net/live/tv?id=9d4eWaV_hBLdsMmEGrT4hTmmKicBvCl3jbm0Rbhq4OPS_MzFUPy5TLRBGPco_pHTOABpmMuJY0xidvcMTj4o-hD0KFM7tlvn8n37MU1vqzd4wz96vtB9pFgrQ2mJQGyG9jRA-zDwpCVkpoVlxnv70TTWHfQaGWRe5PXwEQ&idp=581fVcU2mk7Ct2vxlzBt_qV4yDyrFXzZAabfF8N_GBs5Gj7o59Oxlb8EjA
+#EXTINF:-1 group-title="港澳台" tvg-name="TVB星河台" tvg-logo="https://live.fanmingming.com/tv/TVB星河台.png",TVB星河台
+https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="TVBJ2" tvg-logo="https://live.fanmingming.com/tv/TVBJ2.png",TVBJ2
+https://cdn.ggapk.net/live/tv?id=a297WuOSgCwmACWgWninps_PWev-arR66cbFiy7no-RcCzFqZv-dywPWoZYRJgNU1twjApn5YttVuFBVriMazChrbP75mkPOu-OuZ_PIqegvZsy-22FJ9DU8C5dUOOpp0ilULw6hziQ0xKy79jINMlTG-XU_i4sBh1W3sGLhOwA-DUo1myxHh08gDCI13kkZeYyeSzzmKI33XDJYuxl12kcDO7aF-2RbYcbC0QjSEOARCXrqOLDEzOu2kkj2CVS41J8-FmJ4tBZbjnrCAh0FGS0qZL0QaDqjmuscShUyOlCFnr_qtDGN0puJOS3O8agUHP-SkEDPCl-Zhwc6UNTl9Z1IYNrlv8hp7WNXZTRVCL8XH9E7RQaxFlt_sJlnQ-fB4cZGTwO2KxPmSwl-0wW47K2c-3WCtWLJ63fpOUYfM5EluzNEEEkUVniooeo8wH_C1xK4Sqd3Ve_viuGNqixJwGbrFkpTHSsEaIcFr4NByafxPSXOjMJJSoEItISlRROvvzi_zmqQ8LPD9GclUZBY5ENT5HEONJDF42LdmjLBYgvnNVf--Of05fKWV30TTnk6Dae2p4VAl6jx0c1xHw7H9AK-d4biSwsVik92qq9zf4xo_YiCY82bb1HN4g&idp=1cb5HfP5dNPHhblahtZyYYw6bcZfDGZ5q6D8RCDVkLTwYwPENR87oapsYQ
+#EXTINF:-1 group-title="港澳台" tvg-name="无线新闻台" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png",无线新闻台
+https://cdn.ggapk.net/live/tv?id=1039vZb_kC3xGNCK8FGN31mRR7JgLpyI3szYjjC7Z8LG4YcC_L-1Q4aWDw7ubXFeEe0_HNEGyu8K4BkUrMT6H_S_B3zj06iyu7an0FZ9v2XPqh7v5pnHwYoDDK_wKdazbcoBQ2Df91MeMyrTZRVNTT3ThswAOv7ghOUxwA&idp=425coTWpMhOGG2RVoL5H3FUhuRybicRWQZjb8KC7JjFApF7INVJVwI9D2w
+#EXTINF:-1 group-title="港澳台" tvg-name="TVB功夫台" tvg-logo="https://live.fanmingming.com/tv/TVB功夫台.png",TVB功夫台
+https://edge6a.v2h-cdn.com/asia_action/asia_action.stream/chunklist.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="TVB 亚洲剧" tvg-logo="https://live.fanmingming.com/tv/TVB 亚洲剧.png",TVB 亚洲剧
+https://cdn.ggapk.net/live/tv?id=9e64nFDFqVFOBJYZTDV-uMtHV53r4CxYfOnS523S_FS7UKIuYR4sO-QfaEKHt3oA_BfBq9N9LbBR_ecRIIObis669BOU-WpZp_hnYHh9mLrmW7WWFSGEVukArRu8rtyqvMjLhzfbDicIhbL7UYklfIYRBRaSF_H70yHMcveEUZTLlYxHLNCKHD8zzdX4JKoAS8WTmmL1Cs87qSocdrfQcmJIdtjNJ4EqSLWuMVYRI81I0_QwBOYQT0-LCkkC1AgNB1V-iXHAEERArnLF_RHfIsypHxboo_eHL6PJjr6XsGhBWlkKtbqroao-oMaRgu74mnaJ-PdkCzD1CZvA-mkSczgJNZX-MAcVPLsFvHre3VBkYEtd3LEHA6ITOucLhH7zlqNnTQc59FmmoMfX44YJ2YM8jdPeTfiIJ5qdz7KSmARVu4LMBT1_UrQJ2SOdn3CGKOgIqJhHWj2XB72sYfWV8TFSc1bkEJk91NBkuHdM5j6-SccqAbSf_d4rtWVAbQj08QlJ1A6lxMS9NUBdWzY2p_ixrQvS1QpaIU2-zSyZ8yL81KfB6FLZ_Bee7Gj54Eg8-GkTye_foKd-OBCbQKwU5s0yENBV8KLOZgK4_hIc3uyUABiBrvvQQ8Jz2Q&idp=e048UPmnOMnV8w0phqTeXUykOjSjdu1uKBL1HzdYZOTEVLnV9ItkgZNUkA
+#EXTINF:-1 group-title="港澳台" tvg-name="TVBS新闻" tvg-logo="https://live.fanmingming.com/tv/TVBS新闻.png",TVBS新闻
+http://194.87.101.118/live.m3u8?c=5
 #EXTINF:-1 group-title="斗鱼电影",tvg-name="CHC" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="CCTV-Live",CHC
 http://116.11.156.112:1188/tsfile/live/1017_1.m3u8
 #EXTINF:-1 tvg-name="4K电影" tvg-logo="https://live.fanmingming.com/tv/4K电影.png" group-title="斗鱼电影",4K电影
