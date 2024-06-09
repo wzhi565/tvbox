@@ -161,10 +161,8 @@ https://ythls.armelin.one/channel/UC2VmWn8dAqkzlQqvy02E1PA.m3u8
 https://ythls.armelin.one/channel/UCoNYj9OFHZn3ACmmeRCPwbA.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://i.imgur.com/AfkK0gv.png",TTV News
 https://ythls.armelin.one/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://i.ytimg.com/vi/5n0y6b0Q25o/hqdefault_live.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCXIMr1Cb8PO2vs9ZtapIAlSro4cw",mnews
-https://ythls.armelin.one/channel/UC4LjkybVKXCDlneVXlKAbmw.m3u8
-#EXTINF:-1 group-title="斗鱼电影",tvg-name="CHC" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="CCTV-Live",CHC
-http://116.11.156.112:1188/tsfile/live/1017_1.m3u8
+#EXTINF:-1  group-title="斗鱼电影",tvg-name="重温经典" tvg-logo="https://live.fanmingming.com/tv/重温经典.png",重温经典
+http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 #EXTINF:-1 tvg-name="4K电影" tvg-logo="https://live.fanmingming.com/tv/4K电影.png" group-title="斗鱼电影",4K电影
 http://allinone.netsite.cc/douyu/9249162
 #EXTINF:-1 tvg-name="华语电影1" tvg-logo="https://live.fanmingming.com/tv/华语电影1.png" group-title="斗鱼电影",华语电影1
