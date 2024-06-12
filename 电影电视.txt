@@ -262,6 +262,8 @@ http://epg.112114.xyz/douyu/9651304
 http://epg.112114.xyz/douyu/74374
 #EXTINF:-1 group-title="斗鱼电影" tvg-name="https://live.fanmingming.com/tv/奶虫恐怖电影.png",奶虫恐怖电影
 http://epg.112114.xyz/douyu/263824
+#EXTINF:-1  group-title="电影" tvg-name="热辣滚烫" tvg-logo="https://live.fanmingming.com/tv/热辣滚烫.png",热辣滚烫
+https://www.4k-av.com/movie/005604-yolo/720P/osljgi.m3u8
 #EXTINF:-1 tvg-name="亚洲中文" tvg-logo="https://live.fanmingming.com/tv/亚洲中文.png" group-title="海外(已隐藏)",亚洲中文
 http://178.157.60.73/proxy/847703940/847703940.m3u8
 #EXTINF:-1 tvg-name="大立電視台" tvg-logo="https://live.fanmingming.com/tv/大立電視台.png" group-title="海外(已隐藏)",大立電視台
