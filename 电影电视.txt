@@ -709,6 +709,9 @@ https://m3u.haiwaikan.com/xm3u8/66a21fd413f0cb7b98cbfbae918b4fcbb29127c6912624a7
 https://m3u.haiwaikan.com/xm3u8/0383f203f89c7c2b9d933a4ef633b13b1dc2829349de6be411c684128f16f73d9921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="亮剑" tvg-name="第28集" tvg-logo="https://live.fanmingming.com/tv/第28集.png",第28集
 https://m3u.haiwaikan.com/xm3u8/bdcda45909eb5506e0f6fb07c443d95c2571052b5ca75b1c5d4c02773b6bf3a79921f11e97d0da21.m3u8
+#EXTINF:-1 tvg-name="泰勒·斯威夫特：时代巡回演唱会1"  group-title="娱乐" tvg-logo="https://live.fanmingming.com/tv/泰勒·斯威夫特：时代巡回演唱会1.png",泰勒·斯威夫特：时代巡回演唱会1
+https://media-hncs-fy-corp.hn12oss.ctyunxs.cn/CORPCLOUD/963e4679-54ad-4604-9f48-9d18671628ae.mp4?response-content-disposition=attachment%3Bfilename%3D%22The.Eras.Tour.2023.Taylors.Version.1.mp4%22%3Bfilename*%3DUTF-8%27%27The.Eras.Tour.2023.Taylors.Version.1.mp4&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=CORP&x-amz-CLIENTTYPEIN=UNKNOWN&Signature=op12LDDR/849/Fw3cePFSZehFRo%3D&AWSAccessKeyId=0Lg7dAq3ZfHvePP8DKEU&Expires=1718515536&x-amz-limitrate=102400&response-content-type=video/mp4&x-amz-FSIZE=2487695981&x-amz-UID=10000000425417&x-amz-UFID=11451317455226865
+
 #EXTINF:-1 group-title="亮剑" tvg-name="第29集" tvg-logo="https://live.fanmingming.com/tv/第29集.png",第29集
 https://m3u.haiwaikan.com/xm3u8/c131080ad445b1d4e8040d43985e2651b272d0d4740e7a8608ed7478f4b364019921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="亮剑" tvg-name="第30集" tvg-logo="https://live.fanmingming.com/tv/第30集.png",第30集
