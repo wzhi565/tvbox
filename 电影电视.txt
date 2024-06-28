@@ -452,145 +452,145 @@ http://43.138.170.29:35455/yy/1351762426
 #EXTINF:-1 group-title="电视剧",笑傲江湖
 https://live.metshop.top/yy/1354936128
 #EXTINF:-1 group-title="延禧攻略" tvg-name="第01集" tvg-logo="https://live.fanmingming.com/tv/第01集.png",第01集
-https://m3u.haiwaikan.com/xm3u8/c0f46767eba1a7c61a85aec12c742056985ea69090b90a971e6e7a932c2eb6a59921f11e97d0da21.m3u8
+https://cdn.wlcdn99.com:777/fMT5C9aw/index.m3u8
 #EXTINF:-1 group-title="延禧攻略" tvg-name="第02集" tvg-logo="https://live.fanmingming.com/tv/第02集.png",第02集
-https://m3u.haiwaikan.com/xm3u8/36efad8d40098da0724bca965d93bf4b97640da85b5577976caaa2096bc28f5b9921f11e97d0da21.m3u8
+https://cdn.wlcdn99.com:777/iUL4ftyu/index.m3u8
 #EXTINF:-1 group-title="延禧攻略" tvg-name="第03集" tvg-logo="https://live.fanmingming.com/tv/第03集.png",第03集
-https://m3u.haiwaikan.com/xm3u8/be08f68f3c25596236f1a24fac18a53c36bc6ba3f129b5c855397c32de6bfa769921f11e97d0da21.m3u8
+https://cdn.wlcdn99.com:777/l6ERd2qJ/index.m3u8
 #EXTINF:-1 group-title="延禧攻略" tvg-name="第04集" tvg-logo="https://live.fanmingming.com/tv/第04集.png",第04集
-https://m3u.haiwaikan.com/xm3u8/f2eb7a1f52284767ca7d9f229564248e4fca0c6a132250110180b86bda56f1f69921f11e97d0da21.m3u8
+https://cdn.wlcdn99.com:777/rcDMOYAq/index.m3u8
 #EXTINF:-1 group-title="延禧攻略" tvg-name="第05集" tvg-logo="https://live.fanmingming.com/tv/第05集.png",第05集
-https://m3u.haiwaikan.com/xm3u8/45a50ec50368251e87983d3ac34d2b8299e5260a6a6e3021ea3323bea7a6a08f9921f11e97d0da21.m3u8
+https://cdn.wlcdn99.com:777/otwBkC6I/index.m3u8
 #EXTINF:-1 group-title="延禧攻略" tvg-name="第06集" tvg-logo="https://live.fanmingming.com/tv/第06集.png",第06集
-https://m3u.haiwaikan.com/xm3u8/586ab5a582c5415a84ee590ee03337ef9b3730cd2627afb268e029112e723f169921f11e97d0da21.m3u8
+https://cdn.wlcdn99.com:777/aLGlxAPF/index.m3u8
 #EXTINF:-1 group-title="延禧攻略" tvg-name="第07集" tvg-logo="https://live.fanmingming.com/tv/第07集.png",第07集
-https://m3u.haiwaikan.com/xm3u8/03f287226230fce5d1f860f5f3b0a42733cbffcb5cf51773e5837e705090561d9921f11e97d0da21.m3u8
+https://cdn.wlcdn99.com:777/7NyCrh3z/index.m3u8
 #EXTINF:-1 group-title="延禧攻略" tvg-name="第08集" tvg-logo="https://live.fanmingming.com/tv/第08集.png",第08集
-https://m3u.haiwaikan.com/xm3u8/90425a0ff6af5ea9fdca8023d0557d4a574cfedcbc4acf8f47a6f9f5c56f665c9921f11e97d0da21.m3u8
+https://cdn.wlcdn99.com:777/pDnKQL3m/index.m3u8
 #EXTINF:-1 group-title="延禧攻略" tvg-name="第09集" tvg-logo="https://live.fanmingming.com/tv/第09集.png",第09集
-https://m3u.haiwaikan.com/xm3u8/48bdac102a951936d87ee0a4524ac369410aebb3c4dcc18cc2562e38a2bb866c9921f11e97d0da21.m3u8
+https://cdn.wlcdn99.com:777/TW9xcH8D/index.m3u8
 #EXTINF:-1 group-title="延禧攻略" tvg-name="第10集" tvg-logo="https://live.fanmingming.com/tv/第10集.png",第10集
-https://m3u.haiwaikan.com/xm3u8/de6aebe511255f6a24b3897697bf431c5a610396608451e2d2542a094edda14f9921f11e97d0da21.m3u8
+https://cdn.wlcdn99.com:777/hFw1oQ9d/index.m3u8
 #EXTINF:-1 group-title="延禧攻略" tvg-name="第11集" tvg-logo="https://live.fanmingming.com/tv/第11集.png",第11集
-https://m3u.haiwaikan.com/xm3u8/38db38edb044864be664ef879819d8597376eaabef7dca40b043e269339da2659921f11e97d0da21.m3u8
+https://cdn.wlcdn99.com:777/vxcyN9z6/index.m3u8
 #EXTINF:-1 group-title="延禧攻略" tvg-name="第12集" tvg-logo="https://live.fanmingming.com/tv/第12集.png",第12集
-https://m3u.haiwaikan.com/xm3u8/64b0bc9cac99608adcaf81d2b3d162434b961535a529bca1d87c8e73856b3e4f9921f11e97d0da21.m3u8
+https://cdn.wlcdn99.com:777/0PRtuJae/index.m3u8
 #EXTINF:-1 group-title="延禧攻略" tvg-name="第13集" tvg-logo="https://live.fanmingming.com/tv/第13集.png",第13集
-https://m3u.haiwaikan.com/xm3u8/b780e3955a936eb3f2d636158e1a3f833947168b413b096c5ec06911c44a79e09921f11e97d0da21.m3u8
+https://cdn.wlcdn99.com:777/2OG8m6Lf/index.m3u8
 #EXTINF:-1 group-title="延禧攻略" tvg-name="第14集" tvg-logo="https://live.fanmingming.com/tv/第14集.png",第14集
-https://m3u.haiwaikan.com/xm3u8/5163a9a0c6c3bd056d4b7f02b4ef79c5438574df976accc7e88cbb3d0762d98f9921f11e97d0da21.m3u8
+https://cdn.wlcdn99.com:777/wloQSU6v/index.m3u8
 #EXTINF:-1 group-title="延禧攻略" tvg-name="第15集" tvg-logo="https://live.fanmingming.com/tv/第15集.png",第15集
-https://m3u.haiwaikan.com/xm3u8/44864ba0e71a229037c36b9542ecfefe2faccd83ea1dcb50514939e88d94a1fc9921f11e97d0da21.m3u8
+https://cdn.wlcdn99.com:777/NPsSGfCp/index.m3u8
 #EXTINF:-1 group-title="延禧攻略" tvg-name="第16集" tvg-logo="https://live.fanmingming.com/tv/第16集.png",第16集
-https://m3u.haiwaikan.com/xm3u8/7a46869c334025518fabd5d39c56ea8dffbf8306dbac47c030c20fc60f32a46e9921f11e97d0da21.m3u8
+https://cdn.wlcdn99.com:777/hHVcIzk4/index.m3u8
 #EXTINF:-1 group-title="延禧攻略" tvg-name="第17集" tvg-logo="https://live.fanmingming.com/tv/第17集.png",第17集
-https://m3u.haiwaikan.com/xm3u8/397a6b2f240aacc599a800fd339cb63382739df5e2d436674f1f3c6e7e7ae4d69921f11e97d0da21.m3u8
+https://cdn.wlcdn99.com:777/O7e0i1Cl/index.m3u8
 #EXTINF:-1 group-title="延禧攻略" tvg-name="第18集" tvg-logo="https://live.fanmingming.com/tv/第18集.png",第18集
-https://m3u.haiwaikan.com/xm3u8/e170464a0430ddde9b3de2f009936222335d781737fc8d6e8a10278da68fb1839921f11e97d0da21.m3u8
+https://cdn.wlcdn99.com:777/Z6Azmliq/index.m3u8
 #EXTINF:-1 group-title="延禧攻略" tvg-name="第19集" tvg-logo="https://live.fanmingming.com/tv/第19集.png",第19集
-https://m3u.haiwaikan.com/xm3u8/b1a12898c8bb721609692d47d14c930d940f11fb3371721d6e9221b605dab2259921f11e97d0da21.m3u8
+https://cdn.wlcdn99.com:777/TgeHv67m/index.m3u8
 #EXTINF:-1 group-title="延禧攻略" tvg-name="第20集" tvg-logo="https://live.fanmingming.com/tv/第20集.png",第20集
-https://m3u.haiwaikan.com/xm3u8/ab0ffada6efa39fce98c839611bca37c6154a2466bd59160f7b57a779813dbed9921f11e97d0da21.m3u8
+https://cdn.wlcdn99.com:777/nmydAtbs/index.m3u8
 #EXTINF:-1 group-title="延禧攻略" tvg-name="第21集" tvg-logo="https://live.fanmingming.com/tv/第21集.png",第21集
-https://m3u.haiwaikan.com/xm3u8/a78d82b8ac9021f8674f4d78fa19ebb2bbf926b61324bcca47847637ccad67d79921f11e97d0da21.m3u8
+https://cdn.wlcdn99.com:777/pkSUTB1w/index.m3u8
 #EXTINF:-1 group-title="延禧攻略" tvg-name="第22集" tvg-logo="https://live.fanmingming.com/tv/第22集.png",第22集
-https://m3u.haiwaikan.com/xm3u8/061521789b50b1795c7419780d16e8a453e8ccb215f47428af99fddbf4215fc59921f11e97d0da21.m3u8
+https://cdn.wlcdn99.com:777/ZOV3erIL/index.m3u8
 #EXTINF:-1 group-title="延禧攻略" tvg-name="第23集" tvg-logo="https://live.fanmingming.com/tv/第23集.png",第23集
-https://m3u.haiwaikan.com/xm3u8/d59aa5bdd615033a3abfd073fa9b491b27ef361bb3d227b8eaa87a4e8ea4f56c9921f11e97d0da21.m3u8
+https://cdn.wlcdn99.com:777/IqU20LSX/index.m3u8
 #EXTINF:-1 group-title="延禧攻略" tvg-name="第24集" tvg-logo="https://live.fanmingming.com/tv/第24集.png",第24集
-https://m3u.haiwaikan.com/xm3u8/c6f47e2bce136c80c91a9dd96cbbaaa38dc9acdd2bc99ea2e283662a4aac69439921f11e97d0da21.m3u8
+https://cdn.wlcdn99.com:777/bwToJtrs/index.m3u8
 #EXTINF:-1 group-title="延禧攻略" tvg-name="第25集" tvg-logo="https://live.fanmingming.com/tv/第25集.png",第25集
-https://m3u.haiwaikan.com/xm3u8/5c1cf053c172739b6f189c133810b05e33cebc118fa9564a425bf0578d267e169921f11e97d0da21.m3u8
+https://cdn.wlcdn99.com:777/azYTVcPK/index.m3u8
 #EXTINF:-1 group-title="延禧攻略" tvg-name="第26集" tvg-logo="https://live.fanmingming.com/tv/第26集.png",第26集
-https://m3u.haiwaikan.com/xm3u8/d80f02079d9881633d470c2adf405af0852dd530fa207d109ab2141ff40263b39921f11e97d0da21.m3u8
+https://cdn.wlcdn99.com:777/Qy1vAM4t/index.m3u8
 #EXTINF:-1 group-title="延禧攻略" tvg-name="第27集" tvg-logo="https://live.fanmingming.com/tv/第27集.png",第27集
-https://m3u.haiwaikan.com/xm3u8/ae8cc47a66cb5c9530d9c451d1cceaac12e94b6d86d973dabe42c9d4d4ba61ce9921f11e97d0da21.m3u8
+https://cdn.wlcdn99.com:777/efqbAG9t/index.m3u8
 #EXTINF:-1 group-title="延禧攻略" tvg-name="第28集" tvg-logo="https://live.fanmingming.com/tv/第28集.png",第28集
-https://m3u.haiwaikan.com/xm3u8/68aebd4194ef775ca54c8a12b0c359a3958cecf7a2eee350a6fb07b86027b9209921f11e97d0da21.m3u8
+https://cdn.wlcdn99.com:777/YwxWJEhm/index.m3u8
 #EXTINF:-1 group-title="延禧攻略" tvg-name="第29集" tvg-logo="https://live.fanmingming.com/tv/第29集.png",第29集
-https://m3u.haiwaikan.com/xm3u8/a647179e45a44bacdf72bf076b8005f1014ff40a00a5b061fdb2e7e8b2ac80359921f11e97d0da21.m3u8
+https://cdn.wlcdn99.com:777/1VR3fumK/index.m3u8
 #EXTINF:-1 group-title="延禧攻略" tvg-name="第30集" tvg-logo="https://live.fanmingming.com/tv/第30集.png",第30集
-https://m3u.haiwaikan.com/xm3u8/6ad12266ef583e98b61610a1e91dcf065794610825a6f57ee4159c0cc1ca8fba9921f11e97d0da21.m3u8
+https://cdn.wlcdn99.com:777/noyp58j0/index.m3u8
 #EXTINF:-1 group-title="延禧攻略" tvg-name="第31集" tvg-logo="https://live.fanmingming.com/tv/第31集.png",第31集
-https://m3u.haiwaikan.com/xm3u8/3dd28cb700014b93c505d6129c2c03b8fe6716a46419a2164494680355c859349921f11e97d0da21.m3u8
+https://cdn.wlcdn99.com:777/VakmYGFo/index.m3u8
 #EXTINF:-1 group-title="延禧攻略" tvg-name="第32集" tvg-logo="https://live.fanmingming.com/tv/第32集.png",第32集
-https://m3u.haiwaikan.com/xm3u8/c6f3ef1323006df71d1cdf3c490b7e7a6e971e0d03a7b793195c511c6806fec99921f11e97d0da21.m3u8
+https://cdn.wlcdn99.com:777/7SerWnfj/index.m3u8
 #EXTINF:-1 group-title="延禧攻略" tvg-name="第33集" tvg-logo="https://live.fanmingming.com/tv/第33集.png",第33集
-https://m3u.haiwaikan.com/xm3u8/3669c501fb9e4b8bc17e94cc8f57e1d66a2f8e41217bd6376f08910a0a90bdd09921f11e97d0da21.m3u8
+https://cdn.wlcdn99.com:777/AqeYDGEZ/index.m3u8
 #EXTINF:-1 group-title="延禧攻略" tvg-name="第34集" tvg-logo="https://live.fanmingming.com/tv/第34集.png",第34集
-https://m3u.haiwaikan.com/xm3u8/41e2b8ca6f3f67d470c0cfc93b5bff8e9385c7e6eb34c9658b49cd98e4cb81b89921f11e97d0da21.m3u8
+https://cdn.wlcdn99.com:777/t5PyjKkX/index.m3u8
 #EXTINF:-1 group-title="延禧攻略" tvg-name="第35集" tvg-logo="https://live.fanmingming.com/tv/第35集.png",第35集
-https://m3u.haiwaikan.com/xm3u8/96f802dc198ab215e217a0125ac27334f1c0d2af57839f47341e3e98d9c8800c9921f11e97d0da21.m3u8
+https://cdn.wlcdn99.com:777/1i3bmhWk/index.m3u8
 #EXTINF:-1 group-title="延禧攻略" tvg-name="第36集" tvg-logo="https://live.fanmingming.com/tv/第36集.png",第36集
-https://m3u.haiwaikan.com/xm3u8/7470a6fc6770b14a9d3c59a2c7f7870ed839e03959acf405e4b8c468384916d19921f11e97d0da21.m3u8
+https://cdn.wlcdn99.com:777/x7gCOKNn/index.m3u8
 #EXTINF:-1 group-title="延禧攻略" tvg-name="第37集" tvg-logo="https://live.fanmingming.com/tv/第37集.png",第37集
-https://m3u.haiwaikan.com/xm3u8/fe61b75bf745786f637d32f1cfe1d5eaf22320004ea72928e0295afafa9bb1af9921f11e97d0da21.m3u8
+https://cdn.wlcdn99.com:777/WsbnUBOG/index.m3u8
 #EXTINF:-1 group-title="延禧攻略" tvg-name="第38集" tvg-logo="https://live.fanmingming.com/tv/第38集.png",第38集
-https://m3u.haiwaikan.com/xm3u8/b6eed097a10c3cd33dff08b8b311ea522d71d149c983897e3b03b8ff30132dce9921f11e97d0da21.m3u8
+https://cdn.wlcdn99.com:777/614CHbJS/index.m3u8
 #EXTINF:-1 group-title="延禧攻略" tvg-name="第39集" tvg-logo="https://live.fanmingming.com/tv/第39集.png",第39集
-https://m3u.haiwaikan.com/xm3u8/e0acd481f3fe34d6e0ba03e5b29b5df824024a20a97c7415145a02780b4d3abe9921f11e97d0da21.m3u8
+https://cdn.wlcdn99.com:777/uvYR0kc2/index.m3u8
 #EXTINF:-1 group-title="延禧攻略" tvg-name="第40集" tvg-logo="https://live.fanmingming.com/tv/第40集.png",第40集
-https://m3u.haiwaikan.com/xm3u8/da1222b78690b867bf8a3187087b5cd4d38416530d70eb7eceaaca701dcfd42c9921f11e97d0da21.m3u8
+https://cdn.wlcdn99.com:777/WRntviuZ/index.m3u8
 #EXTINF:-1 group-title="延禧攻略" tvg-name="第41集" tvg-logo="https://live.fanmingming.com/tv/第41集.png",第41集
-https://m3u.haiwaikan.com/xm3u8/f20ba4971402780de41fbbb3d80a5745a28a165b2d098236f705e851a17ecb059921f11e97d0da21.m3u8
+https://cdn.wlcdn99.com:777/xW5EIjf8/index.m3u8
 #EXTINF:-1 group-title="延禧攻略" tvg-name="第42集" tvg-logo="https://live.fanmingming.com/tv/第42集.png",第42集
-https://m3u.haiwaikan.com/xm3u8/fd238ad9ad309349e732d9ce103ad94450cd66901384e16fcbfd3b18541af81a9921f11e97d0da21.m3u8
+https://cdn.wlcdn99.com:777/eL8bMrqu/index.m3u8
 #EXTINF:-1 group-title="延禧攻略" tvg-name="第43集" tvg-logo="https://live.fanmingming.com/tv/第43集.png",第43集
-https://m3u.haiwaikan.com/xm3u8/1787c89d002552a9fd6408b8e67f057a703eb6ff5c13630eed75686d1f27874e9921f11e97d0da21.m3u8
+https://cdn.wlcdn99.com:777/HpYGrw5a/index.m3u8
 #EXTINF:-1 group-title="延禧攻略" tvg-name="第44集" tvg-logo="https://live.fanmingming.com/tv/第44集.png",第44集
-https://m3u.haiwaikan.com/xm3u8/28f5f33882cb9ddcc48157de494ef25eac2b06dea617d274ef95d652e7b332ec9921f11e97d0da21.m3u8
+https://cdn.wlcdn99.com:777/58gYZQie/index.m3u8
 #EXTINF:-1 group-title="延禧攻略" tvg-name="第45集" tvg-logo="https://live.fanmingming.com/tv/第45集.png",第45集
-https://m3u.haiwaikan.com/xm3u8/8af6600154bb31d1f56fd6011d773da697f561afa7b0652f37ff91899aa38f529921f11e97d0da21.m3u8
+https://cdn.wlcdn99.com:777/bt2jsw39/index.m3u8
 #EXTINF:-1 group-title="延禧攻略" tvg-name="第46集" tvg-logo="https://live.fanmingming.com/tv/第46集.png",第46集
-https://m3u.haiwaikan.com/xm3u8/c081ad896d0c304565adad4f6180917e58a9318e9e83c81935962c8e0f178da79921f11e97d0da21.m3u8
+https://cdn.wlcdn99.com:777/dcS0O3yz/index.m3u8
 #EXTINF:-1 group-title="延禧攻略" tvg-name="第47集" tvg-logo="https://live.fanmingming.com/tv/第47集.png",第47集
-https://m3u.haiwaikan.com/xm3u8/1e717244c8e9828c375ad4e67de8576e413dc505b6af17df892750f278d45b959921f11e97d0da21.m3u8
+https://cdn.wlcdn99.com:777/UlxIGZo3/index.m3u8
 #EXTINF:-1 group-title="延禧攻略" tvg-name="第48集" tvg-logo="https://live.fanmingming.com/tv/第48集.png",第48集
-https://m3u.haiwaikan.com/xm3u8/049c328ae044a5cdffd1b3a9900edfdce551a69ec2273431d654af7d71e721e79921f11e97d0da21.m3u8
+https://cdn.wlcdn99.com:777/1OFTL2gk/index.m3u8
 #EXTINF:-1 group-title="延禧攻略" tvg-name="第49集" tvg-logo="https://live.fanmingming.com/tv/第49集.png",第49集
-https://m3u.haiwaikan.com/xm3u8/5bf4ca47656026ff03b71fa3ac1b9c8a3c04af1b3f3f41d7267368e2093f30a19921f11e97d0da21.m3u8
+https://cdn.wlcdn99.com:777/y7r8SkER/index.m3u8
 #EXTINF:-1 group-title="延禧攻略" tvg-name="第50集" tvg-logo="https://live.fanmingming.com/tv/第50集.png",第50集
-https://m3u.haiwaikan.com/xm3u8/6950112c9e7310649b7ede2ee3d85d90db2ed5c57b4c6ee4b23abe2e34f5b2919921f11e97d0da21.m3u8
+https://cdn.wlcdn99.com:777/TrK4FN3M/index.m3u8
 #EXTINF:-1 group-title="延禧攻略" tvg-name="第51集" tvg-logo="https://live.fanmingming.com/tv/第51集.png",第51集
-https://m3u.haiwaikan.com/xm3u8/33db70aab54e7dbd9be688d44b2e369ea0677b208d6c2df0ac5fc1a2d64378219921f11e97d0da21.m3u8
+https://cdn.wlcdn99.com:777/KCrpPAn6/index.m3u8
 #EXTINF:-1 group-title="延禧攻略" tvg-name="第52集" tvg-logo="https://live.fanmingming.com/tv/第52集.png",第52集
-https://m3u.haiwaikan.com/xm3u8/84355676a2a905f3d3ec5967f0fc78b98de371768dc49cea1479c9a24f93eab19921f11e97d0da21.m3u8
+https://cdn.wlcdn99.com:777/l5oNVcXY/index.m3u8
 #EXTINF:-1 group-title="延禧攻略" tvg-name="第53集" tvg-logo="https://live.fanmingming.com/tv/第53集.png",第53集
-https://m3u.haiwaikan.com/xm3u8/f4d60533faf2908775b4f77e6aa1edc4dd692e8c27d616dc32406c561613ff289921f11e97d0da21.m3u8
+https://cdn.wlcdn99.com:777/gTbLuhJ4/index.m3u8
 #EXTINF:-1 group-title="延禧攻略" tvg-name="第54集" tvg-logo="https://live.fanmingming.com/tv/第54集.png",第54集
-https://m3u.haiwaikan.com/xm3u8/20c525d35a7df492498fefb1e0514cf0cf9fad60d097153689643086eb1cfb519921f11e97d0da21.m3u8
+https://cdn.wlcdn99.com:777/X8pFyWLd/index.m3u8
 #EXTINF:-1 group-title="延禧攻略" tvg-name="第55集" tvg-logo="https://live.fanmingming.com/tv/第55集.png",第55集
-https://m3u.haiwaikan.com/xm3u8/6796a68884a55ec93e5cf46c9abcba43c7418645e844cd46e667cad6e3c9d8129921f11e97d0da21.m3u8
+https://cdn.wlcdn99.com:777/hTNtAfWu/index.m3u8
 #EXTINF:-1 group-title="延禧攻略" tvg-name="第56集" tvg-logo="https://live.fanmingming.com/tv/第56集.png",第56集
-https://m3u.haiwaikan.com/xm3u8/d4b224c807d30843b995fff749eb342a023e7cd567854ef05e24ff74639056999921f11e97d0da21.m3u8
+https://cdn.wlcdn99.com:777/z5e8LTWD/index.m3u8
 #EXTINF:-1 group-title="延禧攻略" tvg-name="第57集" tvg-logo="https://live.fanmingming.com/tv/第57集.png",第57集
-https://m3u.haiwaikan.com/xm3u8/c5c050b1939b422760623cffd1e177c203302b031852590c5ddc409901437d089921f11e97d0da21.m3u8
+https://cdn.wlcdn99.com:777/cBHtqaIm/index.m3u8
 #EXTINF:-1 group-title="延禧攻略" tvg-name="第58集" tvg-logo="https://live.fanmingming.com/tv/第58集.png",第58集
-https://m3u.haiwaikan.com/xm3u8/0e02cc28c620fe1640c9dd6a5022a4c5464737a0d5ad9341a26b41799ade9bbf9921f11e97d0da21.m3u8
+https://cdn.wlcdn99.com:777/5ctWpvfE/index.m3u8
 #EXTINF:-1 group-title="延禧攻略" tvg-name="第59集" tvg-logo="https://live.fanmingming.com/tv/第59集.png",第59集
-https://m3u.haiwaikan.com/xm3u8/e162353ceabd3ccf88d47a1d60074d8f5a3fd4344aaf773d82686e97a8cf6a989921f11e97d0da21.m3u8
+https://cdn.wlcdn99.com:777/26hPxIl0/index.m3u8
 #EXTINF:-1 group-title="延禧攻略" tvg-name="第60集" tvg-logo="https://live.fanmingming.com/tv/第60集.png",第60集
-https://m3u.haiwaikan.com/xm3u8/5c5a8c725cbeb3261c18dc1340d2956f9f724d1a436b25ef5c054a360e6f259c9921f11e97d0da21.m3u8
+https://cdn.wlcdn99.com:777/vgasqQtZ/index.m3u8
 #EXTINF:-1 group-title="延禧攻略" tvg-name="第61集" tvg-logo="https://live.fanmingming.com/tv/第61集.png",第61集
-https://m3u.haiwaikan.com/xm3u8/22be2ae92a155fad903ea4f00c7960b3c6d8bb30b1af9c9f3d584478c0737f529921f11e97d0da21.m3u8
+https://cdn.wlcdn99.com:777/zRCwg90X/index.m3u8
 #EXTINF:-1 group-title="延禧攻略" tvg-name="第62集" tvg-logo="https://live.fanmingming.com/tv/第62集.png",第62集
-https://m3u.haiwaikan.com/xm3u8/b47475120175275634c2271b883f9ad90d52d6b1e15335f1e7cd53436a4fe7089921f11e97d0da21.m3u8
+https://cdn.wlcdn99.com:777/O78WzFKp/index.m3u8
 #EXTINF:-1 group-title="延禧攻略" tvg-name="第63集" tvg-logo="https://live.fanmingming.com/tv/第63集.png",第63集
-https://m3u.haiwaikan.com/xm3u8/5b7e0cb97ea2c6a3e2fd21b59fa64cb4655c5e60a364f471da5ba3d7f52ae5099921f11e97d0da21.m3u8
+https://cdn.wlcdn99.com:777/o8gsulB4/index.m3u8
 #EXTINF:-1 group-title="延禧攻略" tvg-name="第64集" tvg-logo="https://live.fanmingming.com/tv/第64集.png",第64集
-https://m3u.haiwaikan.com/xm3u8/458e4919feb8c098455c23702ac3d7013ea57ebb4e0ff2572fc255915701b9859921f11e97d0da21.m3u8
+https://cdn.wlcdn99.com:777/WHVu38X9/index.m3u8
 #EXTINF:-1 group-title="延禧攻略" tvg-name="第65集" tvg-logo="https://live.fanmingming.com/tv/第65集.png",第65集
-https://m3u.haiwaikan.com/xm3u8/71814b099b8f3a9d04fb5ed3b7cfd6d3c9b8e6afffe4bdf9871bf8ce0da1c9d99921f11e97d0da21.m3u8
+https://cdn.wlcdn99.com:777/pBaYslOA/index.m3u8
 #EXTINF:-1 group-title="延禧攻略" tvg-name="第66集" tvg-logo="https://live.fanmingming.com/tv/第66集.png",第66集
-https://m3u.haiwaikan.com/xm3u8/3e2142b5b364028eb94dc52ee6d49be2b4d7d764990b7fad86d04df8336d937d9921f11e97d0da21.m3u8
+https://cdn.wlcdn99.com:777/bIEBgCrM/index.m3u8
 #EXTINF:-1 group-title="延禧攻略" tvg-name="第67集" tvg-logo="https://live.fanmingming.com/tv/第67集.png",第67集
-https://m3u.haiwaikan.com/xm3u8/bff08f056f24c0fc376b996c1f59d0099f2cd4d8888feee7ac466fa3d34846bf9921f11e97d0da21.m3u8
+https://cdn.wlcdn99.com:777/m7Pxu4MF/index.m3u8
 #EXTINF:-1 group-title="延禧攻略" tvg-name="第68集" tvg-logo="https://live.fanmingming.com/tv/第68集.png",第68集
-https://m3u.haiwaikan.com/xm3u8/77639af0939c3b451250d3103f90273aec51c7d5705e0f69647ac6c56ef76a0d9921f11e97d0da21.m3u8
+https://cdn.wlcdn99.com:777/ajNluxCA/index.m3u8
 #EXTINF:-1 group-title="延禧攻略" tvg-name="第69集" tvg-logo="https://live.fanmingming.com/tv/第69集.png",第69集
-https://m3u.haiwaikan.com/xm3u8/e98d1f4d099c75c5355b3542729ecb4ade03351666c91f9761e0f63213df5c019921f11e97d0da21.m3u8
+https://cdn.wlcdn99.com:777/tvx2T5Lj/index.m3u8
 #EXTINF:-1 group-title="延禧攻略" tvg-name="第70集" tvg-logo="https://live.fanmingming.com/tv/第70集.png",第70集
-https://m3u.haiwaikan.com/xm3u8/74c0bba0c027faad2bb7cc05929391a69d07dea37e1cea445fe8da94946bc5bc9921f11e97d0da21.m3u8
+https://cdn.wlcdn99.com:777/YzQ7qAm6/index.m3u8
 #EXTINF:-1 group-title="正阳门下",tvg-name="第01集" tvg-logo="https://live.fanmingming.com/tv/第01集.png",第01集
 https://m3u.haiwaikan.com/xm3u8/735f5eed2c11dc9d2f559f92fa073d367bcfa998e544697fbb226e49622d4f8d9921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="正阳门下",tvg-name="第02集" tvg-logo="https://live.fanmingming.com/tv/第02集.png",第02集
