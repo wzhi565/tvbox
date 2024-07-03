@@ -24,6 +24,8 @@ http://59.62.8.250:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="CCTV-Live" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png",CCTV-3
 https://ldocctvwbcdcnchw.v.cdn20.com/ldocctvwbcd/cdrmldcctv3_1_480P/playlist.m3u8?wsApp=HLS
 #EXTINF:-1 group-title="CCTV-Live" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png",CCTV-3
+https://ldocctvwbcdcnchw.v.cdn20.com/ldocctvwbcd/cdrmldcctv3_1_480P/playlist.m3u8?wsApp=HLS
+#EXTINF:-1 group-title="CCTV-Live" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png",CCTV-3
 http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel3/1300.m3u8
 #EXTINF:-1 group-title="CCTV-Live" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png",CCTV-3
 http://220.175.144.163:9000/udp/239.252.219.252:5140
