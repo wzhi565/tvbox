@@ -53,6 +53,8 @@ https://node1.olelive.com:6443/live/CCTV5PHD_360.live.flv?token=a1c00073a0a103b5
 #EXTINF:-1 group-title="CCTV-Live" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png",CCTV-5+
 https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 #EXTINF:-1 group-title="CCTV-Live" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",CCTV-6
+https://node1.olelive.com:6443/live/CCTV6HD_360.live.flv?token=a1c00573a0a110b5459180ea50332314
+#EXTINF:-1 group-title="CCTV-Live" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",CCTV-6
 https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8
 #EXTINF:-1 group-title="CCTV-Live" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",CCTV-6
 https://ldocctvwbcdcnchw.v.cdn20.com/ldocctvwbcd/cdrmldcctv6_1_480P/playlist.m3u8?wsApp=HLS
@@ -64,6 +66,8 @@ https://node1.olelive.com:6443/live/CCTV8HD_360.live.flv?token=a1c00373a0a114b54
 https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
 #EXTINF:-1 group-title="CCTV-Live" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png",CCTV-8
 https://ldocctvwbcdkshw.v.kcdnvip.com/ldocctvwbcd/cdrmldcctv8_1/index.m3u8?b=200-1200
+#EXTINF:-1 group-title="CCTV-Live" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png",CCTV-9
+https://node1.olelive.com:6443/live/CCTV9HD_360.live.flv?token=a1c00473a0a112b5459181ea50332314
 #EXTINF:-1 group-title="CCTV-Live" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png",CCTV-9
 https://ldocctvwbcdkshw.v.kcdnvip.com/ldocctvwbcd/cdrmldcctv9_1/index.m3u8?b=200-2100
 #EXTINF:-1 group-title="CCTV-Live" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png",CCTV-9
