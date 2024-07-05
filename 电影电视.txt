@@ -8,6 +8,8 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="4k",tvg-name="欢笑剧场4K" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场4K.png",欢笑剧场4K
 http://111.4.254.12/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226722/index.m3u8
 #EXTINF:-1 group-title="CCTV-Live" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV-1
+https://node1.olelive.com:6443/live/CCTV1HD_360.live.flv?token=a1c00073a0a115b5459185ea50332714
+#EXTINF:-1 group-title="CCTV-Live" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV-1
 https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 #EXTINF:-1 group-title="CCTV-Live" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV-1
 https://ldncctvwbcdkshw.v.kcdnvip.com/ldncctvwbcd/cdrmldcctv1_1/index.m3u8?BR=td&region=shanghai
@@ -15,6 +17,8 @@ https://ldncctvwbcdkshw.v.kcdnvip.com/ldncctvwbcd/cdrmldcctv1_1/index.m3u8?BR=td
 http://111.4.254.12/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226113/index.m3u8
 #EXTINF:-1 group-title="CCTV-Live" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV-1
 http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel1/1300.m3u8
+#EXTINF:-1 group-title="CCTV-Live" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png",CCTV-2
+https://node1.olelive.com:6443/live/CCTV2HD_360.live.flv?token=a1c00173a0a116b5459184ea50332614
 #EXTINF:-1 group-title="CCTV-Live" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png",CCTV-2
 https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
 #EXTINF:-1 group-title="CCTV-Live" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png",CCTV-2
@@ -54,6 +58,8 @@ https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8
 https://ldocctvwbcdcnchw.v.cdn20.com/ldocctvwbcd/cdrmldcctv6_1_480P/playlist.m3u8?wsApp=HLS
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="CCTV-Live",CCTV-7
 https://ldocctvwbcdcnchw.v.cdn20.com/ldocctvwbcd/cdrmldcctv7_1/index.m3u8?b=200-2100
+#EXTINF:-1 group-title="CCTV-Live" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png",CCTV-8
+https://node1.olelive.com:6443/live/CCTV8HD_360.live.flv?token=a1c00373a0a114b5459184ea50332414
 #EXTINF:-1 group-title="CCTV-Live" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png",CCTV-8
 https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
 #EXTINF:-1 group-title="CCTV-Live" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png",CCTV-8
