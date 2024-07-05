@@ -17,8 +17,26 @@ https://node1.olelive.com:6443/live/CCTV2HD_360.live.flv?token=a1c00173a0a116b54
 https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
 #EXTINF:-1 group-title="CCTV-Live" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png",CCTV-2
 https://outlivecloud-cdn.ysp.cctv.cn/9F8CEBF4AF7ADF42C9E6B1E39059840AF2CF32256EAC29853F7CD477CEEEFF33AA32B861853ED93DDE60E2C3B4264AF7CDDB2A171927E6F40D94C950DC09F956EDF5B0021431C38E0592F90757EC0009C7E8675D346F4A50B91BC4B1C3590B282F7796C5A0D81C9EE4FA0DDEE5C1D1B7/2022576702.m3u8?from=player&svrtime=1717901275&pid=600001800&cdn=5401&revoi=3E1556E8F628D0C5AB49CE668BDD1556A87437A2FB1AA5AA1ECDF4CC9D1269258F8AE41238342E47CE4A48A6CF3B363DF5FC3552A716423189D30EC081CFB60AA4FE2B38899B4ECB60FB9DDAF3104604CBFAD68E2515238F9E5408E577B67465F521F37EAAC57EEAC23CBD5CAF34F23B64A59ABA8E68410F5E5CC8D8A026A18BD822F2163B2FBE2B9ACCE18247EE4F447F1EEE52B1B4231B45BFF95B3CB791189586D0D4242BDE9C660C6B59402ADDB86F885F83F09D75D1&app_id=519748109&guid=lw648bcg_ucqx403yo&ysign=1bbeab8378ff3ca169b21454089d293c&ytime=1717901275&ytype=1
-#EXTINF:-1 group-title="CCTV-Live" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png",CCTV-3
-http://221.4.143.70:8114/GD.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBewnOI0Q0FnH0j6ix%2FEuEE%2FlrAcxI6a6K3gCsE%2F0xqwv&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.19&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4219&gAppVersionName=4.2.19&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1714141713143&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=0&gCityCode=DEFAULT&verType=0&Fsv_Tgid=515e9b01de7422d3&FvSeid=88fe5578aee4ebd2&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=9873&Fsv_chan_hls_se_idx=59&Fsv_TBt=8465136&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CCTV-3-CQ&Fsv_CMSID=GD_CUCC
+#EXTINF:-1 group-title="CCTV-Live",tvg-logo="https://live.fanmingming.com/tv/cctv3.png",cctv3
+https://z02.ubtvfans.com/live/rx3/202/fc79bd267d53db86c843141d79588ab3/index.m3u8
+#EXTINF:-1 group-title="CCTV-Live",tvg-logo="https://live.fanmingming.com/tv/cctv3.png",cctv3
+https://z02.ubtvfans.com/live/rx1/2808/184ae3594c7818808f852cc6988b4525/index.m3u8
+#EXTINF:-1 group-title="CCTV-Live",tvg-logo="https://live.fanmingming.com/tv/cctv3.png",cctv3
+http://58.248.112.205:8006/GD_CUCC/G_CCTV-3-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBewnOI0Q0FnH0j6ix%2FEuEE%2FlrAcxI6a6K3gCsE%2F0xqwv
+#EXTINF:-1 group-title="CCTV-Live",tvg-logo="https://live.fanmingming.com/tv/cctv3.png",cctv3
+http://xyt.186738613.xyz/lngd.php?id=062&Cf.m3u8
+#EXTINF:-1 group-title="CCTV-Live",tvg-logo="https://live.fanmingming.com/tv/cctv3.png",cctv3
+http://58.216.99.148:80/live2.rxip.sc96655.com/live/CCTV-3H265_4000.m3u8
+#EXTINF:-1 group-title="CCTV-Live",tvg-logo="https://live.fanmingming.com/tv/cctv3.png",cctv3
+http://222.218.159.80:8181/tsfile/live/0003_1.m3u8
+#EXTINF:-1 group-title="CCTV-Live",tvg-logo="https://live.fanmingming.com/tv/cctv3.png",cctv3
+http://123.163.55.234:9901/tsfile/live/0003_1.m3u8
+#EXTINF:-1 group-title="CCTV-Live",tvg-logo="https://live.fanmingming.com/tv/cctv3.png",cctv3
+https://live.v1.mk/api/bestv.php?id=cctv38m/8000000
+#EXTINF:-1 group-title="CCTV-Live",tvg-logo="https://live.fanmingming.com/tv/cctv3.png",cctv3
+http://59.44.102.18:8888/newlive/live/hls/4/live.m3u8
+#EXTINF:-1 group-title="CCTV-Live",tvg-logo="https://live.fanmingming.com/tv/cctv3.png",cctv3
+https://live.v1.mk/api/ghyx.php?id=CCTV3HD_6000
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="CCTV-Live",CCTV-4 中文国际（亚）
 https://ldocctvwbcdcnchw.v.cdn20.com/ldocctvwbcd/cdrmldcctv4_1/index.m3u8?b=200-2100
 #EXTINF:-1 group-title="CCTV-Live" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png",CCTV-5
