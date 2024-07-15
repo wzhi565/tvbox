@@ -61,7 +61,7 @@ https://node1.olelive.com:6443/live/CCTV6HD_360.live.flv?token=a1c00573a0a110b54
 #EXTINF:-1 group-title="CCTV-Live" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",CCTV-6
 https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="CCTV-Live",CCTV-7
-https://ldocctvwbcdcnchw.v.cdn20.com/ldocctvwbcd/cdrmldcctv7_1/index.m3u8?b=200-2100
+http://hplayer.ggapk.net/tv_player/clappr.php?url=http://58.248.112.204:8006/GD_CUCC/G_CCTV-7-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBbnOCQoNESV2qWsAYbhnlDiyPV4eph4rJWQgnDXisMTe
 #EXTINF:-1 group-title="CCTV-Live" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png",CCTV-8
 https://node1.olelive.com:6443/live/CCTV8HD_360.live.flv?token=a1c00373a0a114b5459184ea50332414
 #EXTINF:-1 group-title="CCTV-Live" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png",CCTV-8
