@@ -7,113 +7,113 @@ https://outlivecloud-cdn.ysp.cctv.cn/657E5AF1062B46E18306472ECF32C60601E249A4356
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="4k",tvg-name="欢笑剧场4K" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场4K.png",欢笑剧场4K
 http://111.4.254.12/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226722/index.m3u8
-#EXTINF:-1 group-title="CCTV-Live1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV1
+#EXTINF:-1 group-title="CCTV-Live1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV1
 https://z02.ubtvfans.com/live/rx1/200/e5159301cd4aaf84a7f39915d463a106/index.m3u8
-#EXTINF:-1 group-title="CCTV-Live1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV1
+#EXTINF:-1 group-title="CCTV-Live1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV1
 https://z02.ubtvfans.com/live/rx1/2305/33545cc7858137acae827ca84a574951/index.m3u8
-#EXTINF:-1 group-title="CCTV-Live1" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png",CCTV2
+#EXTINF:-1 group-title="CCTV-Live1" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png",CCTV2
 https://z02.ubtvfans.com/live/rx1/201/72c3320633f511d538db55c14a9fb809/index.m3u8
-#EXTINF:-1 group-title="CCTV-Live1" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png",CCTV2
+#EXTINF:-1 group-title="CCTV-Live1" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png",CCTV2
 https://z02.ubtvfans.com/live/rx1/2763/d09f8cc20e776c222438f52476bab03a/index.m3u8
-#EXTINF:-1 group-title="CCTV-Live1" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png",CCTV3
+#EXTINF:-1 group-title="CCTV-Live1" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png",CCTV3
 https://z02.ubtvfans.com/live/rx3/202/fc79bd267d53db86c843141d79588ab3/index.m3u8
-#EXTINF:-1 group-title="CCTV-Live1" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png",CCTV3
+#EXTINF:-1 group-title="CCTV-Live1" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png",CCTV3
 https://z02.ubtvfans.com/live/rx1/2808/184ae3594c7818808f852cc6988b4525/index.m3u8
-#EXTINF:-1 group-title="CCTV-Live1" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png",CCTV4
+#EXTINF:-1 group-title="CCTV-Live1" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png",CCTV4
 https://z02.ubtvfans.com/live/rx6/248/eddc8a9edeb7d06a4cd9491ff1c4c4a4/index.m3u8
-#EXTINF:-1 group-title="CCTV-Live1" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png",CCTV4
+#EXTINF:-1 group-title="CCTV-Live1" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png",CCTV4
 https://z02.ubtvfans.com/live/rx3/203/a90506bab6678c2b41ef34ae66a04425/index.m3u8
-#EXTINF:-1 group-title="CCTV-Live1" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png",CCTV4
+#EXTINF:-1 group-title="CCTV-Live1" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png",CCTV4
 https://z02.ubtvfans.com/live/rx1/2764/5dab88f91c31d691a2ec082226404cf1/index.m3u8
-#EXTINF:-1 group-title="CCTV-Live1" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png",CCTV5
+#EXTINF:-1 group-title="CCTV-Live1" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png",CCTV5
 https://z02.ubtvfans.com/live/rx1/204/7eb3bfaf347e514a453b161277aa01f3/index.m3u8
-#EXTINF:-1 group-title="CCTV-Live1" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png",CCTV5
+#EXTINF:-1 group-title="CCTV-Live1" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png",CCTV5
 https://z02.ubtvfans.com/live/rx1/2760/ef7b429ab611f4f754b38762aeaee07c/index.m3u8
-#EXTINF:-1 group-title="CCTV-Live1" tvg-name="CCTV5plus" tvg-logo="https://live.fanmingming.com/tv/CCTV5plus.png",CCTV5plus
+#EXTINF:-1 group-title="CCTV-Live1" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png",CCTV-5+
 https://z02.ubtvfans.com/live/rx1/205/bbae16a4af97900c4a075180f6d001f9/index.m3u8
-#EXTINF:-1 group-title="CCTV-Live1" tvg-name="CCTV5plus" tvg-logo="https://live.fanmingming.com/tv/CCTV5plus.png",CCTV5plus
+#EXTINF:-1 group-title="CCTV-Live1" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png",CCTV-5+
 https://z02.ubtvfans.com/live/rx1/2759/78abaaa94e5e5b85ca7e9c554abb50d1/index.m3u8
-#EXTINF:-1 group-title="CCTV-Live1" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",CCTV6
+#EXTINF:-1 group-title="CCTV-Live1" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",CCTV6
 https://z02.ubtvfans.com/live/rx1/206/22c8d0a177803e1a378082c851a16007/index.m3u8
-#EXTINF:-1 group-title="CCTV-Live1" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",CCTV6
+#EXTINF:-1 group-title="CCTV-Live1" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",CCTV6
 https://z02.ubtvfans.com/live/rx1/2758/8cb61b011e12f5097b0708e3a1913bb6/index.m3u8
-#EXTINF:-1 group-title="CCTV-Live1" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png",CCTV7
+#EXTINF:-1 group-title="CCTV-Live1" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png",CCTV7
 https://z02.ubtvfans.com/live/rx1/207/439e4808970949d57722eea042cfff77/index.m3u8
-#EXTINF:-1 group-title="CCTV-Live1" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png",CCTV7
+#EXTINF:-1 group-title="CCTV-Live1" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png",CCTV7
 https://z02.ubtvfans.com/live/rx1/2757/a75508a147ffe80a289d9674f341441d/index.m3u8
-#EXTINF:-1 group-title="CCTV-Live1" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png",CCTV8
+#EXTINF:-1 group-title="CCTV-Live1" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png",CCTV8
 https://z02.ubtvfans.com/live/rx1/208/c11e1abfdb3e38f2c3427a2d50622889/index.m3u8
-#EXTINF:-1 group-title="CCTV-Live1" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png",CCTV8
+#EXTINF:-1 group-title="CCTV-Live1" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png",CCTV8
 https://z02.ubtvfans.com/live/rx1/2756/3264b53dafea8b85576d0327cc68a6c8/index.m3u8
-#EXTINF:-1 group-title="CCTV-Live1" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png",CCTV9
+#EXTINF:-1 group-title="CCTV-Live1" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png",CCTV9
 https://z02.ubtvfans.com/live/rx1/2308/b9274dbd51113ace3244a6927beeeca3/index.m3u8
-#EXTINF:-1 group-title="CCTV-Live1" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png",CCTV9
+#EXTINF:-1 group-title="CCTV-Live1" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png",CCTV9
 https://z02.ubtvfans.com/live/rx1/209/a4ec75f7403274e6b091bef73881603b/index.m3u8
-#EXTINF:-1 group-title="CCTV-Live1" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png",CCTV10
+#EXTINF:-1 group-title="CCTV-Live1" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png",CCTV10
 https://z02.ubtvfans.com/live/rx1/210/a28130d460715803b16001174421cefd/index.m3u8
-#EXTINF:-1 group-title="CCTV-Live1" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png",CCTV11
+#EXTINF:-1 group-title="CCTV-Live1" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png",CCTV11
 https://z02.ubtvfans.com/live/rx1/2809/8305b7a0194bac43f9b4eac6a00a1824/index.m3u8
-#EXTINF:-1 group-title="CCTV-Live1" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png",CCTV11
+#EXTINF:-1 group-title="CCTV-Live1" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png",CCTV11
 https://z02.ubtvfans.com/live/rx1/211/38b8233ac67e474eff44b4acacf8cca2/index.m3u8
-#EXTINF:-1 group-title="CCTV-Live1" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png",CCTV12
+#EXTINF:-1 group-title="CCTV-Live1" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png",CCTV12
 https://z02.ubtvfans.com/live/rx1/212/b617c31586b3a320062ec62c7b4e93d5/index.m3u8
-#EXTINF:-1 group-title="CCTV-Live1" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png",CCTV12
+#EXTINF:-1 group-title="CCTV-Live1" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png",CCTV12
 https://z02.ubtvfans.com/live/rx3/2755/f9c4e398e4d37cc801b31981ab3f48ef/index.m3u8
-#EXTINF:-1 group-title="CCTV-Live1" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png",CCTV13
+#EXTINF:-1 group-title="CCTV-Live1" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png",CCTV13
 https://z02.ubtvfans.com/live/rx1/213/4985ed10e25b72869efa7f2f7b839f1a/index.m3u8
-#EXTINF:-1 group-title="CCTV-Live1" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png",CCTV13
+#EXTINF:-1 group-title="CCTV-Live1" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png",CCTV13
 https://z02.ubtvfans.com/live/rx1/2754/6af3790526c998efb530dbc9753488ed/index.m3u8
-#EXTINF:-1 group-title="CCTV-Live1" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png",CCTV14
+#EXTINF:-1 group-title="CCTV-Live1" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png",CCTV14
 https://z02.ubtvfans.com/live/rx1/214/263d5992b4318745a17263662c242200/index.m3u8
-#EXTINF:-1 group-title="CCTV-Live1" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png",CCTV14
+#EXTINF:-1 group-title="CCTV-Live1" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png",CCTV14
 https://z02.ubtvfans.com/live/rx1/2826/d67e1463762a9812875a58ce0777214a/index.m3u8
-#EXTINF:-1 group-title="CCTV-Live1" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png",CCTV15
+#EXTINF:-1 group-title="CCTV-Live1" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png",CCTV15
 https://z02.ubtvfans.com/live/rx1/215/f205393253508a0862e35601340344ef/index.m3u8
-#EXTINF:-1 group-title="CCTV-Live1" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png",CCTV16
+#EXTINF:-1 group-title="CCTV-Live1" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png",CCTV16
 https://z02.ubtvfans.com/live/rx1/2821/e00bc8abdb50b2a016e41028e1dffee2/index.m3u8
-#EXTINF:-1 group-title="卫视" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png",浙江卫视
+#EXTINF:-1 group-title="卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png",浙江卫视
 https://z02.ubtvfans.com/live/rx1/217/c92ed1fc7f9382552a0184d5e46fdbbc/index.m3u8
-#EXTINF:-1 group-title="卫视" tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png",江苏卫视
+#EXTINF:-1 group-title="卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png",江苏卫视
 https://z02.ubtvfans.com/live/rx1/2829/077e7af98e1de16de437dc2b20634eb0/index.m3u8
-#EXTINF:-1 group-title="卫视" tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png",江苏卫视
+#EXTINF:-1 group-title="卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png",江苏卫视
 https://z02.ubtvfans.com/live/rx1/218/de26a021175af7cdc84af7e842ed4c6e/index.m3u8
-#EXTINF:-1 group-title="卫视" tvg-name="南方卫视" tvg-logo="https://live.fanmingming.com/tv/南方卫视.png",南方卫视
+#EXTINF:-1 group-title="卫视" tvg-logo="https://live.fanmingming.com/tv/南方卫视.png",南方卫视
 https://z02.ubtvfans.com/live/rx1/219/a4076aa3ad46738502de3ef24ca930cd/index.m3u8
-#EXTINF:-1 group-title="卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png",北京卫视
+#EXTINF:-1 group-title="卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png",北京卫视
 https://z02.ubtvfans.com/live/rx1/220/de780f9f4581584d4c9cb4536ea5355f/index.m3u8
-#EXTINF:-1 group-title="卫视" tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png",广东卫视
+#EXTINF:-1 group-title="卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png",广东卫视
 https://z02.ubtvfans.com/live/rx1/231/4af913dbb7327724e4dfeaf41bfed24d/index.m3u8
-#EXTINF:-1 group-title="卫视" tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png",广东卫视
+#EXTINF:-1 group-title="卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png",广东卫视
 https://z02.ubtvfans.com/live/rx1/1499/146020831c5118e1fad955a8c38fc03f/index.m3u8
-#EXTINF:-1 group-title="卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png",东方卫视
+#EXTINF:-1 group-title="卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png",东方卫视
 https://z02.ubtvfans.com/live/rx1/224/c54ace8dbf76790c64f75dc561d1414a/index.m3u8
-#EXTINF:-1 group-title="卫视" tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png",河南卫视
+#EXTINF:-1 group-title="卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png",河南卫视
 https://z02.ubtvfans.com/live/rx1/225/037819bb33d6b7e900acc8e2302c1401/index.m3u8
-#EXTINF:-1 group-title="卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png",湖南卫视
+#EXTINF:-1 group-title="卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png",湖南卫视
 https://z02.ubtvfans.com/live/rx1/226/55a22545744461ea0ae4b1df0869aade/index.m3u8
-#EXTINF:-1 group-title="卫视" tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png",湖北卫视
+#EXTINF:-1 group-title="卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png",湖北卫视
 https://z02.ubtvfans.com/live/rx1/227/068b04781b056d2c3151648287ed6517/index.m3u8
-#EXTINF:-1 group-title="卫视" tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png",东南卫视
+#EXTINF:-1 group-title="卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png",东南卫视
 https://z02.ubtvfans.com/live/rx1/228/df0d0f989d2e07d9530a01d006320ea7/index.m3u8
-#EXTINF:-1 group-title="卫视" tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png",辽宁卫视
+#EXTINF:-1 group-title="卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png",辽宁卫视
 https://z02.ubtvfans.com/live/rx1/229/d82f9e1c481058d83aa4077519fe70c7/index.m3u8
-#EXTINF:-1 group-title="卫视" tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png",深圳卫视
+#EXTINF:-1 group-title="卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png",深圳卫视
 https://z02.ubtvfans.com/live/rx1/230/8e55252956b8db62fe71f0213262c4ad/index.m3u8
-#EXTINF:-1 group-title="卫视" tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png",安徽卫视
+#EXTINF:-1 group-title="卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png",安徽卫视
 https://z02.ubtvfans.com/live/rx1/232/37d076720cf1b27245d46398e1ccaef2/index.m3u8
-#EXTINF:-1 group-title="卫视" tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png",安徽卫视
+#EXTINF:-1 group-title="卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png",安徽卫视
 https://z02.ubtvfans.com/live/rx1/2830/6784d3e94e7e5ce76a21d9158379ca95/index.m3u8
-#EXTINF:-1 group-title="卫视" tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png",四川卫视
+#EXTINF:-1 group-title="卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png",四川卫视
 https://z02.ubtvfans.com/live/rx1/233/51e0ac8ddef10dc81035c0ea50fa3afc/index.m3u8
-#EXTINF:-1 group-title="卫视" tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png",山东卫视
+#EXTINF:-1 group-title="卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png",山东卫视
 https://z02.ubtvfans.com/live/rx1/234/19b243d3561bf3f7f8e9367065c9f44d/index.m3u8
-#EXTINF:-1 group-title="卫视" tvg-name="青田電視台" tvg-logo="https://live.fanmingming.com/tv/青田電視台.png",青田電視台
+#EXTINF:-1 group-title="卫视" tvg-logo="https://live.fanmingming.com/tv/青田電視台.png",青田電視台
 https://z02.ubtvfans.com/live/rx3/2295/ff7b3dbe71946107d166217b4a83db2f/index.m3u8
-#EXTINF:-1 group-title="卫视" tvg-name="天津衛視" tvg-logo="https://live.fanmingming.com/tv/天津衛視.png",天津衛視
+#EXTINF:-1 group-title="卫视" tvg-logo="https://live.fanmingming.com/tv/天津衛視.png",天津衛視
 https://z02.ubtvfans.com/live/rx1/1093/adeb7b360467105c8d33e687502e109b/index.m3u8
-#EXTINF:-1 group-title="卫视" tvg-name="江西衛視" tvg-logo="https://live.fanmingming.com/tv/江西衛視.png",江西衛視
+#EXTINF:-1 group-title="卫视" tvg-logo="https://live.fanmingming.com/tv/江西衛視.png",江西衛視
 https://z02.ubtvfans.com/live/rx1/1097/6e9413a31431921c54782277b6fb20bd/index.m3u8
-#EXTINF:-1 group-title="卫视" tvg-name="新疆衛視" tvg-logo="https://live.fanmingming.com/tv/新疆衛視.png",新疆衛視
+#EXTINF:-1 group-title="卫视" tvg-logo="https://live.fanmingming.com/tv/新疆衛視.png",新疆衛視
 https://z02.ubtvfans.com/live/rx1/1026/f132bd0fa604fc62e3dac4fee0c20ec2/index.m3u8
 #EXTINF:-1 group-title="CCTV-Live" tvg-name="CHC高清电影" tvg-logo="https://live.fanmingming.com/tv/CHC高清电影.png",CHC高清电影
 http://111.4.254.12/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226681/index.m3u8
