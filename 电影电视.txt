@@ -16,6 +16,8 @@ https://z02.ubtvfans.com/live/rx1/2764/5dab88f91c31d691a2ec082226404cf1/index.m3
 https://z02.ubtvfans.com/live/rx1/204/7eb3bfaf347e514a453b161277aa01f3/index.m3u8
 #EXTINF:-1 group-title="CCTV-Live" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png",CCTV-5+
 https://z02.ubtvfans.com/live/rx1/2759/78abaaa94e5e5b85ca7e9c554abb50d1/index.m3u8
+#EXTINF:-1 group-title="CCTV-Live" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png",CCTV16
+https://node1.olelive.com:6443/live/CCTV16HD_360/hls.m3u8
 #EXTINF:-1 group-title="CCTV-Live" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",CCTV6
 https://z02.ubtvfans.com/live/rx1/2758/8cb61b011e12f5097b0708e3a1913bb6/index.m3u8
 #EXTINF:-1 group-title="CCTV-Live" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png",CCTV7
@@ -30,6 +32,7 @@ https://z02.ubtvfans.com/live/rx3/2755/f9c4e398e4d37cc801b31981ab3f48ef/index.m3
 https://z02.ubtvfans.com/live/rx1/2754/6af3790526c998efb530dbc9753488ed/index.m3u8
 #EXTINF:-1 group-title="CCTV-Live" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png",CCTV14
 https://z02.ubtvfans.com/live/rx1/214/263d5992b4318745a17263662c242200/index.m3u8
+
 #EXTINF:-1 group-title="卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png",江苏卫视
 https://z02.ubtvfans.com/live/rx1/2829/077e7af98e1de16de437dc2b20634eb0/index.m3u8
 #EXTINF:-1 group-title="卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png",江苏卫视
