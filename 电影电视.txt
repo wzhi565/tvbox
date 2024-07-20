@@ -1,3 +1,4 @@
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #EXTINF:-1 group-title="4k" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png",CCTV-4k
 http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 #EXTINF:-1 group-title="4k" tvg-logo="https://live.fanmingming.com/tv/LOVE NATURE 4K.png",LOVE NATURE 4K
