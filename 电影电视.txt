@@ -502,145 +502,145 @@ https://live.metshop.top/yy/1382735626
 http://43.138.170.29:35455/yy/1351762426
 #EXTINF:-1 group-title="电视剧",笑傲江湖
 https://live.metshop.top/yy/1354936128
-#EXTINF:-1 tvg-name="第1集" tvg-logo="https://live.fanmingming.com/tv/第1集.png",第1集
+#EXTINF:-1 group-title="延禧攻略" tvg-name="第1集" tvg-logo="https://live.fanmingming.com/tv/第1集.png",第1集
 https://v7.tlkqc.com/wjv7/202309/07/7GNPtBWHHu1/video/index.m3u8
-#EXTINF:-1 tvg-name="第2集" tvg-logo="https://live.fanmingming.com/tv/第2集.png",第2集
+#EXTINF:-1 group-title="延禧攻略" tvg-name="第2集" tvg-logo="https://live.fanmingming.com/tv/第2集.png",第2集
 https://v7.tlkqc.com/wjv7/202309/07/fscLiZNJ4g1/video/index.m3u8
-#EXTINF:-1 tvg-name="第3集" tvg-logo="https://live.fanmingming.com/tv/第3集.png",第3集
+#EXTINF:-1 group-title="延禧攻略" tvg-name="第3集" tvg-logo="https://live.fanmingming.com/tv/第3集.png",第3集
 https://v7.tlkqc.com/wjv7/202309/07/px7vmCGWTM1/video/index.m3u8
-#EXTINF:-1 tvg-name="第4集" tvg-logo="https://live.fanmingming.com/tv/第4集.png",第4集
+#EXTINF:-1 group-title="延禧攻略" tvg-name="第4集" tvg-logo="https://live.fanmingming.com/tv/第4集.png",第4集
 https://v7.tlkqc.com/wjv7/202309/07/nm1vJGUhKQ1/video/index.m3u8
-#EXTINF:-1 tvg-name="第5集" tvg-logo="https://live.fanmingming.com/tv/第5集.png",第5集
+#EXTINF:-1 group-title="延禧攻略" tvg-name="第5集" tvg-logo="https://live.fanmingming.com/tv/第5集.png",第5集
 https://v7.tlkqc.com/wjv7/202309/07/7wSkpWfXm41/video/index.m3u8
-#EXTINF:-1 tvg-name="第6集" tvg-logo="https://live.fanmingming.com/tv/第6集.png",第6集
+#EXTINF:-1 group-title="延禧攻略" tvg-name="第6集" tvg-logo="https://live.fanmingming.com/tv/第6集.png",第6集
 https://v7.tlkqc.com/wjv7/202309/07/HJG03JgnZr1/video/index.m3u8
-#EXTINF:-1 tvg-name="第7集" tvg-logo="https://live.fanmingming.com/tv/第7集.png",第7集
+#EXTINF:-1 group-title="延禧攻略" tvg-name="第7集" tvg-logo="https://live.fanmingming.com/tv/第7集.png",第7集
 https://v7.tlkqc.com/wjv7/202309/07/jn7iMLCPP71/video/index.m3u8
-#EXTINF:-1 tvg-name="第8集" tvg-logo="https://live.fanmingming.com/tv/第8集.png",第8集
+#EXTINF:-1 group-title="延禧攻略" tvg-name="第8集" tvg-logo="https://live.fanmingming.com/tv/第8集.png",第8集
 https://v7.tlkqc.com/wjv7/202309/07/fqgf98G0F91/video/index.m3u8
-#EXTINF:-1 tvg-name="第9集" tvg-logo="https://live.fanmingming.com/tv/第9集.png",第9集
+#EXTINF:-1 group-title="延禧攻略" tvg-name="第9集" tvg-logo="https://live.fanmingming.com/tv/第9集.png",第9集
 https://v7.tlkqc.com/wjv7/202309/07/nWL4NRX4Pf1/video/index.m3u8
-#EXTINF:-1 tvg-name="第10集" tvg-logo="https://live.fanmingming.com/tv/第10集.png",第10集
+#EXTINF:-1 group-title="延禧攻略" tvg-name="第10集" tvg-logo="https://live.fanmingming.com/tv/第10集.png",第10集
 https://v4.tlkqc.com/wjv4/202308/26/0HeTNx83Z71/video/index.m3u8
-#EXTINF:-1 tvg-name="第11集" tvg-logo="https://live.fanmingming.com/tv/第11集.png",第11集
+#EXTINF:-1 group-title="延禧攻略" tvg-name="第11集" tvg-logo="https://live.fanmingming.com/tv/第11集.png",第11集
 https://v4.tlkqc.com/wjv4/202308/26/ZwSkkBbd3Q1/video/index.m3u8
-#EXTINF:-1 tvg-name="第12集" tvg-logo="https://live.fanmingming.com/tv/第12集.png",第12集
+#EXTINF:-1 group-title="延禧攻略" tvg-name="第12集" tvg-logo="https://live.fanmingming.com/tv/第12集.png",第12集
 https://v4.tlkqc.com/wjv4/202308/26/8FMF5jk3A61/video/index.m3u8
-#EXTINF:-1 tvg-name="第13集" tvg-logo="https://live.fanmingming.com/tv/第13集.png",第13集
+#EXTINF:-1 group-title="延禧攻略" tvg-name="第13集" tvg-logo="https://live.fanmingming.com/tv/第13集.png",第13集
 https://v4.tlkqc.com/wjv4/202308/26/BjKLkn9QBp1/video/index.m3u8
-#EXTINF:-1 tvg-name="第14集" tvg-logo="https://live.fanmingming.com/tv/第14集.png",第14集
+#EXTINF:-1 group-title="延禧攻略" tvg-name="第14集" tvg-logo="https://live.fanmingming.com/tv/第14集.png",第14集
 https://v4.tlkqc.com/wjv4/202308/26/5YVUZi2wKH1/video/index.m3u8
-#EXTINF:-1 tvg-name="第15集" tvg-logo="https://live.fanmingming.com/tv/第15集.png",第15集
+#EXTINF:-1 group-title="延禧攻略" tvg-name="第15集" tvg-logo="https://live.fanmingming.com/tv/第15集.png",第15集
 https://v4.tlkqc.com/wjv4/202308/26/SaArgasnXv1/video/index.m3u8
-#EXTINF:-1 tvg-name="第16集" tvg-logo="https://live.fanmingming.com/tv/第16集.png",第16集
+#EXTINF:-1 group-title="延禧攻略" tvg-name="第16集" tvg-logo="https://live.fanmingming.com/tv/第16集.png",第16集
 https://v4.tlkqc.com/wjv4/202308/26/6c8MWCHfJ11/video/index.m3u8
-#EXTINF:-1 tvg-name="第17集" tvg-logo="https://live.fanmingming.com/tv/第17集.png",第17集
+#EXTINF:-1 group-title="延禧攻略" tvg-name="第17集" tvg-logo="https://live.fanmingming.com/tv/第17集.png",第17集
 https://v7.tlkqc.com/wjv7/202309/07/rXyPDmfAHL1/video/index.m3u8
-#EXTINF:-1 tvg-name="第18集" tvg-logo="https://live.fanmingming.com/tv/第18集.png",第18集
+#EXTINF:-1 group-title="延禧攻略" tvg-name="第18集" tvg-logo="https://live.fanmingming.com/tv/第18集.png",第18集
 https://v7.tlkqc.com/wjv7/202309/07/zv7FaVpEx71/video/index.m3u8
-#EXTINF:-1 tvg-name="第19集" tvg-logo="https://live.fanmingming.com/tv/第19集.png",第19集
+#EXTINF:-1 group-title="延禧攻略" tvg-name="第19集" tvg-logo="https://live.fanmingming.com/tv/第19集.png",第19集
 https://v7.tlkqc.com/wjv7/202309/07/6DJNmXJiwD1/video/index.m3u8
-#EXTINF:-1 tvg-name="第20集" tvg-logo="https://live.fanmingming.com/tv/第20集.png",第20集
+#EXTINF:-1 group-title="延禧攻略" tvg-name="第20集" tvg-logo="https://live.fanmingming.com/tv/第20集.png",第20集
 https://v7.tlkqc.com/wjv7/202309/07/bnvpmfb6q41/video/index.m3u8
-#EXTINF:-1 tvg-name="第21集" tvg-logo="https://live.fanmingming.com/tv/第21集.png",第21集
+#EXTINF:-1 group-title="延禧攻略" tvg-name="第21集" tvg-logo="https://live.fanmingming.com/tv/第21集.png",第21集
 https://v7.tlkqc.com/wjv7/202309/07/TrfYVMnCDp1/video/index.m3u8
-#EXTINF:-1 tvg-name="第22集" tvg-logo="https://live.fanmingming.com/tv/第22集.png",第22集
+#EXTINF:-1 group-title="延禧攻略" tvg-name="第22集" tvg-logo="https://live.fanmingming.com/tv/第22集.png",第22集
 https://v4.tlkqc.com/wjv4/202308/26/d3cp7C4e0P1/video/index.m3u8
-#EXTINF:-1 tvg-name="第23集" tvg-logo="https://live.fanmingming.com/tv/第23集.png",第23集
+#EXTINF:-1 group-title="延禧攻略" tvg-name="第23集" tvg-logo="https://live.fanmingming.com/tv/第23集.png",第23集
 https://v4.tlkqc.com/wjv4/202308/26/dKYM5CFKA71/video/index.m3u8
-#EXTINF:-1 tvg-name="第24集" tvg-logo="https://live.fanmingming.com/tv/第24集.png",第24集
+#EXTINF:-1 group-title="延禧攻略" tvg-name="第24集" tvg-logo="https://live.fanmingming.com/tv/第24集.png",第24集
 https://v4.tlkqc.com/wjv4/202308/26/0XNHxA2EZz1/video/index.m3u8
-#EXTINF:-1 tvg-name="第25集" tvg-logo="https://live.fanmingming.com/tv/第25集.png",第25集
+#EXTINF:-1 group-title="延禧攻略" tvg-name="第25集" tvg-logo="https://live.fanmingming.com/tv/第25集.png",第25集
 https://v4.tlkqc.com/wjv4/202308/26/pn4hSNaLaB1/video/index.m3u8
-#EXTINF:-1 tvg-name="第26集" tvg-logo="https://live.fanmingming.com/tv/第26集.png",第26集
+#EXTINF:-1 group-title="延禧攻略" tvg-name="第26集" tvg-logo="https://live.fanmingming.com/tv/第26集.png",第26集
 https://v4.tlkqc.com/wjv4/202308/26/yLqWZCqShi1/video/index.m3u8
-#EXTINF:-1 tvg-name="第27集" tvg-logo="https://live.fanmingming.com/tv/第27集.png",第27集
+#EXTINF:-1 group-title="延禧攻略" tvg-name="第27集" tvg-logo="https://live.fanmingming.com/tv/第27集.png",第27集
 https://v7.tlkqc.com/wjv7/202309/07/70UTtvKx6c1/video/index.m3u8
-#EXTINF:-1 tvg-name="第28集" tvg-logo="https://live.fanmingming.com/tv/第28集.png",第28集
+#EXTINF:-1 group-title="延禧攻略" tvg-name="第28集" tvg-logo="https://live.fanmingming.com/tv/第28集.png",第28集
 https://v4.tlkqc.com/wjv4/202308/26/sfin7vP8nM1/video/index.m3u8
-#EXTINF:-1 tvg-name="第29集" tvg-logo="https://live.fanmingming.com/tv/第29集.png",第29集
+#EXTINF:-1 group-title="延禧攻略" tvg-name="第29集" tvg-logo="https://live.fanmingming.com/tv/第29集.png",第29集
 https://v7.tlkqc.com/wjv7/202309/07/2evLTN0QRF1/video/index.m3u8
-#EXTINF:-1 tvg-name="第30集" tvg-logo="https://live.fanmingming.com/tv/第30集.png",第30集
+#EXTINF:-1 group-title="延禧攻略" tvg-name="第30集" tvg-logo="https://live.fanmingming.com/tv/第30集.png",第30集
 https://v4.tlkqc.com/wjv4/202308/26/vz7nAa07rt1/video/index.m3u8
-#EXTINF:-1 tvg-name="第31集" tvg-logo="https://live.fanmingming.com/tv/第31集.png",第31集
+#EXTINF:-1 group-title="延禧攻略" tvg-name="第31集" tvg-logo="https://live.fanmingming.com/tv/第31集.png",第31集
 https://v7.tlkqc.com/wjv7/202309/07/DqtNbMCV0H1/video/index.m3u8
-#EXTINF:-1 tvg-name="第32集" tvg-logo="https://live.fanmingming.com/tv/第32集.png",第32集
+#EXTINF:-1 group-title="延禧攻略" tvg-name="第32集" tvg-logo="https://live.fanmingming.com/tv/第32集.png",第32集
 https://v4.tlkqc.com/wjv4/202308/26/iJHqbwKcTr1/video/index.m3u8
-#EXTINF:-1 tvg-name="第33集" tvg-logo="https://live.fanmingming.com/tv/第33集.png",第33集
+#EXTINF:-1 group-title="延禧攻略" tvg-name="第33集" tvg-logo="https://live.fanmingming.com/tv/第33集.png",第33集
 https://v4.tlkqc.com/wjv4/202308/26/4aTXhQAk1Z1/video/index.m3u8
-#EXTINF:-1 tvg-name="第34集" tvg-logo="https://live.fanmingming.com/tv/第34集.png",第34集
+#EXTINF:-1 group-title="延禧攻略" tvg-name="第34集" tvg-logo="https://live.fanmingming.com/tv/第34集.png",第34集
 https://v4.tlkqc.com/wjv4/202308/26/GZa6SXYyw81/video/index.m3u8
-#EXTINF:-1 tvg-name="第35集" tvg-logo="https://live.fanmingming.com/tv/第35集.png",第35集
+#EXTINF:-1 group-title="延禧攻略" tvg-name="第35集" tvg-logo="https://live.fanmingming.com/tv/第35集.png",第35集
 https://v7.tlkqc.com/wjv7/202309/07/09XSwZmRFC1/video/index.m3u8
-#EXTINF:-1 tvg-name="第36集" tvg-logo="https://live.fanmingming.com/tv/第36集.png",第36集
+#EXTINF:-1 group-title="延禧攻略" tvg-name="第36集" tvg-logo="https://live.fanmingming.com/tv/第36集.png",第36集
 https://v4.tlkqc.com/wjv4/202308/26/UkfYsUMyBr1/video/index.m3u8
-#EXTINF:-1 tvg-name="第37集" tvg-logo="https://live.fanmingming.com/tv/第37集.png",第37集
+#EXTINF:-1 group-title="延禧攻略" tvg-name="第37集" tvg-logo="https://live.fanmingming.com/tv/第37集.png",第37集
 https://v7.tlkqc.com/wjv7/202309/07/Q369Qu8d661/video/index.m3u8
-#EXTINF:-1 tvg-name="第38集" tvg-logo="https://live.fanmingming.com/tv/第38集.png",第38集
+#EXTINF:-1 group-title="延禧攻略" tvg-name="第38集" tvg-logo="https://live.fanmingming.com/tv/第38集.png",第38集
 https://v7.tlkqc.com/wjv7/202309/07/T4YWwMixcv1/video/index.m3u8
-#EXTINF:-1 tvg-name="第39集" tvg-logo="https://live.fanmingming.com/tv/第39集.png",第39集
+#EXTINF:-1 group-title="延禧攻略" tvg-name="第39集" tvg-logo="https://live.fanmingming.com/tv/第39集.png",第39集
 https://v7.tlkqc.com/wjv7/202309/07/zCa6TSngx81/video/index.m3u8
-#EXTINF:-1 tvg-name="第40集" tvg-logo="https://live.fanmingming.com/tv/第40集.png",第40集
+#EXTINF:-1 group-title="延禧攻略" tvg-name="第40集" tvg-logo="https://live.fanmingming.com/tv/第40集.png",第40集
 https://v7.tlkqc.com/wjv7/202309/07/YxbFNVdypP1/video/index.m3u8
-#EXTINF:-1 tvg-name="第41集" tvg-logo="https://live.fanmingming.com/tv/第41集.png",第41集
+#EXTINF:-1 group-title="延禧攻略" tvg-name="第41集" tvg-logo="https://live.fanmingming.com/tv/第41集.png",第41集
 https://v7.tlkqc.com/wjv7/202309/07/XutSK0ET3C1/video/index.m3u8
-#EXTINF:-1 tvg-name="第42集" tvg-logo="https://live.fanmingming.com/tv/第42集.png",第42集
+#EXTINF:-1 group-title="延禧攻略" tvg-name="第42集" tvg-logo="https://live.fanmingming.com/tv/第42集.png",第42集
 https://v4.tlkqc.com/wjv4/202308/26/XeY83f5mqS1/video/index.m3u8
-#EXTINF:-1 tvg-name="第43集" tvg-logo="https://live.fanmingming.com/tv/第43集.png",第43集
+#EXTINF:-1 group-title="延禧攻略" tvg-name="第43集" tvg-logo="https://live.fanmingming.com/tv/第43集.png",第43集
 https://v7.tlkqc.com/wjv7/202309/07/jwTPPPWZD11/video/index.m3u8
-#EXTINF:-1 tvg-name="第44集" tvg-logo="https://live.fanmingming.com/tv/第44集.png",第44集
+#EXTINF:-1 group-title="延禧攻略" tvg-name="第44集" tvg-logo="https://live.fanmingming.com/tv/第44集.png",第44集
 https://v7.tlkqc.com/wjv7/202309/07/1dULb7hRcm1/video/index.m3u8
-#EXTINF:-1 tvg-name="第45集" tvg-logo="https://live.fanmingming.com/tv/第45集.png",第45集
+#EXTINF:-1 group-title="延禧攻略" tvg-name="第45集" tvg-logo="https://live.fanmingming.com/tv/第45集.png",第45集
 https://v7.tlkqc.com/wjv7/202309/07/KxNVeu9Ecs1/video/index.m3u8
-#EXTINF:-1 tvg-name="第46集" tvg-logo="https://live.fanmingming.com/tv/第46集.png",第46集
+#EXTINF:-1 group-title="延禧攻略" tvg-name="第46集" tvg-logo="https://live.fanmingming.com/tv/第46集.png",第46集
 https://v4.tlkqc.com/wjv4/202308/26/T0yxi1ZBBU1/video/index.m3u8
-#EXTINF:-1 tvg-name="第47集" tvg-logo="https://live.fanmingming.com/tv/第47集.png",第47集
+#EXTINF:-1 group-title="延禧攻略" tvg-name="第47集" tvg-logo="https://live.fanmingming.com/tv/第47集.png",第47集
 https://v7.tlkqc.com/wjv7/202309/07/XrScq6SZCk1/video/index.m3u8
-#EXTINF:-1 tvg-name="第48集" tvg-logo="https://live.fanmingming.com/tv/第48集.png",第48集
+#EXTINF:-1 group-title="延禧攻略" tvg-name="第48集" tvg-logo="https://live.fanmingming.com/tv/第48集.png",第48集
 https://v7.tlkqc.com/wjv7/202309/07/KUDY5JGx0P1/video/index.m3u8
-#EXTINF:-1 tvg-name="第49集" tvg-logo="https://live.fanmingming.com/tv/第49集.png",第49集
+#EXTINF:-1 group-title="延禧攻略" tvg-name="第49集" tvg-logo="https://live.fanmingming.com/tv/第49集.png",第49集
 https://v7.tlkqc.com/wjv7/202309/07/uXgchVUV1i1/video/index.m3u8
-#EXTINF:-1 tvg-name="第50集" tvg-logo="https://live.fanmingming.com/tv/第50集.png",第50集
+#EXTINF:-1 group-title="延禧攻略" tvg-name="第50集" tvg-logo="https://live.fanmingming.com/tv/第50集.png",第50集
 https://v7.tlkqc.com/wjv7/202309/07/kVAHAikadu1/video/index.m3u8
-#EXTINF:-1 tvg-name="第51集" tvg-logo="https://live.fanmingming.com/tv/第51集.png",第51集
+#EXTINF:-1 group-title="延禧攻略" tvg-name="第51集" tvg-logo="https://live.fanmingming.com/tv/第51集.png",第51集
 https://v7.tlkqc.com/wjv7/202309/07/wcdHXmYErE1/video/index.m3u8
-#EXTINF:-1 tvg-name="第52集" tvg-logo="https://live.fanmingming.com/tv/第52集.png",第52集
+#EXTINF:-1 group-title="延禧攻略" tvg-name="第52集" tvg-logo="https://live.fanmingming.com/tv/第52集.png",第52集
 https://v7.tlkqc.com/wjv7/202309/07/zQ0XLhzG6G1/video/index.m3u8
-#EXTINF:-1 tvg-name="第53集" tvg-logo="https://live.fanmingming.com/tv/第53集.png",第53集
+#EXTINF:-1 group-title="延禧攻略" tvg-name="第53集" tvg-logo="https://live.fanmingming.com/tv/第53集.png",第53集
 https://v4.tlkqc.com/wjv4/202308/26/e2XFfmjtuH1/video/index.m3u8
-#EXTINF:-1 tvg-name="第54集" tvg-logo="https://live.fanmingming.com/tv/第54集.png",第54集
+#EXTINF:-1 group-title="延禧攻略" tvg-name="第54集" tvg-logo="https://live.fanmingming.com/tv/第54集.png",第54集
 https://v7.tlkqc.com/wjv7/202309/07/CDyX3tAmpT1/video/index.m3u8
-#EXTINF:-1 tvg-name="第55集" tvg-logo="https://live.fanmingming.com/tv/第55集.png",第55集
+#EXTINF:-1 group-title="延禧攻略" tvg-name="第55集" tvg-logo="https://live.fanmingming.com/tv/第55集.png",第55集
 https://v4.tlkqc.com/wjv4/202308/26/FwWGKFmyuM1/video/index.m3u8
-#EXTINF:-1 tvg-name="第56集" tvg-logo="https://live.fanmingming.com/tv/第56集.png",第56集
+#EXTINF:-1 group-title="延禧攻略" tvg-name="第56集" tvg-logo="https://live.fanmingming.com/tv/第56集.png",第56集
 https://v4.tlkqc.com/wjv4/202308/27/Wp8ck8FKnx1/video/index.m3u8
-#EXTINF:-1 tvg-name="第57集" tvg-logo="https://live.fanmingming.com/tv/第57集.png",第57集
+#EXTINF:-1 group-title="延禧攻略" tvg-name="第57集" tvg-logo="https://live.fanmingming.com/tv/第57集.png",第57集
 https://v4.tlkqc.com/wjv4/202308/26/pBx0u8s1gX1/video/index.m3u8
-#EXTINF:-1 tvg-name="第58集" tvg-logo="https://live.fanmingming.com/tv/第58集.png",第58集
+#EXTINF:-1 group-title="延禧攻略" tvg-name="第58集" tvg-logo="https://live.fanmingming.com/tv/第58集.png",第58集
 https://v7.tlkqc.com/wjv7/202309/07/iuJ26hAdhY1/video/index.m3u8
-#EXTINF:-1 tvg-name="第59集" tvg-logo="https://live.fanmingming.com/tv/第59集.png",第59集
+#EXTINF:-1 group-title="延禧攻略" tvg-name="第59集" tvg-logo="https://live.fanmingming.com/tv/第59集.png",第59集
 https://v7.tlkqc.com/wjv7/202309/07/waUAJ0u0r71/video/index.m3u8
-#EXTINF:-1 tvg-name="第60集" tvg-logo="https://live.fanmingming.com/tv/第60集.png",第60集
+#EXTINF:-1 group-title="延禧攻略" tvg-name="第60集" tvg-logo="https://live.fanmingming.com/tv/第60集.png",第60集
 https://v4.tlkqc.com/wjv4/202308/27/K7w05ZWTkt1/video/index.m3u8
-#EXTINF:-1 tvg-name="第61集" tvg-logo="https://live.fanmingming.com/tv/第61集.png",第61集
+#EXTINF:-1 group-title="延禧攻略" tvg-name="第61集" tvg-logo="https://live.fanmingming.com/tv/第61集.png",第61集
 https://v4.tlkqc.com/wjv4/202308/27/m9Qwz2LKP71/video/index.m3u8
-#EXTINF:-1 tvg-name="第62集" tvg-logo="https://live.fanmingming.com/tv/第62集.png",第62集
+#EXTINF:-1 group-title="延禧攻略" tvg-name="第62集" tvg-logo="https://live.fanmingming.com/tv/第62集.png",第62集
 https://v7.tlkqc.com/wjv7/202309/07/SmXxBpWJZa1/video/index.m3u8
-#EXTINF:-1 tvg-name="第63集" tvg-logo="https://live.fanmingming.com/tv/第63集.png",第63集
+#EXTINF:-1 group-title="延禧攻略" tvg-name="第63集" tvg-logo="https://live.fanmingming.com/tv/第63集.png",第63集
 https://v4.tlkqc.com/wjv4/202308/27/AuvYqwy7dx1/video/index.m3u8
-#EXTINF:-1 tvg-name="第64集" tvg-logo="https://live.fanmingming.com/tv/第64集.png",第64集
+#EXTINF:-1 group-title="延禧攻略" tvg-name="第64集" tvg-logo="https://live.fanmingming.com/tv/第64集.png",第64集
 https://v7.tlkqc.com/wjv7/202309/07/HPFECngmiV1/video/index.m3u8
-#EXTINF:-1 tvg-name="第65集" tvg-logo="https://live.fanmingming.com/tv/第65集.png",第65集
+#EXTINF:-1 group-title="延禧攻略" tvg-name="第65集" tvg-logo="https://live.fanmingming.com/tv/第65集.png",第65集
 https://v7.tlkqc.com/wjv7/202309/07/XZ7gdSm90V1/video/index.m3u8
-#EXTINF:-1 tvg-name="第66集" tvg-logo="https://live.fanmingming.com/tv/第66集.png",第66集
+#EXTINF:-1 group-title="延禧攻略" tvg-name="第66集" tvg-logo="https://live.fanmingming.com/tv/第66集.png",第66集
 https://v7.tlkqc.com/wjv7/202309/07/Dgmz5MS1081/video/index.m3u8
-#EXTINF:-1 tvg-name="第67集" tvg-logo="https://live.fanmingming.com/tv/第67集.png",第67集
+#EXTINF:-1 group-title="延禧攻略" tvg-name="第67集" tvg-logo="https://live.fanmingming.com/tv/第67集.png",第67集
 https://v7.tlkqc.com/wjv7/202309/07/YigEE7GTqv1/video/index.m3u8
-#EXTINF:-1 tvg-name="第68集" tvg-logo="https://live.fanmingming.com/tv/第68集.png",第68集
+#EXTINF:-1 group-title="延禧攻略" tvg-name="第68集" tvg-logo="https://live.fanmingming.com/tv/第68集.png",第68集
 https://v7.tlkqc.com/wjv7/202309/07/tQn6C1pL4Y1/video/index.m3u8
-#EXTINF:-1 tvg-name="第69集" tvg-logo="https://live.fanmingming.com/tv/第69集.png",第69集
+#EXTINF:-1 group-title="延禧攻略" tvg-name="第69集" tvg-logo="https://live.fanmingming.com/tv/第69集.png",第69集
 https://v7.tlkqc.com/wjv7/202309/07/mjAF054Sis1/video/index.m3u8
-#EXTINF:-1 tvg-name="第70集" tvg-logo="https://live.fanmingming.com/tv/第70集.png",第70集
+#EXTINF:-1 group-title="延禧攻略" tvg-name="第70集" tvg-logo="https://live.fanmingming.com/tv/第70集.png",第70集
 https://v4.tlkqc.com/wjv4/202308/27/2ecYZACFp21/video/index.m3u8
 #EXTINF:-1 group-title="正阳门下",tvg-name="第01集" tvg-logo="https://live.fanmingming.com/tv/第01集.png",第01集
 https://m3u.haiwaikan.com/xm3u8/735f5eed2c11dc9d2f559f92fa073d367bcfa998e544697fbb226e49622d4f8d9921f11e97d0da21.m3u8
