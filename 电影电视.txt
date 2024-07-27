@@ -54,8 +54,6 @@ http://59.44.102.18:8888/newlive/live/hls/4/live.m3u8
 #EXTINF:-1 group-title="CCTV-GROUP2" tvg-logo="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png",CCTV4
 http://59.44.102.18:8888/newlive/live/hls/5/live.m3u8
 #EXTINF:-1 group-title="CCTV-GROUP2" tvg-logo="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png",CCTV5
-https://node1.olelive.com:6443/live/CCTV5HD_360.live.flv?token=a1c00873a0a110b54591d2ea50330f14
-#EXTINF:-1 group-title="CCTV-GROUP2" tvg-logo="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png",CCTV5
 http://59.44.102.18:8888/newlive/live/hls/6/live.m3u8
 #EXTINF:-1 group-title="CCTV-GROUP2" tvg-logo="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png",CCTV5+
 http://59.44.102.18:8888/newlive/live/hls/7/live.m3u8
