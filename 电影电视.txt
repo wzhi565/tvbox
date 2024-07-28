@@ -16,7 +16,7 @@ https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8?token=a1c00273a0a115b54591
 #EXTINF:-1 group-title="CCTV-GROUP0" tvg-id="CCTV-5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png",CCTV-5+
 https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8?token=a1c00073a0a115b54591d1ea50333c14
 #EXTINF:-1 group-title="CCTV-GROUP0" tvg-logo="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png",CCTV16
-https://node1.olelive.com:6443/live/CCTV16HD/hls.m3u8?token=a1c00173a0a114b54591d0ea50333714
+https://node1.olelive.com:6443/live/CCTV16HD/hls.m3u8?token=a1c00073a0a11cb54591d5ea50333414
 #EXTINF:-1 group-title="CCTV-GROUP0" tvg-id="CCTV-8电视剧" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png",CCTV-8电视剧
 https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8?token=a1c00073a0a116b54591d7ea50333314
 #EXTINF:-1 group-title="CCTV-GROUP0" tvg-id="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png",辽宁卫视
