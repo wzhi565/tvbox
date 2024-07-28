@@ -8,9 +8,9 @@ https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8?token=a1c00173a0a110b54591d
 #EXTINF:-1 group-title="CCTV-GROUP0" tvg-id="CCTV-2财经" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png",CCTV-2财经
 https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8?token=a1c00073a0a116b54591d4ea50333714
 #EXTINF:-1 group-title="CCTV-GROUP0" tvg-id="CCTV-5体育" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png",CCTV-5体育
-https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8?token=a1c00073a0a112b54591daea50333114
+https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8?token=a1c00273a0a111b54591dcea50333014
 #EXTINF:-1 group-title="CCTV-GROUP0" tvg-id="CCTV-5体育" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png",CCTV-5体育
-https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8?token=a1c00273a0a11cb54591dfea50332314
+https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8?token=a1c00073a0a112b54591daea50333114
 #EXTINF:-1 group-title="CCTV-GROUP0" tvg-id="CCTV-5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png",CCTV-5+
 https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8?token=a1c00273a0a115b54591d1ea50333c14
 #EXTINF:-1 group-title="CCTV-GROUP0" tvg-id="CCTV-5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png",CCTV-5+
