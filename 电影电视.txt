@@ -27,6 +27,8 @@ hhttps://node1.olelive.com:6443/live/LIAONINGHD/hls.m3u8?token=a1c00473a0a11ab54
 https://node1.olelive.com:6443/live/ZHEJIANGHD/hls.m3u8?token=a1c00473a0a118b54591e8ea50332714
 #EXTINF:-1 group-title="CCTV-GROUP0" tvg-id="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png",广东卫视
 https://node1.olelive.com:6443/live/GUANGDONGHD/hls.m3u8?token=a1c00473a0a118b54591eaea50332614
+#EXTINF:-1 group-title="CCTV-GROUP0" tvg-id="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png",湖南卫视
+https://node1.olelive.com:6443/live/HUNANHD.live.flv?token=a1c00273a0a11db54591e8ea50332a14
 #EXTINF:-1 group-title="CCTV-GROUP1" tvg-id="CCTV-1综合" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV-1综合
 https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8?token=a1c00173a0a110b54591d4ea50333314
 #EXTINF:-1 group-title="CCTV-GROUP1" tvg-id="CCTV-1综合" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV-1综合
