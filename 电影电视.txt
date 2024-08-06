@@ -6,7 +6,7 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="CCTV-GROUP0" tvg-id="CCTV-1综合" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV-1综合
 https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8?token=9fb0288352f1021d4631d7d72f932dc1
 #EXTINF:-1 group-title="CCTV-GROUP0" tvg-id="CCTV-2财经" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png",CCTV-2财经
-https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8?token=a1c00073a0a138b54591feea50333114
+https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8?token=9fb0288352f1041d4631d0d72f932cc1
 #EXTINF:-1 group-title="CCTV-GROUP0" tvg-id="CCTV-5体育" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png",CCTV-5体育
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8?token=9fb0288352f1011d4631d0d72f932ec1
 #EXTINF:-1 group-title="CCTV-GROUP0" tvg-id="CCTV-5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png",CCTV-5+
