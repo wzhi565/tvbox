@@ -3,6 +3,8 @@
 http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 #EXTINF:-1 group-title="4k" tvg-logo="https://live.fanmingming.com/tv/LOVE NATURE 4K.png",LOVE NATURE 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="CCTV-GROUP0" tvg-id="抓娃娃" tvg-logo="https://live.fanmingming.com/tv/抓娃娃.png",抓娃娃
+https://europe.olemovienews.com/ts3/20240813/BuIuEzHp/mp4/BuIuEzHp.mp4/master.m3u8
 #EXTINF:-1 group-title="CCTV-GROUP0" tvg-id="CCTV-1综合" tvg-logo="https://live.fanmingming.com/tv/闭幕式.png",闭幕式
 https://vod.olelive.com:2053/hls/tv/5/VA9RANtxeFwGRWMdpw3jCMrJXt9JCFk2cNGoM-zAxPG0qsW1QHU2YXkQSf2pVWRNRmshE0EM6_yHHPa_9cPT1902AQOJUcP2Xj3N0NOvLnOhjXtiJAzVaoiXDSLMl8k_/index-v1-a1.m3u8
 #EXTINF:-1 group-title="CCTV-GROUP0" tvg-id="CCTV-1综合" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV-1综合
