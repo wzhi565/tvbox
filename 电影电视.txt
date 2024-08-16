@@ -26,13 +26,13 @@ https://node1.olelive.com:6443/live/CCTV9HD.live.flv?token=a1c00073a0a13fb54591f
 #EXTINF:-1 group-title="CCTV-GROUP0" tvg-logo="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png",CCTV13
 https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8?token=a1c00373a0a13cb54591f8ea50337814
 #EXTINF:-1 group-title="CCTV-GROUP0" tvg-id="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png",辽宁卫视
-hhttps://node1.olelive.com:6443/live/LIAONINGHD/hls.m3u8?token=a1c00473a0a11ab54591e8ea50332014
+hhttps://node1.olelive.com:6443/live/LIAONINGHD/hls.m3u8?token=a1c00873a0a132b54591f3ea50337b14
 #EXTINF:-1 group-title="CCTV-GROUP0" tvg-id="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png",浙江卫视
-https://node1.olelive.com:6443/live/ZHEJIANGHD/hls.m3u8?token=a1c00473a0a118b54591e8ea50332714
+https://node1.olelive.com:6443/live/ZHEJIANGHD/hls.m3u8?token=a1c00973a0a130b54591f0ea50337b14
 #EXTINF:-1 group-title="CCTV-GROUP0" tvg-id="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png",广东卫视
-https://node1.olelive.com:6443/live/GUANGDONGHD/hls.m3u8?token=a1c00473a0a118b54591eaea50332614
+https://node1.olelive.com:6443/live/GUANGDONGHD/hls.m3u8?token=a1c00873a0a133b54591f0ea50337a14
 #EXTINF:-1 group-title="CCTV-GROUP0" tvg-id="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png",湖南卫视
-https://node1.olelive.com:6443/live/HUNANHD.live.flv?token=a1c00673a0a120b54591d1ea50331114
+https://node1.olelive.com:6443/live/HUNANHD.live.flv?token=a1c00873a0a132b54591f0ea50337914
 #EXTINF:-1 group-title="CCTV-GROUP1" tvg-id="CCTV-1综合" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV-1综合
 https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8?token=a1c00173a0a110b54591d4ea50333314
 #EXTINF:-1 group-title="CCTV-GROUP1" tvg-id="CCTV-1综合" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV-1综合
