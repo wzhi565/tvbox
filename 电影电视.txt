@@ -7,6 +7,8 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 https://europe.olemovienews.com/ts3/20240813/BuIuEzHp/mp4/BuIuEzHp.mp4/master.m3u8
 #EXTINF:-1 group-title="CCTV-GROUP0" tvg-id="劫机" tvg-logo="https://live.fanmingming.com/tv/劫机.png",劫机
 https://europe.olemovienews.com/ts3/20240804/hEIoqAFv/mp4/hEIoqAFv.mp4/master.m3u8
+#EXTINF:-1 group-title="CCTV-GROUP0" tvg-id="狗阵" tvg-logo="https://live.fanmingming.com/tv/狗阵.png",狗阵
+https://svipsvip.ffzy-online5.com/20240820/31566_cfbc4c65/index.m3u8
 #EXTINF:-1 group-title="CCTV-GROUP0" tvg-id="长腿" tvg-logo="https://live.fanmingming.com/tv/劫机.png",劫机
 https://europe.olemovienews.com/ts3/20240823/yGebpwDk/mp4/yGebpwDk.mp4/master.m3u8
 #EXTINF:-1 group-title="CCTV-GROUP0" tvg-id="CCTV-1综合" tvg-logo="https://live.fanmingming.com/tv/闭幕式.png",闭幕式
