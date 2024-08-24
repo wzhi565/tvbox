@@ -866,7 +866,19 @@ https://api.heimuer.app/play/c16d8b4774c940e8a95cf7219f1fa00d.m3u8
 https://api.heimuer.app/play/43c09e8a11e64ef28a41f0351ddf814d.m3u8
 #EXTINF:-1 group-title="亮剑" tvg-name="第30集" tvg-logo="https://live.fanmingming.com/tv/第30集.png",第30集
 https://api.heimuer.app/play/70a1f397af0c42d0bf805cdd1c09e5d2.m3u8
-#EXTINF:-1 tvg-name="第29集" tvg-logo="https://live.fanmingming.com/tv/第29集.png",第29集
-https://api.heimuer.app/play/43c09e8a11e64ef28a41f0351ddf814d.m3u8
-#EXTINF:-1 tvg-name="第30集" tvg-logo="https://live.fanmingming.com/tv/第30集.png",第30集
-https://api.heimuer.app/play/70a1f397af0c42d0bf805cdd1c09e5d2.m3u8
+#EXTINF:-1 group-title="好搭档" tvg-name="第1集" tvg-logo="https://live.fanmingming.com/tv/第1集.png",第1集
+https://europe.olemovienews.com/ts3/20240712/JoHewFyz/mp4/JoHewFyz.mp4/master.m3u8
+#EXTINF:-1 group-title="好搭档" tvg-name="第2集" tvg-logo="https://live.fanmingming.com/tv/第2集.png",第2集
+https://europe.olemovienews.com/ts3/20240713/qHJuoCEx/mp4/qHJuoCEx.mp4/master.m3u8
+#EXTINF:-1 group-title="好搭档" tvg-name="第3集" tvg-logo="https://live.fanmingming.com/tv/第3集.png",第3集
+https://europe.olemovienews.com/ts3/20240719/yheAlitz/mp4/yheAlitz.mp4/master.m3u8
+#EXTINF:-1 group-title="好搭档" tvg-name="第4集" tvg-logo="https://live.fanmingming.com/tv/第4集.png",第4集
+https://europe.olemovienews.com/ts3/20240720/Hbclxfcm/mp4/Hbclxfcm.mp4/master.m3u8
+#EXTINF:-1 group-title="好搭档" tvg-name="第5集" tvg-logo="https://live.fanmingming.com/tv/第5集.png",第5集
+https://europe.olemovienews.com/ts3/20240816/vyazlxnG/mp4/vyazlxnG.mp4/master.m3u8
+#EXTINF:-1 group-title="好搭档" tvg-name="第6集" tvg-logo="https://live.fanmingming.com/tv/第6集.png",第6集
+https://europe.olemovienews.com/ts3/20240816/vyazlxnG/mp4/vyazlxnG.mp4/master.m3u8
+#EXTINF:-1 group-title="好搭档" tvg-name="第7集" tvg-logo="https://live.fanmingming.com/tv/第7集.png",第7集
+https://europe.olemovienews.com/ts3/20240816/vyazlxnG/mp4/vyazlxnG.mp4/master.m3u8
+#EXTINF:-1 group-title="好搭档" tvg-name="第8集" tvg-logo="https://live.fanmingming.com/tv/第8集.png",第8集
+https://api.heimuer.app/play/e3467778290e4e6bacb684123ab7b096.m3u8
