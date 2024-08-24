@@ -806,62 +806,66 @@ https://m3u.haiwaikan.com/xm3u8/e1e19d05cbb9226e15d63773042be3bde253eff3ff04414d
 https://m3u.haiwaikan.com/xm3u8/7b1ef62f9e621fc4649d481346550716097d127d1a092e45b6895122d1f36c4d9921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="正阳门下",tvg-name="第36集" tvg-logo="https://live.fanmingming.com/tv/第36集.png",第36集
 https://m3u.haiwaikan.com/xm3u8/f8b7f7da2b519b26261c2f4b805e009f6459cea797138b88883727ba3f9fdfae9921f11e97d0da21.m3u8
-#EXTINF:-1 tvg-name="第1集" tvg-logo="https://live.fanmingming.com/tv/第1集.png",第1集
+#EXTINF:-1 group-title="亮剑" tvg-name="第1集" tvg-logo="https://live.fanmingming.com/tv/第1集.png",第1集
 https://api.heimuer.app/play/7936f1c2f6764b70a7e22fa7d5e0e4ac.m3u8
-#EXTINF:-1 tvg-name="第2集" tvg-logo="https://live.fanmingming.com/tv/第2集.png",第2集
+#EXTINF:-1 group-title="亮剑" tvg-name="第2集" tvg-logo="https://live.fanmingming.com/tv/第2集.png",第2集
 https://api.heimuer.app/play/37116f876c9146e4b80c345da6e1e0cf.m3u8
-#EXTINF:-1 tvg-name="第3集" tvg-logo="https://live.fanmingming.com/tv/第3集.png",第3集
+#EXTINF:-1 group-title="亮剑" tvg-name="第3集" tvg-logo="https://live.fanmingming.com/tv/第3集.png",第3集
 https://api.heimuer.app/play/1c0c6c3ee529448cae9cb0aedd28aa6c.m3u8
-#EXTINF:-1 tvg-name="第4集" tvg-logo="https://live.fanmingming.com/tv/第4集.png",第4集
+#EXTINF:-1 group-title="亮剑" tvg-name="第4集" tvg-logo="https://live.fanmingming.com/tv/第4集.png",第4集
 https://api.heimuer.app/play/9ece5f36c8fa49ad8682e0fd87af5874.m3u8
-#EXTINF:-1 tvg-name="第5集" tvg-logo="https://live.fanmingming.com/tv/第5集.png",第5集
+#EXTINF:-1 group-title="亮剑" tvg-name="第5集" tvg-logo="https://live.fanmingming.com/tv/第5集.png",第5集
 https://api.heimuer.app/play/36e890ff2012466b81c52a678676ac5f.m3u8
-#EXTINF:-1 tvg-name="第6集" tvg-logo="https://live.fanmingming.com/tv/第6集.png",第6集
+#EXTINF:-1 group-title="亮剑" tvg-name="第6集" tvg-logo="https://live.fanmingming.com/tv/第6集.png",第6集
 https://api.heimuer.app/play/f3ad461124e04e6092646e349082dfce.m3u8
-#EXTINF:-1 tvg-name="第7集" tvg-logo="https://live.fanmingming.com/tv/第7集.png",第7集
+#EXTINF:-1 group-title="亮剑" tvg-name="第7集" tvg-logo="https://live.fanmingming.com/tv/第7集.png",第7集
 https://api.heimuer.app/play/eae4dace9f0c4315bd7f28b5869a6522.m3u8
-#EXTINF:-1 tvg-name="第8集" tvg-logo="https://live.fanmingming.com/tv/第8集.png",第8集
+#EXTINF:-1 group-title="亮剑" tvg-name="第8集" tvg-logo="https://live.fanmingming.com/tv/第8集.png",第8集
 https://api.heimuer.app/play/e3467778290e4e6bacb684123ab7b096.m3u8
-#EXTINF:-1 tvg-name="第9集" tvg-logo="https://live.fanmingming.com/tv/第9集.png",第9集
+#EXTINF:-1 group-title="亮剑" tvg-name="第9集" tvg-logo="https://live.fanmingming.com/tv/第9集.png",第9集
 https://api.heimuer.app/play/9d30dab8b99b4aef8d791ae986441a6d.m3u8
-#EXTINF:-1 tvg-name="第10集" tvg-logo="https://live.fanmingming.com/tv/第10集.png",第10集
+#EXTINF:-1 group-title="亮剑" tvg-name="第10集" tvg-logo="https://live.fanmingming.com/tv/第10集.png",第10集
 https://api.heimuer.app/play/2593d62443384001bb88b5008bd5183a.m3u8
-#EXTINF:-1 tvg-name="第11集" tvg-logo="https://live.fanmingming.com/tv/第11集.png",第11集
+#EXTINF:-1 group-title="亮剑" tvg-name="第11集" tvg-logo="https://live.fanmingming.com/tv/第11集.png",第11集
 https://api.heimuer.app/play/ba7adda986e7496482e69ec19cb6c002.m3u8
-#EXTINF:-1 tvg-name="第12集" tvg-logo="https://live.fanmingming.com/tv/第12集.png",第12集
+#EXTINF:-1 group-title="亮剑" tvg-name="第12集" tvg-logo="https://live.fanmingming.com/tv/第12集.png",第12集
 https://api.heimuer.app/play/e2e4985023ff4bacb16758894c5e1534.m3u8
-#EXTINF:-1 tvg-name="第13集" tvg-logo="https://live.fanmingming.com/tv/第13集.png",第13集
+#EXTINF:-1 group-title="亮剑" tvg-name="第13集" tvg-logo="https://live.fanmingming.com/tv/第13集.png",第13集
 https://api.heimuer.app/play/ea01cd22da374dbfac775ec6438b0305.m3u8
-#EXTINF:-1 tvg-name="第14集" tvg-logo="https://live.fanmingming.com/tv/第14集.png",第14集
+#EXTINF:-1 group-title="亮剑" tvg-name="第14集" tvg-logo="https://live.fanmingming.com/tv/第14集.png",第14集
 https://api.heimuer.app/play/0a433ff9b73a4e29a5794fa1eeebe0e1.m3u8
-#EXTINF:-1 tvg-name="第15集" tvg-logo="https://live.fanmingming.com/tv/第15集.png",第15集
+#EXTINF:-1 group-title="亮剑" tvg-name="第15集" tvg-logo="https://live.fanmingming.com/tv/第15集.png",第15集
 https://api.heimuer.app/play/43837d3d9cf5454d9dfa85e1f4a9446c.m3u8
-#EXTINF:-1 tvg-name="第16集" tvg-logo="https://live.fanmingming.com/tv/第16集.png",第16集
+#EXTINF:-1 group-title="亮剑" tvg-name="第16集" tvg-logo="https://live.fanmingming.com/tv/第16集.png",第16集
 https://api.heimuer.app/play/6355042f0013440b9e19721c540dac91.m3u8
-#EXTINF:-1 tvg-name="第17集" tvg-logo="https://live.fanmingming.com/tv/第17集.png",第17集
+#EXTINF:-1 group-title="亮剑" tvg-name="第17集" tvg-logo="https://live.fanmingming.com/tv/第17集.png",第17集
 https://api.heimuer.app/play/95ed0f15b90340ae8ea545138f2a5e67.m3u8
-#EXTINF:-1 tvg-name="第18集" tvg-logo="https://live.fanmingming.com/tv/第18集.png",第18集
+#EXTINF:-1 group-title="亮剑" tvg-name="第18集" tvg-logo="https://live.fanmingming.com/tv/第18集.png",第18集
 https://api.heimuer.app/play/1dc18681189849b08a752c30d8dd7cae.m3u8
-#EXTINF:-1 tvg-name="第19集" tvg-logo="https://live.fanmingming.com/tv/第19集.png",第19集
+#EXTINF:-1 group-title="亮剑" tvg-name="第19集" tvg-logo="https://live.fanmingming.com/tv/第19集.png",第19集
 https://api.heimuer.app/play/6be27d2521704d43afff95a1670e5abc.m3u8
-#EXTINF:-1 tvg-name="第20集" tvg-logo="https://live.fanmingming.com/tv/第20集.png",第20集
+#EXTINF:-1 group-title="亮剑" tvg-name="第20集" tvg-logo="https://live.fanmingming.com/tv/第20集.png",第20集
 https://api.heimuer.app/play/a6b267e6efd74c468da904233c27262c.m3u8
-#EXTINF:-1 tvg-name="第21集" tvg-logo="https://live.fanmingming.com/tv/第21集.png",第21集
+#EXTINF:-1 group-title="亮剑" tvg-name="第21集" tvg-logo="https://live.fanmingming.com/tv/第21集.png",第21集
 https://api.heimuer.app/play/03014aeabb1a4154b28f05b3e800ffee.m3u8
-#EXTINF:-1 tvg-name="第22集" tvg-logo="https://live.fanmingming.com/tv/第22集.png",第22集
+#EXTINF:-1 group-title="亮剑" tvg-name="第22集" tvg-logo="https://live.fanmingming.com/tv/第22集.png",第22集
 https://api.heimuer.app/play/ae1dd89319fa467bb613e31acc48cc80.m3u8
-#EXTINF:-1 tvg-name="第23集" tvg-logo="https://live.fanmingming.com/tv/第23集.png",第23集
+#EXTINF:-1 group-title="亮剑" tvg-name="第23集" tvg-logo="https://live.fanmingming.com/tv/第23集.png",第23集
 https://api.heimuer.app/play/a39608238c0e4cd7a1834a6b1859a5c9.m3u8
-#EXTINF:-1 tvg-name="第24集" tvg-logo="https://live.fanmingming.com/tv/第24集.png",第24集
+#EXTINF:-1 group-title="亮剑" tvg-name="第24集" tvg-logo="https://live.fanmingming.com/tv/第24集.png",第24集
 https://api.heimuer.app/play/5e1ec181c0a34e349e63b1f7b9fccf7d.m3u8
-#EXTINF:-1 tvg-name="第25集" tvg-logo="https://live.fanmingming.com/tv/第25集.png",第25集
+#EXTINF:-1 group-title="亮剑" tvg-name="第25集" tvg-logo="https://live.fanmingming.com/tv/第25集.png",第25集
 https://api.heimuer.app/play/5c65f0c696a345b0b17896e89ef6c7d5.m3u8
-#EXTINF:-1 tvg-name="第26集" tvg-logo="https://live.fanmingming.com/tv/第26集.png",第26集
+#EXTINF:-1 group-title="亮剑" tvg-name="第26集" tvg-logo="https://live.fanmingming.com/tv/第26集.png",第26集
 https://api.heimuer.app/play/ed9a9f685c0b4390b8eb119535fc33f3.m3u8
-#EXTINF:-1 tvg-name="第27集" tvg-logo="https://live.fanmingming.com/tv/第27集.png",第27集
+#EXTINF:-1 group-title="亮剑" tvg-name="第27集" tvg-logo="https://live.fanmingming.com/tv/第27集.png",第27集
 https://api.heimuer.app/play/5f904bee25e9433b8a32758c9db6f8cb.m3u8
-#EXTINF:-1 tvg-name="第28集" tvg-logo="https://live.fanmingming.com/tv/第28集.png",第28集
+#EXTINF:-1 group-title="亮剑" tvg-name="第28集" tvg-logo="https://live.fanmingming.com/tv/第28集.png",第28集
 https://api.heimuer.app/play/c16d8b4774c940e8a95cf7219f1fa00d.m3u8
+#EXTINF:-1 group-title="亮剑" tvg-name="第29集" tvg-logo="https://live.fanmingming.com/tv/第29集.png",第29集
+https://api.heimuer.app/play/43c09e8a11e64ef28a41f0351ddf814d.m3u8
+#EXTINF:-1 group-title="亮剑" tvg-name="第30集" tvg-logo="https://live.fanmingming.com/tv/第30集.png",第30集
+https://api.heimuer.app/play/70a1f397af0c42d0bf805cdd1c09e5d2.m3u8
 #EXTINF:-1 tvg-name="第29集" tvg-logo="https://live.fanmingming.com/tv/第29集.png",第29集
 https://api.heimuer.app/play/43c09e8a11e64ef28a41f0351ddf814d.m3u8
 #EXTINF:-1 tvg-name="第30集" tvg-logo="https://live.fanmingming.com/tv/第30集.png",第30集
