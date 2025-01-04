@@ -964,3 +964,61 @@ https://m3u8.hmrvideo.com/play/9a4eec13ce8243d796b8b76aa2ae10f0.m3u8
 https://m3u8.hmrvideo.com/play/0f65eff527a542b58df3423ecd85c542.m3u8
 #EXTINF:-1 group-title="我是刑警" tvg-name="第38集" tvg-logo="https://live.fanmingming.cn/tv/第38集.png",第38集
 https://m3u8.hmrvideo.com/play/6cd3d4b0169c423499b13dc44e8c0509.m3u8
+#EXTINF:-1 group-title="白夜破晓" tvg-name="第1集" tvg-logo="https://live.fanmingming.cn/tv/第1集.png",第1集
+https://svipsvip.ffzy-online5.com/20241120/35076_11691867/2000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="白夜破晓" tvg-name="第2集" tvg-logo="https://live.fanmingming.cn/tv/第2集.png",第2集
+https://svipsvip.ffzy-online5.com/20241120/35077_0b3b2788/2000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="白夜破晓" tvg-name="第3集" tvg-logo="https://live.fanmingming.cn/tv/第3集.png",第3集
+https://svipsvip.ffzy-online5.com/20241120/35078_8c18d1de/2000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="白夜破晓" tvg-name="第4集" tvg-logo="https://live.fanmingming.cn/tv/第4集.png",第4集
+https://svipsvip.ffzy-online5.com/20241120/35079_79b3ee8b/2000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="白夜破晓" tvg-name="第5集" tvg-logo="https://live.fanmingming.cn/tv/第5集.png",第5集
+https://svipsvip.ffzy-online5.com/20241120/35080_016a5507/2000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="白夜破晓" tvg-name="第6集" tvg-logo="https://live.fanmingming.cn/tv/第6集.png",第6集
+https://svipsvip.ffzy-online5.com/20241121/35121_2db351ad/2000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="白夜破晓" tvg-name="第7集" tvg-logo="https://live.fanmingming.cn/tv/第7集.png",第7集
+https://svipsvip.ffzy-online5.com/20241121/35122_a5707b00/2000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="白夜破晓" tvg-name="第8集" tvg-logo="https://live.fanmingming.cn/tv/第8集.png",第8集
+https://svipsvip.ffzy-online5.com/20241122/35166_7dd9419b/2000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="白夜破晓" tvg-name="第9集" tvg-logo="https://live.fanmingming.cn/tv/第9集.png",第9集
+https://svipsvip.ffzy-online5.com/20241122/35167_8c44646b/2000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="白夜破晓" tvg-name="第10集" tvg-logo="https://live.fanmingming.cn/tv/第10集.png",第10集
+https://svipsvip.ffzy-online5.com/20241123/35218_f5995c90/2000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="白夜破晓" tvg-name="第11集" tvg-logo="https://live.fanmingming.cn/tv/第11集.png",第11集
+https://svipsvip.ffzy-online5.com/20241123/35219_fc841e51/2000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="白夜破晓" tvg-name="第12集" tvg-logo="https://live.fanmingming.cn/tv/第12集.png",第12集
+https://svipsvip.ffzy-online5.com/20241124/35263_687ce68f/2000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="白夜破晓" tvg-name="第13集" tvg-logo="https://live.fanmingming.cn/tv/第13集.png",第13集
+https://svipsvip.ffzy-online5.com/20241125/35297_ec4f1bd6/2000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="白夜破晓" tvg-name="第14集" tvg-logo="https://live.fanmingming.cn/tv/第14集.png",第14集
+https://svipsvip.ffzy-online5.com/20241126/35332_c188c515/2000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="白夜破晓" tvg-name="第15集" tvg-logo="https://live.fanmingming.cn/tv/第15集.png",第15集
+https://svipsvip.ffzy-online5.com/20241127/35362_553ed65b/2000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="白夜破晓" tvg-name="第16集" tvg-logo="https://live.fanmingming.cn/tv/第16集.png",第16集
+https://svipsvip.ffzy-online5.com/20241127/35363_72dce802/2000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="白夜破晓" tvg-name="第17集" tvg-logo="https://live.fanmingming.cn/tv/第17集.png",第17集
+https://svipsvip.ffzy-online5.com/20241128/35399_1067186e/2000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="白夜破晓" tvg-name="第18集" tvg-logo="https://live.fanmingming.cn/tv/第18集.png",第18集
+https://svipsvip.ffzy-online5.com/20241128/35400_1e22c83c/2000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="白夜破晓" tvg-name="第19集" tvg-logo="https://live.fanmingming.cn/tv/第19集.png",第19集
+https://svipsvip.ffzy-online5.com/20241129/35452_f20fd1e8/2000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="白夜破晓" tvg-name="第20集" tvg-logo="https://live.fanmingming.cn/tv/第20集.png",第20集
+https://svipsvip.ffzy-online5.com/20241130/35498_eb6b9cf7/2000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="白夜破晓" tvg-name="第21集" tvg-logo="https://live.fanmingming.cn/tv/第21集.png",第21集
+https://svipsvip.ffzy-online5.com/20241201/35539_8e4e5637/2000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="白夜破晓" tvg-name="第22集" tvg-logo="https://live.fanmingming.cn/tv/第22集.png",第22集
+https://svipsvip.ffzy-online5.com/20241202/35640_a9a82b0b/2000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="白夜破晓" tvg-name="第23集" tvg-logo="https://live.fanmingming.cn/tv/第23集.png",第23集
+https://svipsvip.ffzy-online5.com/20241203/35679_2ee54ad0/2000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="白夜破晓" tvg-name="第24集" tvg-logo="https://live.fanmingming.cn/tv/第24集.png",第24集
+https://svipsvip.ffzy-online5.com/20241204/35722_917ad256/2000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="白夜破晓" tvg-name="第25集" tvg-logo="https://live.fanmingming.cn/tv/第25集.png",第25集
+https://svipsvip.ffzy-online5.com/20241205/35762_993feef1/2000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="白夜破晓" tvg-name="第26集" tvg-logo="https://live.fanmingming.cn/tv/第26集.png",第26集
+https://svipsvip.ffzy-online5.com/20241206/35827_be96d1cf/2000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="白夜破晓" tvg-name="第27集" tvg-logo="https://live.fanmingming.cn/tv/第27集.png",第27集
+https://svipsvip.ffzy-online5.com/20241206/35828_dc297579/2000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="白夜破晓" tvg-name="第28集" tvg-logo="https://live.fanmingming.cn/tv/第28集.png",第28集
+https://svipsvip.ffzy-online5.com/20241206/35829_0ef4d5ae/2000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="白夜破晓" tvg-name="第29集" tvg-logo="https://live.fanmingming.cn/tv/第29集.png",第29集
+https://svipsvip.ffzy-online5.com/20241206/35830_e4698785/2000k/hls/mixed.m3u8
