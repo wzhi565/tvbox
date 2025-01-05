@@ -1,4 +1,24 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTINF:-1 group-title="4k" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png",CCTV-4k
+http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
+#EXTINF:-1 group-title="4k" tvg-logo="https://live.fanmingming.com/tv/LOVE NATURE 4K.png",LOVE NATURE 4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="CCTV-GROUP0" tvg-id="抓娃娃" tvg-logo="https://live.fanmingming.com/tv/抓娃娃.png",抓娃娃
+https://europe.olemovienews.com/ts3/20240813/BuIuEzHp/mp4/BuIuEzHp.mp4/master.m3u8
+#EXTINF:-1 group-title="CCTV-GROUP0" tvg-id="劫机" tvg-logo="https://live.fanmingming.com/tv/劫机.png",劫机
+https://europe.olemovienews.com/ts3/20240804/hEIoqAFv/mp4/hEIoqAFv.mp4/master.m3u8
+#EXTINF:-1 group-title="CCTV-GROUP0" tvg-id="狗阵" tvg-logo="https://live.fanmingming.com/tv/狗阵.png",狗阵
+https://svipsvip.ffzy-online5.com/20240820/31566_cfbc4c65/index.m3u8
+#EXTINF:-1 group-title="CCTV-GROUP0" tvg-id="长腿" tvg-logo="https://live.fanmingming.com/tv/劫机.png",劫机
+https://europe.olemovienews.com/ts3/20240823/yGebpwDk/mp4/yGebpwDk.mp4/master.m3u8
+#EXTINF:-1 group-title="CCTV-GROUP0" tvg-id="CCTV-1综合" tvg-logo="https://live.fanmingming.com/tv/闭幕式.png",闭幕式
+https://vod.olelive.com:2053/hls/tv/5/VA9RANtxeFwGRWMdpw3jCMrJXt9JCFk2cNGoM-zAxPG0qsW1QHU2YXkQSf2pVWRNRmshE0EM6_yHHPa_9cPT1902AQOJUcP2Xj3N0NOvLnOhjXtiJAzVaoiXDSLMl8k_/index-v1-a1.m3u8
+#EXTINF:-1 group-title="CCTV-GROUP0" tvg-id="CCTV-1综合" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV-1综合
+https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8?token=a1c00273a0a165b5459180ea50330a14
+#EXTINF:-1 group-title="CCTV-GROUP0" tvg-id="CCTV-2财经" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png",CCTV-2财经
+https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8?token=a1c00273a0a165b5459180ea50330a14
+#EXTINF:-1 group-title="CCTV-GROUP0" tvg-id="CCTV-5体育" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png",CCTV-5体育
+https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8?token=a1c00073a0a164b5459187ea50330f14
 #EXTINF:-1  group-title="斗鱼电影",tvg-name="重温经典" tvg-logo="https://live.fanmingming.com/tv/重温经典.png",重温经典
 http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 #EXTINF:-1 tvg-name="4K电影" tvg-logo="https://live.fanmingming.com/tv/4K电影.png" group-title="斗鱼电影",4K电影
@@ -704,4 +724,3 @@ https://m3u.nikanba.live/share/56896d848d3228c1ba85d954aa18890e.m3u8
 https://m3u.nikanba.live/share/a38795898cfe623b38c1ce6de95778b8.m3u8
 #EXTINF:-1 group-title="真心英雄" tvg-name="第8集" tvg-logo="https://live.fanmingming.cn/tv/第8集.png",第8集
 https://m3u.nikanba.live/share/8926df495a8731105afd192be3cd9e50.m3u8
-
