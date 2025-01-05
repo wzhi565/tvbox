@@ -724,3 +724,19 @@ https://m3u.nikanba.live/share/56896d848d3228c1ba85d954aa18890e.m3u8
 https://m3u.nikanba.live/share/a38795898cfe623b38c1ce6de95778b8.m3u8
 #EXTINF:-1 group-title="真心英雄" tvg-name="第8集" tvg-logo="https://live.fanmingming.cn/tv/第8集.png",第8集
 https://m3u.nikanba.live/share/8926df495a8731105afd192be3cd9e50.m3u8
+#EXTINF:-1 group-title="真心英雄1" tvg-name="第1集" tvg-logo="https://live.fanmingming.cn/tv/第1集.png",第1集
+https://v6.tlkqc.com/wjv6/202501/01/FDMxQXx9rL78/video/1000k_720/hls/index.m3u8
+#EXTINF:-1 group-title="真心英雄1" tvg-name="第2集" tvg-logo="https://live.fanmingming.cn/tv/第2集.png",第2集
+https://v11.tlkqc.com/wjv11/202501/01/44fhURhBZQ83/video/1000k_720/hls/index.m3u8
+#EXTINF:-1 group-title="真心英雄1" tvg-name="第3集" tvg-logo="https://live.fanmingming.cn/tv/第3集.png",第3集
+https://v11.tlkqc.com/wjv11/202501/02/APjsz9nvMK83/video/1000k_720/hls/index.m3u8
+#EXTINF:-1 group-title="真心英雄1" tvg-name="第4集" tvg-logo="https://live.fanmingming.cn/tv/第4集.png",第4集
+https://v3.tlkqc.com/wjv3/202501/02/JFtDq03e9s75/video/1000k_720/hls/index.m3u8
+#EXTINF:-1 group-title="真心英雄1" tvg-name="第5集" tvg-logo="https://live.fanmingming.cn/tv/第5集.png",第5集
+https://v6.tlkqc.com/wjv6/202501/03/KSpvnE2DeG78/video/1000k_720/hls/index.m3u8
+#EXTINF:-1 group-title="真心英雄1" tvg-name="第6集" tvg-logo="https://live.fanmingming.cn/tv/第6集.png",第6集
+https://v9.tlkqc.com/wjv9/202501/04/1tKXz8CGSb81/video/1000k_720/hls/index.m3u8
+#EXTINF:-1 group-title="真心英雄1" tvg-name="第7集" tvg-logo="https://live.fanmingming.cn/tv/第7集.png",第7集
+https://v5.tlkqc.com/wjv5/202501/05/b3XjQE7ZJy77/video/1000k_720/hls/index.m3u8
+#EXTINF:-1 group-title="真心英雄1" tvg-name="第8集" tvg-logo="https://live.fanmingming.cn/tv/第8集.png",第8集
+https://v10.tlkqc.com/wjv10/202501/05/dZSWJikxra82/video/1000k_720/hls/index.m3u8
