@@ -880,3 +880,81 @@ https://europe.olemovienews.com/ts3/20250220/wrmb1c4l/mp4/wrmb1c4l.mp4/index-v1-
 https://europe.olemovienews.com/ts3/20250221/1xycjlvi/mp4/1xycjlvi.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="六姐妹" tvg-name="第32集" tvg-logo="https://live.fanmingming.com/tv/第32集.png",第32集
 https://europe.olemovienews.com/ts3/20250221/dcy9iv99/mp4/dcy9iv99.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="猎鹰1949" tvg-name="第1集" tvg-logo="https://live.fanmingming.cn/tv/第1集.png",第1集
+https://hn.bfvvs.com/play/6dB80mNa/index.m3u8
+#EXTINF:-1 group-title="猎鹰1949" tvg-name="第2集" tvg-logo="https://live.fanmingming.cn/tv/第2集.png",第2集
+https://hn.bfvvs.com/play/1aKYxyYd/index.m3u8
+#EXTINF:-1 group-title="猎鹰1949" tvg-name="第3集" tvg-logo="https://live.fanmingming.cn/tv/第3集.png",第3集
+https://hn.bfvvs.com/play/ZdPMDEWe/index.m3u8
+#EXTINF:-1 group-title="猎鹰1949" tvg-name="第4集" tvg-logo="https://live.fanmingming.cn/tv/第4集.png",第4集
+https://hn.bfvvs.com/play/BeX7OlAd/index.m3u8
+#EXTINF:-1 group-title="猎鹰1949" tvg-name="第5集" tvg-logo="https://live.fanmingming.cn/tv/第5集.png",第5集
+https://hn.bfvvs.com/play/Le3jDXxd/index.m3u8
+#EXTINF:-1 group-title="猎鹰1949" tvg-name="第6集" tvg-logo="https://live.fanmingming.cn/tv/第6集.png",第6集
+https://hn.bfvvs.com/play/yb8oLNLa/index.m3u8
+#EXTINF:-1 group-title="猎鹰1949" tvg-name="第7集" tvg-logo="https://live.fanmingming.cn/tv/第7集.png",第7集
+https://hn.bfvvs.com/play/mbkw4LEb/index.m3u8
+#EXTINF:-1 group-title="猎鹰1949" tvg-name="第8集" tvg-logo="https://live.fanmingming.cn/tv/第8集.png",第8集
+https://hn.bfvvs.com/play/mepR5mNb/index.m3u8
+#EXTINF:-1 group-title="猎鹰1949" tvg-name="第9集" tvg-logo="https://live.fanmingming.cn/tv/第9集.png",第9集
+https://hn.bfvvs.com/play/7axV4rqd/index.m3u8
+#EXTINF:-1 group-title="猎鹰1949" tvg-name="第10集" tvg-logo="https://live.fanmingming.cn/tv/第10集.png",第10集
+https://hn.bfvvs.com/play/DbDYnVqd/index.m3u8
+#EXTINF:-1 group-title="猎鹰1949" tvg-name="第11集" tvg-logo="https://live.fanmingming.cn/tv/第11集.png",第11集
+https://hn.bfvvs.com/play/wdLYyVAe/index.m3u8
+#EXTINF:-1 group-title="猎鹰1949" tvg-name="第12集" tvg-logo="https://live.fanmingming.cn/tv/第12集.png",第12集
+https://hn.bfvvs.com/play/qaQNE8Lb/index.m3u8
+#EXTINF:-1 group-title="猎鹰1949" tvg-name="第13集" tvg-logo="https://live.fanmingming.cn/tv/第13集.png",第13集
+https://hn.bfvvs.com/play/QbYQP9nb/index.m3u8
+#EXTINF:-1 group-title="猎鹰1949" tvg-name="第14集" tvg-logo="https://live.fanmingming.cn/tv/第14集.png",第14集
+https://hn.bfvvs.com/play/Rb4k0yna/index.m3u8
+#EXTINF:-1 group-title="猎鹰1949" tvg-name="第15集" tvg-logo="https://live.fanmingming.cn/tv/第15集.png",第15集
+https://hn.bfvvs.com/play/Pe9pMEZd/index.m3u8
+#EXTINF:-1 group-title="猎鹰1949" tvg-name="第16集" tvg-logo="https://live.fanmingming.cn/tv/第16集.png",第16集
+https://hn.bfvvs.com/play/nelv49rb/index.m3u8
+#EXTINF:-1 group-title="猎鹰1949" tvg-name="第17集" tvg-logo="https://live.fanmingming.cn/tv/第17集.png",第17集
+https://hn.bfvvs.com/play/zbqV4kGd/index.m3u8
+#EXTINF:-1 group-title="猎鹰1949" tvg-name="第18集" tvg-logo="https://live.fanmingming.cn/tv/第18集.png",第18集
+https://hn.bfvvs.com/play/lejv4WRe/index.m3u8
+#EXTINF:-1 group-title="猎鹰1949" tvg-name="第19集" tvg-logo="https://live.fanmingming.cn/tv/第19集.png",第19集
+https://hn.bfvvs.com/play/xbov4Wja/index.m3u8
+#EXTINF:-1 group-title="猎鹰1949" tvg-name="第20集" tvg-logo="https://live.fanmingming.cn/tv/第20集.png",第20集
+https://hn.bfvvs.com/play/DdwE46Ra/index.m3u8
+#EXTINF:-1 group-title="猎鹰1949" tvg-name="第21集" tvg-logo="https://live.fanmingming.cn/tv/第21集.png",第21集
+https://hn.bfvvs.com/play/6dB80GXa/index.m3u8
+#EXTINF:-1 group-title="猎鹰1949" tvg-name="第22集" tvg-logo="https://live.fanmingming.cn/tv/第22集.png",第22集
+https://hn.bfvvs.com/play/1aKYxlRd/index.m3u8
+#EXTINF:-1 group-title="猎鹰1949" tvg-name="第23集" tvg-logo="https://live.fanmingming.cn/tv/第23集.png",第23集
+https://hn.bfvvs.com/play/ZdPMDqwe/index.m3u8
+#EXTINF:-1 group-title="猎鹰1949" tvg-name="第24集" tvg-logo="https://live.fanmingming.cn/tv/第24集.png",第24集
+https://hn.bfvvs.com/play/BeX7OBWd/index.m3u8
+#EXTINF:-1 group-title="猎鹰1949" tvg-name="第25集" tvg-logo="https://live.fanmingming.cn/tv/第25集.png",第25集
+https://hn.bfvvs.com/play/Le3jDmMd/index.m3u8
+#EXTINF:-1 group-title="猎鹰1949" tvg-name="第26集" tvg-logo="https://live.fanmingming.cn/tv/第26集.png",第26集
+https://hn.bfvvs.com/play/yb8oLrma/index.m3u8
+#EXTINF:-1 group-title="猎鹰1949" tvg-name="第27集" tvg-logo="https://live.fanmingming.cn/tv/第27集.png",第27集
+https://hn.bfvvs.com/play/mepR5D2b/index.m3u8
+#EXTINF:-1 group-title="猎鹰1949" tvg-name="第28集" tvg-logo="https://live.fanmingming.cn/tv/第28集.png",第28集
+https://hn.bfvvs.com/play/7axV409d/index.m3u8
+#EXTINF:-1 group-title="猎鹰1949" tvg-name="第29集" tvg-logo="https://live.fanmingming.cn/tv/第29集.png",第29集
+https://hn.bfvvs.com/play/DbDYnOxd/index.m3u8
+#EXTINF:-1 group-title="猎鹰1949" tvg-name="第30集" tvg-logo="https://live.fanmingming.cn/tv/第30集.png",第30集
+https://hn.bfvvs.com/play/wdLYypwe/index.m3u8
+#EXTINF:-1 group-title="猎鹰1949" tvg-name="第31集" tvg-logo="https://live.fanmingming.cn/tv/第31集.png",第31集
+https://hn.bfvvs.com/play/qaQNExlb/index.m3u8
+#EXTINF:-1 group-title="猎鹰1949" tvg-name="第32集" tvg-logo="https://live.fanmingming.cn/tv/第32集.png",第32集
+https://hn.bfvvs.com/play/QbYQPJKb/index.m3u8
+#EXTINF:-1 group-title="猎鹰1949" tvg-name="第33集" tvg-logo="https://live.fanmingming.cn/tv/第33集.png",第33集
+https://hn.bfvvs.com/play/Rb4k0r1a/index.m3u8
+#EXTINF:-1 group-title="猎鹰1949" tvg-name="第34集" tvg-logo="https://live.fanmingming.cn/tv/第34集.png",第34集
+https://hn.bfvvs.com/play/nelv4l5b/index.m3u8
+#EXTINF:-1 group-title="猎鹰1949" tvg-name="第35集" tvg-logo="https://live.fanmingming.cn/tv/第35集.png",第35集
+https://hn.bfvvs.com/play/lejv4j5e/index.m3u8
+#EXTINF:-1 group-title="猎鹰1949" tvg-name="第36集" tvg-logo="https://live.fanmingming.cn/tv/第36集.png",第36集
+https://hn.bfvvs.com/play/xbov4oKa/index.m3u8
+#EXTINF:-1 group-title="猎鹰1949" tvg-name="第37集" tvg-logo="https://live.fanmingming.cn/tv/第37集.png",第37集
+https://hn.bfvvs.com/play/DdwE4zwa/index.m3u8
+#EXTINF:-1 group-title="猎鹰1949" tvg-name="第38集" tvg-logo="https://live.fanmingming.cn/tv/第38集.png",第38集
+https://hn.bfvvs.com/play/6dB80AJa/index.m3u8
+#EXTINF:-1 group-title="猎鹰1949" tvg-name="第39集" tvg-logo="https://live.fanmingming.cn/tv/第39集.png",第39集
+https://hn.bfvvs.com/play/1aKYxNnd/index.m3u8
