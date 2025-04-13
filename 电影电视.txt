@@ -1224,3 +1224,47 @@ https://v7.tlkqc.com/wjv7/202309/12/iRg9za8Man1/video/index.m3u8
 https://v7.tlkqc.com/wjv7/202309/12/vB9EXegqwp1/video/index.m3u8
 #EXTINF:-1 group-title="飞虎队" tvg-name="第39集" tvg-logo="https://live.fanmingming.cn/tv/第39集.png",第39集
 https://v7.tlkqc.com/wjv7/202309/12/nfFMqXum1B1/video/index.m3u8
+#EXTINF:-1 group-title="棋士" tvg-name="第1集" tvg-logo="https://live.fanmingming.cn/tv/第1集.png",第1集
+https://v11.tlkqc.com/wjv11/202503/25/gRPaCSh9z283/video/index.m3u8
+#EXTINF:-1 group-title="棋士" tvg-name="第2集" tvg-logo="https://live.fanmingming.cn/tv/第2集.png",第2集
+https://v5.tlkqc.com/wjv5/202503/25/cgk9c8AXKS77/video/index.m3u8
+#EXTINF:-1 group-title="棋士" tvg-name="第3集" tvg-logo="https://live.fanmingming.cn/tv/第3集.png",第3集
+https://v6.tlkqc.com/wjv6/202503/26/5MWmevkyhC78/video/index.m3u8
+#EXTINF:-1 group-title="棋士" tvg-name="第4集" tvg-logo="https://live.fanmingming.cn/tv/第4集.png",第4集
+https://v9.tlkqc.com/wjv9/202503/26/mTFahPMXn781/video/index.m3u8
+#EXTINF:-1 group-title="棋士" tvg-name="第5集" tvg-logo="https://live.fanmingming.cn/tv/第5集.png",第5集
+https://v6.tlkqc.com/wjv6/202503/26/pKp3b5PzF078/video/index.m3u8
+#EXTINF:-1 group-title="棋士" tvg-name="第6集" tvg-logo="https://live.fanmingming.cn/tv/第6集.png",第6集
+https://v6.tlkqc.com/wjv6/202503/27/ujCY5pDi8s78/video/index.m3u8
+#EXTINF:-1 group-title="棋士" tvg-name="第7集" tvg-logo="https://live.fanmingming.cn/tv/第7集.png",第7集
+https://v12.tlkqc.com/wjv12/202503/28/vHeJ1Cmev484/video/index.m3u8
+#EXTINF:-1 group-title="棋士" tvg-name="第8集" tvg-logo="https://live.fanmingming.cn/tv/第8集.png",第8集
+https://v6.tlkqc.com/wjv6/202503/29/uTDeFhZU2978/video/index.m3u8
+#EXTINF:-1 group-title="棋士" tvg-name="第9集" tvg-logo="https://live.fanmingming.cn/tv/第9集.png",第9集
+https://v12.tlkqc.com/wjv12/202503/30/rMRzNSqWGm84/video/index.m3u8
+#EXTINF:-1 group-title="棋士" tvg-name="第10集" tvg-logo="https://live.fanmingming.cn/tv/第10集.png",第10集
+https://v9.tlkqc.com/wjv9/202503/31/b4EAcwxyyA81/video/index.m3u8
+#EXTINF:-1 group-title="棋士" tvg-name="第11集" tvg-logo="https://live.fanmingming.cn/tv/第11集.png",第11集
+https://v11.tlkqc.com/wjv11/202504/01/5B8kcPnt5f83/video/index.m3u8
+#EXTINF:-1 group-title="棋士" tvg-name="第12集" tvg-logo="https://live.fanmingming.cn/tv/第12集.png",第12集
+https://v12.tlkqc.com/wjv12/202504/02/4KaKgsJzRH84/video/index.m3u8
+#EXTINF:-1 group-title="棋士" tvg-name="第13集" tvg-logo="https://live.fanmingming.cn/tv/第13集.png",第13集
+https://v10.tlkqc.com/wjv10/202504/05/VjnvtvgM2R82/video/index.m3u8
+#EXTINF:-1 group-title="棋士" tvg-name="第14集" tvg-logo="https://live.fanmingming.cn/tv/第14集.png",第14集
+https://v6.tlkqc.com/wjv6/202504/05/iaMKViDbuF78/video/index.m3u8
+#EXTINF:-1 group-title="棋士" tvg-name="第15集" tvg-logo="https://live.fanmingming.cn/tv/第15集.png",第15集
+https://v3.tlkqc.com/wjv3/202504/05/p4chhz6tLj75/video/index.m3u8
+#EXTINF:-1 group-title="棋士" tvg-name="第16集" tvg-logo="https://live.fanmingming.cn/tv/第16集.png",第16集
+https://v10.tlkqc.com/wjv10/202504/06/VmwHecY6Qs82/video/index.m3u8
+#EXTINF:-1 group-title="棋士" tvg-name="第17集" tvg-logo="https://live.fanmingming.cn/tv/第17集.png",第17集
+https://v5.tlkqc.com/wjv5/202504/07/zWp6m6NZL577/video/index.m3u8
+#EXTINF:-1 group-title="棋士" tvg-name="第18集" tvg-logo="https://live.fanmingming.cn/tv/第18集.png",第18集
+https://v9.tlkqc.com/wjv9/202504/08/pM8dRtudr081/video/index.m3u8
+#EXTINF:-1 group-title="棋士" tvg-name="第19集" tvg-logo="https://live.fanmingming.cn/tv/第19集.png",第19集
+https://v9.tlkqc.com/wjv9/202504/09/U8LeJ0DuKS81/video/index.m3u8
+#EXTINF:-1 group-title="棋士" tvg-name="第20集" tvg-logo="https://live.fanmingming.cn/tv/第20集.png",第20集
+https://v11.tlkqc.com/wjv11/202504/09/MS8fXELPsp83/video/index.m3u8
+#EXTINF:-1 group-title="棋士" tvg-name="第21集" tvg-logo="https://live.fanmingming.cn/tv/第21集.png",第21集
+https://v12.tlkqc.com/wjv12/202504/09/29D95y5G7F84/video/index.m3u8
+#EXTINF:-1 group-title="棋士" tvg-name="第22集" tvg-logo="https://live.fanmingming.cn/tv/第22集.png",第22集
+https://v6.tlkqc.com/wjv6/202504/09/CFJP77iwAi78/video/index.m3u8
