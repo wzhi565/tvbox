@@ -920,3 +920,69 @@ https://v4.tlkqc.com/wjv4/202309/04/Z7YpdgUeSU1/video/index.m3u8
 https://v4.tlkqc.com/wjv4/202309/04/KCrv86nkfx1/video/index.m3u8
 #EXTINF:-1 group-title="津门飞鹰" tvg-name="第35集" tvg-logo="https://live.fanmingming.cn/tv/第35集.png",第35集
 https://v4.tlkqc.com/wjv4/202309/04/Qk41MfsqPh1/video/index.m3u8
+#EXTINF:-1 group-title="飞虎神鹰" tvg-name="第1集" tvg-logo="https://live.fanmingming.cn/tv/第1集.png",第1集
+https://v4.tlkqc.com/wjv4/202308/27/16JRGkzjh21/video/index.m3u8
+#EXTINF:-1 group-title="飞虎神鹰" tvg-name="第2集" tvg-logo="https://live.fanmingming.cn/tv/第2集.png",第2集
+https://v4.tlkqc.com/wjv4/202308/27/EHyXPLS9zM1/video/index.m3u8
+#EXTINF:-1 group-title="飞虎神鹰" tvg-name="第3集" tvg-logo="https://live.fanmingming.cn/tv/第3集.png",第3集
+https://v4.tlkqc.com/wjv4/202308/27/HDvTUqATZv1/video/index.m3u8
+#EXTINF:-1 group-title="飞虎神鹰" tvg-name="第4集" tvg-logo="https://live.fanmingming.cn/tv/第4集.png",第4集
+https://v4.tlkqc.com/wjv4/202308/26/Efn1Tx4XwY1/video/index.m3u8
+#EXTINF:-1 group-title="飞虎神鹰" tvg-name="第5集" tvg-logo="https://live.fanmingming.cn/tv/第5集.png",第5集
+https://v4.tlkqc.com/wjv4/202308/27/BnMu0GBHiH1/video/index.m3u8
+#EXTINF:-1 group-title="飞虎神鹰" tvg-name="第6集" tvg-logo="https://live.fanmingming.cn/tv/第6集.png",第6集
+https://v4.tlkqc.com/wjv4/202308/27/Prw3C0Qhsg1/video/index.m3u8
+#EXTINF:-1 group-title="飞虎神鹰" tvg-name="第7集" tvg-logo="https://live.fanmingming.cn/tv/第7集.png",第7集
+https://v4.tlkqc.com/wjv4/202308/27/t3tVvLDneJ1/video/index.m3u8
+#EXTINF:-1 group-title="飞虎神鹰" tvg-name="第8集" tvg-logo="https://live.fanmingming.cn/tv/第8集.png",第8集
+https://v4.tlkqc.com/wjv4/202308/27/XErxtUduGi1/video/index.m3u8
+#EXTINF:-1 group-title="飞虎神鹰" tvg-name="第9集" tvg-logo="https://live.fanmingming.cn/tv/第9集.png",第9集
+https://v4.tlkqc.com/wjv4/202308/27/a2uix7cbZE1/video/index.m3u8
+#EXTINF:-1 group-title="飞虎神鹰" tvg-name="第10集" tvg-logo="https://live.fanmingming.cn/tv/第10集.png",第10集
+https://v4.tlkqc.com/wjv4/202308/27/dhqLgRqq5M1/video/index.m3u8
+#EXTINF:-1 group-title="飞虎神鹰" tvg-name="第11集" tvg-logo="https://live.fanmingming.cn/tv/第11集.png",第11集
+https://v4.tlkqc.com/wjv4/202308/27/se4vRT9mvP1/video/index.m3u8
+#EXTINF:-1 group-title="飞虎神鹰" tvg-name="第12集" tvg-logo="https://live.fanmingming.cn/tv/第12集.png",第12集
+https://v4.tlkqc.com/wjv4/202308/26/JaddaqER7X1/video/index.m3u8
+#EXTINF:-1 group-title="飞虎神鹰" tvg-name="第13集" tvg-logo="https://live.fanmingming.cn/tv/第13集.png",第13集
+https://v4.tlkqc.com/wjv4/202308/27/WVNX9be41E1/video/index.m3u8
+#EXTINF:-1 group-title="飞虎神鹰" tvg-name="第14集" tvg-logo="https://live.fanmingming.cn/tv/第14集.png",第14集
+https://v4.tlkqc.com/wjv4/202308/27/2a0HJ0j23B1/video/index.m3u8
+#EXTINF:-1 group-title="飞虎神鹰" tvg-name="第15集" tvg-logo="https://live.fanmingming.cn/tv/第15集.png",第15集
+https://v4.tlkqc.com/wjv4/202308/27/TpPeMs0Zjy1/video/index.m3u8
+#EXTINF:-1 group-title="飞虎神鹰" tvg-name="第16集" tvg-logo="https://live.fanmingming.cn/tv/第16集.png",第16集
+https://v4.tlkqc.com/wjv4/202308/28/5tkdgLLhM21/video/index.m3u8
+#EXTINF:-1 group-title="飞虎神鹰" tvg-name="第17集" tvg-logo="https://live.fanmingming.cn/tv/第17集.png",第17集
+https://v4.tlkqc.com/wjv4/202308/28/uh3BNXw3hf1/video/index.m3u8
+#EXTINF:-1 group-title="飞虎神鹰" tvg-name="第18集" tvg-logo="https://live.fanmingming.cn/tv/第18集.png",第18集
+https://v4.tlkqc.com/wjv4/202308/27/5LVPQB3jw91/video/index.m3u8
+#EXTINF:-1 group-title="飞虎神鹰" tvg-name="第19集" tvg-logo="https://live.fanmingming.cn/tv/第19集.png",第19集
+https://v4.tlkqc.com/wjv4/202308/26/35BfF5YWzM1/video/index.m3u8
+#EXTINF:-1 group-title="飞虎神鹰" tvg-name="第20集" tvg-logo="https://live.fanmingming.cn/tv/第20集.png",第20集
+https://v4.tlkqc.com/wjv4/202308/28/QscydALEFn1/video/index.m3u8
+#EXTINF:-1 group-title="飞虎神鹰" tvg-name="第21集" tvg-logo="https://live.fanmingming.cn/tv/第21集.png",第21集
+https://v4.tlkqc.com/wjv4/202308/28/UNWRZnysMp1/video/index.m3u8
+#EXTINF:-1 group-title="飞虎神鹰" tvg-name="第22集" tvg-logo="https://live.fanmingming.cn/tv/第22集.png",第22集
+https://v4.tlkqc.com/wjv4/202308/27/tiSsMnRt5y1/video/index.m3u8
+#EXTINF:-1 group-title="飞虎神鹰" tvg-name="第23集" tvg-logo="https://live.fanmingming.cn/tv/第23集.png",第23集
+https://v4.tlkqc.com/wjv4/202308/28/HxepBk8Z6y1/video/index.m3u8
+#EXTINF:-1 group-title="飞虎神鹰" tvg-name="第24集" tvg-logo="https://live.fanmingming.cn/tv/第24集.png",第24集
+https://v4.tlkqc.com/wjv4/202308/26/bCKvMP4TUQ1/video/index.m3u8
+#EXTINF:-1 group-title="飞虎神鹰" tvg-name="第25集" tvg-logo="https://live.fanmingming.cn/tv/第25集.png",第25集
+https://v4.tlkqc.com/wjv4/202308/27/ptHXYHh7zm1/video/index.m3u8
+#EXTINF:-1 group-title="飞虎神鹰" tvg-name="第26集" tvg-logo="https://live.fanmingming.cn/tv/第26集.png",第26集
+https://v4.tlkqc.com/wjv4/202308/28/XMSTCTyksg1/video/index.m3u8
+#EXTINF:-1 group-title="飞虎神鹰" tvg-name="第27集" tvg-logo="https://live.fanmingming.cn/tv/第27集.png",第27集
+https://v4.tlkqc.com/wjv4/202308/27/zdTddt1uw81/video/index.m3u8
+#EXTINF:-1 group-title="飞虎神鹰" tvg-name="第28集" tvg-logo="https://live.fanmingming.cn/tv/第28集.png",第28集
+https://v4.tlkqc.com/wjv4/202308/28/gkZEWABkSZ1/video/index.m3u8
+#EXTINF:-1 group-title="飞虎神鹰" tvg-name="第29集" tvg-logo="https://live.fanmingming.cn/tv/第29集.png",第29集
+https://v4.tlkqc.com/wjv4/202308/28/Q0Z2ABKvk91/video/index.m3u8
+#EXTINF:-1 group-title="飞虎神鹰" tvg-name="第30集" tvg-logo="https://live.fanmingming.cn/tv/第30集.png",第30集
+https://v4.tlkqc.com/wjv4/202308/28/cmb73jdJUu1/video/index.m3u8
+#EXTINF:-1 group-title="飞虎神鹰" tvg-name="第31集" tvg-logo="https://live.fanmingming.cn/tv/第31集.png",第31集
+https://v4.tlkqc.com/wjv4/202308/27/cJ3KEvQXHF1/video/index.m3u8
+#EXTINF:-1 group-title="飞虎神鹰" tvg-name="第32集" tvg-logo="https://live.fanmingming.cn/tv/第32集.png",第32集
+https://v4.tlkqc.com/wjv4/202308/28/1jpxukrHgc1/video/index.m3u8
+#EXTINF:-1 group-title="飞虎神鹰" tvg-name="第33集" tvg-logo="https://live.fanmingming.cn/tv/第33集.png",第33集
+https://v4.tlkqc.com/wjv4/202308/27/Km88qN4uPx1/video/index.m3u8
