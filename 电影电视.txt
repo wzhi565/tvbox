@@ -1066,3 +1066,83 @@ https://v4.tlkqc.com/wjv4/202309/04/aaJQKUR8q01/video/index.m3u8
 https://v4.tlkqc.com/wjv4/202309/04/KLhHrSJMFk1/video/index.m3u8
 #EXTINF:-1 group-title="孤岛飞鹰" tvg-name="第40集" tvg-logo="https://live.fanmingming.cn/tv/第40集.png",第40集
 https://v4.tlkqc.com/wjv4/202308/27/Uyc41MPiJs1/video/index.m3u8
+#EXTINF:-1 group-title="平原烽火" tvg-name="第1集" tvg-logo="https://live.fanmingming.cn/tv/第1集.png",第1集
+https://v7.tlkqc.com/wjv7/202309/12/SVcTcGH1Zt1/video/index.m3u8
+#EXTINF:-1 group-title="平原烽火" tvg-name="第2集" tvg-logo="https://live.fanmingming.cn/tv/第2集.png",第2集
+https://v7.tlkqc.com/wjv7/202309/12/stJj1evW2r1/video/index.m3u8
+#EXTINF:-1 group-title="平原烽火" tvg-name="第3集" tvg-logo="https://live.fanmingming.cn/tv/第3集.png",第3集
+https://v7.tlkqc.com/wjv7/202309/12/Jaxq8HUwCM1/video/index.m3u8
+#EXTINF:-1 group-title="平原烽火" tvg-name="第4集" tvg-logo="https://live.fanmingming.cn/tv/第4集.png",第4集
+https://v7.tlkqc.com/wjv7/202309/12/taDvAG3m5j1/video/index.m3u8
+#EXTINF:-1 group-title="平原烽火" tvg-name="第5集" tvg-logo="https://live.fanmingming.cn/tv/第5集.png",第5集
+https://v7.tlkqc.com/wjv7/202309/12/w50s1T3L9i1/video/index.m3u8
+#EXTINF:-1 group-title="平原烽火" tvg-name="第6集" tvg-logo="https://live.fanmingming.cn/tv/第6集.png",第6集
+https://v7.tlkqc.com/wjv7/202309/12/kgrcKecjsC1/video/index.m3u8
+#EXTINF:-1 group-title="平原烽火" tvg-name="第7集" tvg-logo="https://live.fanmingming.cn/tv/第7集.png",第7集
+https://v7.tlkqc.com/wjv7/202309/12/WA6LRickvi1/video/index.m3u8
+#EXTINF:-1 group-title="平原烽火" tvg-name="第8集" tvg-logo="https://live.fanmingming.cn/tv/第8集.png",第8集
+https://v7.tlkqc.com/wjv7/202309/12/AAVa5mSyhW1/video/index.m3u8
+#EXTINF:-1 group-title="平原烽火" tvg-name="第9集" tvg-logo="https://live.fanmingming.cn/tv/第9集.png",第9集
+https://v7.tlkqc.com/wjv7/202309/12/VDvwiEsgQy1/video/index.m3u8
+#EXTINF:-1 group-title="平原烽火" tvg-name="第10集" tvg-logo="https://live.fanmingming.cn/tv/第10集.png",第10集
+https://v7.tlkqc.com/wjv7/202309/12/qKwFb3fAmm1/video/index.m3u8
+#EXTINF:-1 group-title="平原烽火" tvg-name="第11集" tvg-logo="https://live.fanmingming.cn/tv/第11集.png",第11集
+https://v7.tlkqc.com/wjv7/202309/12/LyC3JfVNhB1/video/index.m3u8
+#EXTINF:-1 group-title="平原烽火" tvg-name="第12集" tvg-logo="https://live.fanmingming.cn/tv/第12集.png",第12集
+https://v7.tlkqc.com/wjv7/202309/12/B21vbtJruq1/video/index.m3u8
+#EXTINF:-1 group-title="平原烽火" tvg-name="第13集" tvg-logo="https://live.fanmingming.cn/tv/第13集.png",第13集
+https://v7.tlkqc.com/wjv7/202309/12/CW3S6ZRD5f1/video/index.m3u8
+#EXTINF:-1 group-title="平原烽火" tvg-name="第14集" tvg-logo="https://live.fanmingming.cn/tv/第14集.png",第14集
+https://v7.tlkqc.com/wjv7/202309/12/hkK3Wb8q1C1/video/index.m3u8
+#EXTINF:-1 group-title="平原烽火" tvg-name="第15集" tvg-logo="https://live.fanmingming.cn/tv/第15集.png",第15集
+https://v7.tlkqc.com/wjv7/202309/12/XEtwNPUP981/video/index.m3u8
+#EXTINF:-1 group-title="平原烽火" tvg-name="第16集" tvg-logo="https://live.fanmingming.cn/tv/第16集.png",第16集
+https://v7.tlkqc.com/wjv7/202309/12/24kQTTk6vN1/video/index.m3u8
+#EXTINF:-1 group-title="平原烽火" tvg-name="第17集" tvg-logo="https://live.fanmingming.cn/tv/第17集.png",第17集
+https://v7.tlkqc.com/wjv7/202309/12/ajRZ9eXCjd1/video/index.m3u8
+#EXTINF:-1 group-title="平原烽火" tvg-name="第18集" tvg-logo="https://live.fanmingming.cn/tv/第18集.png",第18集
+https://v7.tlkqc.com/wjv7/202309/12/vqyjpfCYyy1/video/index.m3u8
+#EXTINF:-1 group-title="平原烽火" tvg-name="第19集" tvg-logo="https://live.fanmingming.cn/tv/第19集.png",第19集
+https://v7.tlkqc.com/wjv7/202309/12/6TcpASb6tv1/video/index.m3u8
+#EXTINF:-1 group-title="平原烽火" tvg-name="第20集" tvg-logo="https://live.fanmingming.cn/tv/第20集.png",第20集
+https://v7.tlkqc.com/wjv7/202309/12/DPhXqPvSLA1/video/index.m3u8
+#EXTINF:-1 group-title="平原烽火" tvg-name="第21集" tvg-logo="https://live.fanmingming.cn/tv/第21集.png",第21集
+https://v7.tlkqc.com/wjv7/202309/12/sknjsmUUQN1/video/index.m3u8
+#EXTINF:-1 group-title="平原烽火" tvg-name="第22集" tvg-logo="https://live.fanmingming.cn/tv/第22集.png",第22集
+https://v7.tlkqc.com/wjv7/202309/12/Scq8p4bJUk1/video/index.m3u8
+#EXTINF:-1 group-title="平原烽火" tvg-name="第23集" tvg-logo="https://live.fanmingming.cn/tv/第23集.png",第23集
+https://v7.tlkqc.com/wjv7/202309/12/MQGFYp8Gi41/video/index.m3u8
+#EXTINF:-1 group-title="平原烽火" tvg-name="第24集" tvg-logo="https://live.fanmingming.cn/tv/第24集.png",第24集
+https://v7.tlkqc.com/wjv7/202309/12/LdqG6sDtHW1/video/index.m3u8
+#EXTINF:-1 group-title="平原烽火" tvg-name="第25集" tvg-logo="https://live.fanmingming.cn/tv/第25集.png",第25集
+https://v7.tlkqc.com/wjv7/202309/12/X1rYc0PHVq1/video/index.m3u8
+#EXTINF:-1 group-title="平原烽火" tvg-name="第26集" tvg-logo="https://live.fanmingming.cn/tv/第26集.png",第26集
+https://v7.tlkqc.com/wjv7/202309/12/7wKwsfEp1c1/video/index.m3u8
+#EXTINF:-1 group-title="平原烽火" tvg-name="第27集" tvg-logo="https://live.fanmingming.cn/tv/第27集.png",第27集
+https://v7.tlkqc.com/wjv7/202309/12/w2jdSBKfy01/video/index.m3u8
+#EXTINF:-1 group-title="平原烽火" tvg-name="第28集" tvg-logo="https://live.fanmingming.cn/tv/第28集.png",第28集
+https://v7.tlkqc.com/wjv7/202309/12/GviE8KcbtW1/video/index.m3u8
+#EXTINF:-1 group-title="平原烽火" tvg-name="第29集" tvg-logo="https://live.fanmingming.cn/tv/第29集.png",第29集
+https://v7.tlkqc.com/wjv7/202309/12/5hf5KBQ9SH1/video/index.m3u8
+#EXTINF:-1 group-title="平原烽火" tvg-name="第30集" tvg-logo="https://live.fanmingming.cn/tv/第30集.png",第30集
+https://v7.tlkqc.com/wjv7/202309/12/GUgar7qXTJ1/video/index.m3u8
+#EXTINF:-1 group-title="平原烽火" tvg-name="第31集" tvg-logo="https://live.fanmingming.cn/tv/第31集.png",第31集
+https://v7.tlkqc.com/wjv7/202309/12/Q94jEpXRHy1/video/index.m3u8
+#EXTINF:-1 group-title="平原烽火" tvg-name="第32集" tvg-logo="https://live.fanmingming.cn/tv/第32集.png",第32集
+https://v7.tlkqc.com/wjv7/202309/12/9aSyeNvbB71/video/index.m3u8
+#EXTINF:-1 group-title="平原烽火" tvg-name="第33集" tvg-logo="https://live.fanmingming.cn/tv/第33集.png",第33集
+https://v7.tlkqc.com/wjv7/202309/12/TEECsD1M5r1/video/index.m3u8
+#EXTINF:-1 group-title="平原烽火" tvg-name="第34集" tvg-logo="https://live.fanmingming.cn/tv/第34集.png",第34集
+https://v7.tlkqc.com/wjv7/202309/12/5JGU0PpBww1/video/index.m3u8
+#EXTINF:-1 group-title="平原烽火" tvg-name="第35集" tvg-logo="https://live.fanmingming.cn/tv/第35集.png",第35集
+https://v7.tlkqc.com/wjv7/202309/12/rnWA7CnN9r1/video/index.m3u8
+#EXTINF:-1 group-title="平原烽火" tvg-name="第36集" tvg-logo="https://live.fanmingming.cn/tv/第36集.png",第36集
+https://v7.tlkqc.com/wjv7/202309/12/faRdiqMZ2J1/video/index.m3u8
+#EXTINF:-1 group-title="平原烽火" tvg-name="第37集" tvg-logo="https://live.fanmingming.cn/tv/第37集.png",第37集
+https://v7.tlkqc.com/wjv7/202309/12/KSi9FU8yb71/video/index.m3u8
+#EXTINF:-1 group-title="平原烽火" tvg-name="第38集" tvg-logo="https://live.fanmingming.cn/tv/第38集.png",第38集
+https://v7.tlkqc.com/wjv7/202309/12/CYXh6VKpZ11/video/index.m3u8
+#EXTINF:-1 group-title="平原烽火" tvg-name="第39集" tvg-logo="https://live.fanmingming.cn/tv/第39集.png",第39集
+https://v7.tlkqc.com/wjv7/202309/12/cDKBFBdy9i1/video/index.m3u8
+#EXTINF:-1 group-title="平原烽火" tvg-name="第40集" tvg-logo="https://live.fanmingming.cn/tv/第40集.png",第40集
+https://v7.tlkqc.com/wjv7/202309/12/AQwikFkFg91/video/index.m3u8
