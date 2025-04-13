@@ -1224,6 +1224,46 @@ https://v7.tlkqc.com/wjv7/202309/12/iRg9za8Man1/video/index.m3u8
 https://v7.tlkqc.com/wjv7/202309/12/vB9EXegqwp1/video/index.m3u8
 #EXTINF:-1 group-title="飞虎队" tvg-name="第39集" tvg-logo="https://live.fanmingming.cn/tv/第39集.png",第39集
 https://v7.tlkqc.com/wjv7/202309/12/nfFMqXum1B1/video/index.m3u8
+#EXTINF:-1 group-title="英雄" tvg-name="第1集" tvg-logo="https://live.fanmingming.cn/tv/第1集.png",第1集
+https://yzzy.play-cdn14.com/20230122/4501_f5bfc363/index.m3u8
+#EXTINF:-1 group-title="英雄" tvg-name="第2集" tvg-logo="https://live.fanmingming.cn/tv/第2集.png",第2集
+https://yzzy.play-cdn14.com/20230122/4503_d6003f4f/2000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="英雄" tvg-name="第3集" tvg-logo="https://live.fanmingming.cn/tv/第3集.png",第3集
+https://yzzy.play-cdn14.com/20230122/4504_9e73ec24/2000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="英雄" tvg-name="第4集" tvg-logo="https://live.fanmingming.cn/tv/第4集.png",第4集
+https://yzzy.play-cdn14.com/20230122/4505_9dbc1ade/2000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="英雄" tvg-name="第5集" tvg-logo="https://live.fanmingming.cn/tv/第5集.png",第5集
+https://yzzy.play-cdn14.com/20230122/4506_54ea8fba/2000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="英雄" tvg-name="第6集" tvg-logo="https://live.fanmingming.cn/tv/第6集.png",第6集
+https://yzzy.play-cdn14.com/20230122/4507_6124c7a0/2000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="英雄" tvg-name="第7集" tvg-logo="https://live.fanmingming.cn/tv/第7集.png",第7集
+https://yzzy.play-cdn14.com/20230122/4508_f1db2992/2000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="英雄" tvg-name="第8集" tvg-logo="https://live.fanmingming.cn/tv/第8集.png",第8集
+https://yzzy.play-cdn14.com/20230122/4512_6e0acc42/2000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="英雄" tvg-name="第9集" tvg-logo="https://live.fanmingming.cn/tv/第9集.png",第9集
+https://yzzy.play-cdn14.com/20230122/4510_3b4219af/2000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="英雄" tvg-name="第10集" tvg-logo="https://live.fanmingming.cn/tv/第10集.png",第10集
+https://yzzy.play-cdn14.com/20230122/4509_e059b929/2000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="英雄" tvg-name="第11集" tvg-logo="https://live.fanmingming.cn/tv/第11集.png",第11集
+https://yzzy.play-cdn14.com/20230122/4518_6d363054/2000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="英雄" tvg-name="第12集" tvg-logo="https://live.fanmingming.cn/tv/第12集.png",第12集
+https://yzzy.play-cdn14.com/20230122/4515_5029a2b3/2000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="英雄" tvg-name="第13集" tvg-logo="https://live.fanmingming.cn/tv/第13集.png",第13集
+https://yzzy.play-cdn14.com/20230122/4513_8c543727/2000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="英雄" tvg-name="第14集" tvg-logo="https://live.fanmingming.cn/tv/第14集.png",第14集
+https://yzzy.play-cdn14.com/20230122/4511_400d2966/2000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="英雄" tvg-name="第15集" tvg-logo="https://live.fanmingming.cn/tv/第15集.png",第15集
+https://yzzy.play-cdn14.com/20230122/4519_72c76fb1/2000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="英雄" tvg-name="第16集" tvg-logo="https://live.fanmingming.cn/tv/第16集.png",第16集
+https://yzzy.play-cdn14.com/20230122/4514_9b63290d/2000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="英雄" tvg-name="第17集" tvg-logo="https://live.fanmingming.cn/tv/第17集.png",第17集
+https://yzzy.play-cdn14.com/20230122/4516_afb82127/2000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="英雄" tvg-name="第18集" tvg-logo="https://live.fanmingming.cn/tv/第18集.png",第18集
+https://yzzy.play-cdn14.com/20230122/4517_b01ca28f/2000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="英雄" tvg-name="第19集" tvg-logo="https://live.fanmingming.cn/tv/第19集.png",第19集
+https://yzzy.play-cdn14.com/20230122/4520_d0cbbaa3/2000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="英雄" tvg-name="第20集" tvg-logo="https://live.fanmingming.cn/tv/第20集.png",第20集
+https://yzzy.play-cdn14.com/20230122/4521_2e372735/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="棋士" tvg-name="第1集" tvg-logo="https://live.fanmingming.cn/tv/第1集.png",第1集
 https://v11.tlkqc.com/wjv11/202503/25/gRPaCSh9z283/video/index.m3u8
 #EXTINF:-1 group-title="棋士" tvg-name="第2集" tvg-logo="https://live.fanmingming.cn/tv/第2集.png",第2集
