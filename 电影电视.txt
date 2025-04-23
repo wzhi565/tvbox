@@ -1374,3 +1374,67 @@ https://v7.tlkqc.com/wjv7/202309/07/0CBXyjVk1t1/video/index.m3u8
 https://v7.tlkqc.com/wjv7/202309/07/9jG58fnX7Z1/video/index.m3u8
 #EXTINF:-1 group-title="永不磨灭的番号" tvg-name="第34集" tvg-logo="https://live.fanmingming.cn/tv/第34集.png",第34集
 https://v4.tlkqc.com/wjv4/202308/27/M94D2jzKgU1/video/index.m3u8
+#EXTINF:-1 group-title="战长沙" tvg-name="第01集" tvg-logo="https://live.fanmingming.cn/tv/第01集.png",第01集
+https://v7.tlkqc.com/wjv7/202309/07/V8JvMTSkRq1/video/index.m3u8
+#EXTINF:-1 group-title="战长沙" tvg-name="第02集" tvg-logo="https://live.fanmingming.cn/tv/第02集.png",第02集
+https://v4.tlkqc.com/wjv4/202308/27/q81i0TCH4p1/video/index.m3u8
+#EXTINF:-1 group-title="战长沙" tvg-name="第03集" tvg-logo="https://live.fanmingming.cn/tv/第03集.png",第03集
+https://v4.tlkqc.com/wjv4/202308/27/51CB9aN1N11/video/index.m3u8
+#EXTINF:-1 group-title="战长沙" tvg-name="第04集" tvg-logo="https://live.fanmingming.cn/tv/第04集.png",第04集
+https://v7.tlkqc.com/wjv7/202309/07/uQ4ghN7faE1/video/index.m3u8
+#EXTINF:-1 group-title="战长沙" tvg-name="第05集" tvg-logo="https://live.fanmingming.cn/tv/第05集.png",第05集
+https://v7.tlkqc.com/wjv7/202309/07/adygsnMbEy1/video/index.m3u8
+#EXTINF:-1 group-title="战长沙" tvg-name="第06集" tvg-logo="https://live.fanmingming.cn/tv/第06集.png",第06集
+https://v7.tlkqc.com/wjv7/202309/07/aMWRiZyaRg1/video/index.m3u8
+#EXTINF:-1 group-title="战长沙" tvg-name="第07集" tvg-logo="https://live.fanmingming.cn/tv/第07集.png",第07集
+https://v7.tlkqc.com/wjv7/202309/07/bL2girViQH1/video/index.m3u8
+#EXTINF:-1 group-title="战长沙" tvg-name="第08集" tvg-logo="https://live.fanmingming.cn/tv/第08集.png",第08集
+https://v7.tlkqc.com/wjv7/202309/07/YW9du831Tv1/video/index.m3u8
+#EXTINF:-1 group-title="战长沙" tvg-name="第09集" tvg-logo="https://live.fanmingming.cn/tv/第09集.png",第09集
+https://v7.tlkqc.com/wjv7/202309/07/sbAAW1NYsA1/video/index.m3u8
+#EXTINF:-1 group-title="战长沙" tvg-name="第10集" tvg-logo="https://live.fanmingming.cn/tv/第10集.png",第10集
+https://v7.tlkqc.com/wjv7/202309/07/YY9ENHxcW11/video/index.m3u8
+#EXTINF:-1 group-title="战长沙" tvg-name="第11集" tvg-logo="https://live.fanmingming.cn/tv/第11集.png",第11集
+https://v7.tlkqc.com/wjv7/202309/07/XbCWLmVTup1/video/index.m3u8
+#EXTINF:-1 group-title="战长沙" tvg-name="第12集" tvg-logo="https://live.fanmingming.cn/tv/第12集.png",第12集
+https://v7.tlkqc.com/wjv7/202309/07/biTuARAmb71/video/index.m3u8
+#EXTINF:-1 group-title="战长沙" tvg-name="第13集" tvg-logo="https://live.fanmingming.cn/tv/第13集.png",第13集
+https://v7.tlkqc.com/wjv7/202309/07/qyVRQQgNQS1/video/index.m3u8
+#EXTINF:-1 group-title="战长沙" tvg-name="第14集" tvg-logo="https://live.fanmingming.cn/tv/第14集.png",第14集
+https://v4.tlkqc.com/wjv4/202308/27/HPb5CzV4PJ1/video/index.m3u8
+#EXTINF:-1 group-title="战长沙" tvg-name="第15集" tvg-logo="https://live.fanmingming.cn/tv/第15集.png",第15集
+https://v4.tlkqc.com/wjv4/202308/27/zqU6LcwHAW1/video/index.m3u8
+#EXTINF:-1 group-title="战长沙" tvg-name="第16集" tvg-logo="https://live.fanmingming.cn/tv/第16集.png",第16集
+https://v4.tlkqc.com/wjv4/202308/27/QibyvgLfGK1/video/index.m3u8
+#EXTINF:-1 group-title="战长沙" tvg-name="第17集" tvg-logo="https://live.fanmingming.cn/tv/第17集.png",第17集
+https://v7.tlkqc.com/wjv7/202309/07/dXqMJT5cu91/video/index.m3u8
+#EXTINF:-1 group-title="战长沙" tvg-name="第18集" tvg-logo="https://live.fanmingming.cn/tv/第18集.png",第18集
+https://v7.tlkqc.com/wjv7/202309/07/B6BLJv8Czb1/video/index.m3u8
+#EXTINF:-1 group-title="战长沙" tvg-name="第19集" tvg-logo="https://live.fanmingming.cn/tv/第19集.png",第19集
+https://v7.tlkqc.com/wjv7/202309/07/HW1m9rtGLL1/video/index.m3u8
+#EXTINF:-1 group-title="战长沙" tvg-name="第20集" tvg-logo="https://live.fanmingming.cn/tv/第20集.png",第20集
+https://v4.tlkqc.com/wjv4/202308/27/epLw0GfVKq1/video/index.m3u8
+#EXTINF:-1 group-title="战长沙" tvg-name="第21集" tvg-logo="https://live.fanmingming.cn/tv/第21集.png",第21集
+https://v7.tlkqc.com/wjv7/202309/07/hi7JFfWVFS1/video/index.m3u8
+#EXTINF:-1 group-title="战长沙" tvg-name="第22集" tvg-logo="https://live.fanmingming.cn/tv/第22集.png",第22集
+https://v4.tlkqc.com/wjv4/202308/27/ek2EiuGr7r1/video/index.m3u8
+#EXTINF:-1 group-title="战长沙" tvg-name="第23集" tvg-logo="https://live.fanmingming.cn/tv/第23集.png",第23集
+https://v7.tlkqc.com/wjv7/202309/07/3iQDLpdGSH1/video/index.m3u8
+#EXTINF:-1 group-title="战长沙" tvg-name="第24集" tvg-logo="https://live.fanmingming.cn/tv/第24集.png",第24集
+https://v7.tlkqc.com/wjv7/202309/07/hUM5QMiv2i1/video/index.m3u8
+#EXTINF:-1 group-title="战长沙" tvg-name="第25集" tvg-logo="https://live.fanmingming.cn/tv/第25集.png",第25集
+https://v7.tlkqc.com/wjv7/202309/07/EjCwawjP0f1/video/index.m3u8
+#EXTINF:-1 group-title="战长沙" tvg-name="第26集" tvg-logo="https://live.fanmingming.cn/tv/第26集.png",第26集
+https://v7.tlkqc.com/wjv7/202309/07/iVMzHmdtYY1/video/index.m3u8
+#EXTINF:-1 group-title="战长沙" tvg-name="第27集" tvg-logo="https://live.fanmingming.cn/tv/第27集.png",第27集
+https://v7.tlkqc.com/wjv7/202309/07/qhv3rbc5BP1/video/index.m3u8
+#EXTINF:-1 group-title="战长沙" tvg-name="第28集" tvg-logo="https://live.fanmingming.cn/tv/第28集.png",第28集
+https://v4.tlkqc.com/wjv4/202308/27/wdPiZHYwLd1/video/index.m3u8
+#EXTINF:-1 group-title="战长沙" tvg-name="第29集" tvg-logo="https://live.fanmingming.cn/tv/第29集.png",第29集
+https://v4.tlkqc.com/wjv4/202308/27/EfGRBgrZMJ1/video/index.m3u8
+#EXTINF:-1 group-title="战长沙" tvg-name="第30集" tvg-logo="https://live.fanmingming.cn/tv/第30集.png",第30集
+https://v4.tlkqc.com/wjv4/202308/27/vfReAUpAYz1/video/index.m3u8
+#EXTINF:-1 group-title="战长沙" tvg-name="第31集" tvg-logo="https://live.fanmingming.cn/tv/第31集.png",第31集
+https://v4.tlkqc.com/wjv4/202308/31/wMxu3eiAme1/video/index.m3u8
+#EXTINF:-1 group-title="战长沙" tvg-name="第32集" tvg-logo="https://live.fanmingming.cn/tv/第32集.png",第32集
+https://v7.tlkqc.com/wjv7/202309/07/s4LaHdGL861/video/index.m3u8
