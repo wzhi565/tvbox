@@ -558,238 +558,6 @@ https://api.heimuer.app/play/c16d8b4774c940e8a95cf7219f1fa00d.m3u8
 https://api.heimuer.app/play/43c09e8a11e64ef28a41f0351ddf814d.m3u8
 #EXTINF:-1 group-title="亮剑" tvg-name="第30集" tvg-logo="https://live.fanmingming.com/tv/第30集.png",第30集
 https://api.heimuer.app/play/70a1f397af0c42d0bf805cdd1c09e5d2.m3u8
-#EXTINF:-1 group-title="我是刑警" tvg-name="第1集" tvg-logo="https://live.fanmingming.cn/tv/第1集.png",第1集
-https://m3u8.hmrvideo.com/play/44463559b9b54909acb2a260e624739d.m3u8
-#EXTINF:-1 group-title="我是刑警" tvg-name="第2集" tvg-logo="https://live.fanmingming.cn/tv/第2集.png",第2集
-https://m3u8.hmrvideo.com/play/4315ae77d7d640a990fc80c0d87a37e8.m3u8
-#EXTINF:-1 group-title="我是刑警" tvg-name="第3集" tvg-logo="https://live.fanmingming.cn/tv/第3集.png",第3集
-https://m3u8.hmrvideo.com/play/09df928f85ec4e58b9724db69bd08ea0.m3u8
-#EXTINF:-1 group-title="我是刑警" tvg-name="第4集" tvg-logo="https://live.fanmingming.cn/tv/第4集.png",第4集
-https://m3u8.hmrvideo.com/play/a2c14c2cae034bbc8056580692339f88.m3u8
-#EXTINF:-1 group-title="我是刑警" tvg-name="第5集" tvg-logo="https://live.fanmingming.cn/tv/第5集.png",第5集
-https://m3u8.hmrvideo.com/play/74e6b0ef66da4d169822646ae4d2508d.m3u8
-#EXTINF:-1 group-title="我是刑警" tvg-name="第6集" tvg-logo="https://live.fanmingming.cn/tv/第6集.png",第6集
-https://m3u8.hmrvideo.com/play/de60f29b9560458490edd0129d1a391c.m3u8
-#EXTINF:-1 group-title="我是刑警" tvg-name="第7集" tvg-logo="https://live.fanmingming.cn/tv/第7集.png",第7集
-https://m3u8.hmrvideo.com/play/50a11e6e7e7e4502a1f8d465625dd94c.m3u8
-#EXTINF:-1 group-title="我是刑警" tvg-name="第8集" tvg-logo="https://live.fanmingming.cn/tv/第8集.png",第8集
-https://m3u8.hmrvideo.com/play/dfbf133e5ab54d25b5d631198c15cd58.m3u8
-#EXTINF:-1 group-title="我是刑警" tvg-name="第9集" tvg-logo="https://live.fanmingming.cn/tv/第9集.png",第9集
-https://m3u8.hmrvideo.com/play/e28bcb928db8465cb8c39ef4391e28d6.m3u8
-#EXTINF:-1 group-title="我是刑警" tvg-name="第10集" tvg-logo="https://live.fanmingming.cn/tv/第10集.png",第10集
-https://m3u8.hmrvideo.com/play/cf82d533a1414fabbc4eb9a6c92e55e9.m3u8
-#EXTINF:-1 group-title="我是刑警" tvg-name="第11集" tvg-logo="https://live.fanmingming.cn/tv/第11集.png",第11集
-https://m3u8.hmrvideo.com/play/f854208fa5b24d46a77cec38760358cb.m3u8
-#EXTINF:-1 group-title="我是刑警" tvg-name="第12集" tvg-logo="https://live.fanmingming.cn/tv/第12集.png",第12集
-https://m3u8.hmrvideo.com/play/4500bff34958480d8c8a5d240e9ff89c.m3u8
-#EXTINF:-1 group-title="我是刑警" tvg-name="第13集" tvg-logo="https://live.fanmingming.cn/tv/第13集.png",第13集
-https://m3u8.hmrvideo.com/play/c7f874dc675d4b8da5fb14d916dff734.m3u8
-#EXTINF:-1 group-title="我是刑警" tvg-name="第14集" tvg-logo="https://live.fanmingming.cn/tv/第14集.png",第14集
-https://m3u8.hmrvideo.com/play/1f6fec423d96461b9d4c909412a12068.m3u8
-#EXTINF:-1 group-title="我是刑警" tvg-name="第15集" tvg-logo="https://live.fanmingming.cn/tv/第15集.png",第15集
-https://m3u8.hmrvideo.com/play/5833a3d645214a57be83a83195bb8a69.m3u8
-#EXTINF:-1 group-title="我是刑警" tvg-name="第16集" tvg-logo="https://live.fanmingming.cn/tv/第16集.png",第16集
-https://m3u8.hmrvideo.com/play/50d7514d929f4a6bacd9be5f4ecfc253.m3u8
-#EXTINF:-1 group-title="我是刑警" tvg-name="第17集" tvg-logo="https://live.fanmingming.cn/tv/第17集.png",第17集
-https://m3u8.hmrvideo.com/play/3dd201430d264806bc4c9d80df351d37.m3u8
-#EXTINF:-1 group-title="我是刑警" tvg-name="第18集" tvg-logo="https://live.fanmingming.cn/tv/第18集.png",第18集
-https://m3u8.hmrvideo.com/play/d876907741574e7eaafb4344e154aab9.m3u8
-#EXTINF:-1 group-title="我是刑警" tvg-name="第19集" tvg-logo="https://live.fanmingming.cn/tv/第19集.png",第19集
-https://m3u8.hmrvideo.com/play/f0b7b86576d748b587a02409afd417ca.m3u8
-#EXTINF:-1 group-title="我是刑警" tvg-name="第20集" tvg-logo="https://live.fanmingming.cn/tv/第20集.png",第20集
-https://m3u8.hmrvideo.com/play/9bf4b98dd80941bd84ce670350e4bba0.m3u8
-#EXTINF:-1 group-title="我是刑警" tvg-name="第21集" tvg-logo="https://live.fanmingming.cn/tv/第21集.png",第21集
-https://m3u8.hmrvideo.com/play/18f34986f354424fa8da666b5bc41486.m3u8
-#EXTINF:-1 group-title="我是刑警" tvg-name="第22集" tvg-logo="https://live.fanmingming.cn/tv/第22集.png",第22集
-https://m3u8.hmrvideo.com/play/ebc47ef82d4c4958b54bb056ba9e1343.m3u8
-#EXTINF:-1 group-title="我是刑警" tvg-name="第23集" tvg-logo="https://live.fanmingming.cn/tv/第23集.png",第23集
-https://m3u8.hmrvideo.com/play/67a3621ad45c4eba950cac9252dd80cb.m3u8
-#EXTINF:-1 group-title="我是刑警" tvg-name="第24集" tvg-logo="https://live.fanmingming.cn/tv/第24集.png",第24集
-https://m3u8.hmrvideo.com/play/41170caa4add4eaea7e631b87032d8ae.m3u8
-#EXTINF:-1 group-title="我是刑警" tvg-name="第25集" tvg-logo="https://live.fanmingming.cn/tv/第25集.png",第25集
-https://m3u8.hmrvideo.com/play/eca85e5d2eef4a1fa83713463ff96a47.m3u8
-#EXTINF:-1 group-title="我是刑警" tvg-name="第26集" tvg-logo="https://live.fanmingming.cn/tv/第26集.png",第26集
-https://m3u8.hmrvideo.com/play/d4b902e56c994023b20f8f22de7eaa2c.m3u8
-#EXTINF:-1 group-title="我是刑警" tvg-name="第27集" tvg-logo="https://live.fanmingming.cn/tv/第27集.png",第27集
-https://m3u8.hmrvideo.com/play/f955feff390347568bc8eae5d409b721.m3u8
-#EXTINF:-1 group-title="我是刑警" tvg-name="第28集" tvg-logo="https://live.fanmingming.cn/tv/第28集.png",第28集
-https://m3u8.hmrvideo.com/play/26cd1929c02a441f9a42998cce9fd115.m3u8
-#EXTINF:-1 group-title="我是刑警" tvg-name="第29集" tvg-logo="https://live.fanmingming.cn/tv/第29集.png",第29集
-https://m3u8.hmrvideo.com/play/3285f58307f9403ba4c65c94f3271045.m3u8
-#EXTINF:-1 group-title="我是刑警" tvg-name="第30集" tvg-logo="https://live.fanmingming.cn/tv/第30集.png",第30集
-https://m3u8.hmrvideo.com/play/cb602f6ef1c1432e94c2caf24b0e1ac6.m3u8
-#EXTINF:-1 group-title="我是刑警" tvg-name="第31集" tvg-logo="https://live.fanmingming.cn/tv/第31集.png",第31集
-https://m3u8.hmrvideo.com/play/d094e086c4014d41999547d6f8b3842f.m3u8
-#EXTINF:-1 group-title="我是刑警" tvg-name="第32集" tvg-logo="https://live.fanmingming.cn/tv/第32集.png",第32集
-https://m3u8.hmrvideo.com/play/c8d87f5b4c95426f954b88eeb9f2df46.m3u8
-#EXTINF:-1 group-title="我是刑警" tvg-name="第33集" tvg-logo="https://live.fanmingming.cn/tv/第33集.png",第33集
-https://m3u8.hmrvideo.com/play/1abe09df34c54c8cab11d0839a18d6b6.m3u8
-#EXTINF:-1 group-title="我是刑警" tvg-name="第34集" tvg-logo="https://live.fanmingming.cn/tv/第34集.png",第34集
-https://m3u8.hmrvideo.com/play/84fb9a75d6694c6d8eccdcb2682b7361.m3u8
-#EXTINF:-1 group-title="我是刑警" tvg-name="第35集" tvg-logo="https://live.fanmingming.cn/tv/第35集.png",第35集
-https://m3u8.hmrvideo.com/play/545229c3071e4585ac76a1bb7855d6bc.m3u8
-#EXTINF:-1 group-title="我是刑警" tvg-name="第36集" tvg-logo="https://live.fanmingming.cn/tv/第36集.png",第36集
-https://m3u8.hmrvideo.com/play/9a4eec13ce8243d796b8b76aa2ae10f0.m3u8
-#EXTINF:-1 group-title="我是刑警" tvg-name="第37集" tvg-logo="https://live.fanmingming.cn/tv/第37集.png",第37集
-https://m3u8.hmrvideo.com/play/0f65eff527a542b58df3423ecd85c542.m3u8
-#EXTINF:-1 group-title="我是刑警" tvg-name="第38集" tvg-logo="https://live.fanmingming.cn/tv/第38集.png",第38集
-https://m3u8.hmrvideo.com/play/6cd3d4b0169c423499b13dc44e8c0509.m3u8
-#EXTINF:-1 group-title="猎鹰1949" tvg-name="第1集" tvg-logo="https://live.fanmingming.cn/tv/第1集.png",第1集
-https://hn.bfvvs.com/play/6dB80mNa/index.m3u8
-#EXTINF:-1 group-title="猎鹰1949" tvg-name="第2集" tvg-logo="https://live.fanmingming.cn/tv/第2集.png",第2集
-https://hn.bfvvs.com/play/1aKYxyYd/index.m3u8
-#EXTINF:-1 group-title="猎鹰1949" tvg-name="第3集" tvg-logo="https://live.fanmingming.cn/tv/第3集.png",第3集
-https://hn.bfvvs.com/play/ZdPMDEWe/index.m3u8
-#EXTINF:-1 group-title="猎鹰1949" tvg-name="第4集" tvg-logo="https://live.fanmingming.cn/tv/第4集.png",第4集
-https://hn.bfvvs.com/play/BeX7OlAd/index.m3u8
-#EXTINF:-1 group-title="猎鹰1949" tvg-name="第5集" tvg-logo="https://live.fanmingming.cn/tv/第5集.png",第5集
-https://hn.bfvvs.com/play/Le3jDXxd/index.m3u8
-#EXTINF:-1 group-title="猎鹰1949" tvg-name="第6集" tvg-logo="https://live.fanmingming.cn/tv/第6集.png",第6集
-https://hn.bfvvs.com/play/yb8oLNLa/index.m3u8
-#EXTINF:-1 group-title="猎鹰1949" tvg-name="第7集" tvg-logo="https://live.fanmingming.cn/tv/第7集.png",第7集
-https://hn.bfvvs.com/play/mbkw4LEb/index.m3u8
-#EXTINF:-1 group-title="猎鹰1949" tvg-name="第8集" tvg-logo="https://live.fanmingming.cn/tv/第8集.png",第8集
-https://hn.bfvvs.com/play/mepR5mNb/index.m3u8
-#EXTINF:-1 group-title="猎鹰1949" tvg-name="第9集" tvg-logo="https://live.fanmingming.cn/tv/第9集.png",第9集
-https://hn.bfvvs.com/play/7axV4rqd/index.m3u8
-#EXTINF:-1 group-title="猎鹰1949" tvg-name="第10集" tvg-logo="https://live.fanmingming.cn/tv/第10集.png",第10集
-https://hn.bfvvs.com/play/DbDYnVqd/index.m3u8
-#EXTINF:-1 group-title="猎鹰1949" tvg-name="第11集" tvg-logo="https://live.fanmingming.cn/tv/第11集.png",第11集
-https://hn.bfvvs.com/play/wdLYyVAe/index.m3u8
-#EXTINF:-1 group-title="猎鹰1949" tvg-name="第12集" tvg-logo="https://live.fanmingming.cn/tv/第12集.png",第12集
-https://hn.bfvvs.com/play/qaQNE8Lb/index.m3u8
-#EXTINF:-1 group-title="猎鹰1949" tvg-name="第13集" tvg-logo="https://live.fanmingming.cn/tv/第13集.png",第13集
-https://hn.bfvvs.com/play/QbYQP9nb/index.m3u8
-#EXTINF:-1 group-title="猎鹰1949" tvg-name="第14集" tvg-logo="https://live.fanmingming.cn/tv/第14集.png",第14集
-https://hn.bfvvs.com/play/Rb4k0yna/index.m3u8
-#EXTINF:-1 group-title="猎鹰1949" tvg-name="第15集" tvg-logo="https://live.fanmingming.cn/tv/第15集.png",第15集
-https://hn.bfvvs.com/play/Pe9pMEZd/index.m3u8
-#EXTINF:-1 group-title="猎鹰1949" tvg-name="第16集" tvg-logo="https://live.fanmingming.cn/tv/第16集.png",第16集
-https://hn.bfvvs.com/play/nelv49rb/index.m3u8
-#EXTINF:-1 group-title="猎鹰1949" tvg-name="第17集" tvg-logo="https://live.fanmingming.cn/tv/第17集.png",第17集
-https://hn.bfvvs.com/play/zbqV4kGd/index.m3u8
-#EXTINF:-1 group-title="猎鹰1949" tvg-name="第18集" tvg-logo="https://live.fanmingming.cn/tv/第18集.png",第18集
-https://hn.bfvvs.com/play/lejv4WRe/index.m3u8
-#EXTINF:-1 group-title="猎鹰1949" tvg-name="第19集" tvg-logo="https://live.fanmingming.cn/tv/第19集.png",第19集
-https://hn.bfvvs.com/play/xbov4Wja/index.m3u8
-#EXTINF:-1 group-title="猎鹰1949" tvg-name="第20集" tvg-logo="https://live.fanmingming.cn/tv/第20集.png",第20集
-https://hn.bfvvs.com/play/DdwE46Ra/index.m3u8
-#EXTINF:-1 group-title="猎鹰1949" tvg-name="第21集" tvg-logo="https://live.fanmingming.cn/tv/第21集.png",第21集
-https://hn.bfvvs.com/play/6dB80GXa/index.m3u8
-#EXTINF:-1 group-title="猎鹰1949" tvg-name="第22集" tvg-logo="https://live.fanmingming.cn/tv/第22集.png",第22集
-https://hn.bfvvs.com/play/1aKYxlRd/index.m3u8
-#EXTINF:-1 group-title="猎鹰1949" tvg-name="第23集" tvg-logo="https://live.fanmingming.cn/tv/第23集.png",第23集
-https://hn.bfvvs.com/play/ZdPMDqwe/index.m3u8
-#EXTINF:-1 group-title="猎鹰1949" tvg-name="第24集" tvg-logo="https://live.fanmingming.cn/tv/第24集.png",第24集
-https://hn.bfvvs.com/play/BeX7OBWd/index.m3u8
-#EXTINF:-1 group-title="猎鹰1949" tvg-name="第25集" tvg-logo="https://live.fanmingming.cn/tv/第25集.png",第25集
-https://hn.bfvvs.com/play/Le3jDmMd/index.m3u8
-#EXTINF:-1 group-title="猎鹰1949" tvg-name="第26集" tvg-logo="https://live.fanmingming.cn/tv/第26集.png",第26集
-https://hn.bfvvs.com/play/yb8oLrma/index.m3u8
-#EXTINF:-1 group-title="猎鹰1949" tvg-name="第27集" tvg-logo="https://live.fanmingming.cn/tv/第27集.png",第27集
-https://hn.bfvvs.com/play/mepR5D2b/index.m3u8
-#EXTINF:-1 group-title="猎鹰1949" tvg-name="第28集" tvg-logo="https://live.fanmingming.cn/tv/第28集.png",第28集
-https://hn.bfvvs.com/play/7axV409d/index.m3u8
-#EXTINF:-1 group-title="猎鹰1949" tvg-name="第29集" tvg-logo="https://live.fanmingming.cn/tv/第29集.png",第29集
-https://hn.bfvvs.com/play/DbDYnOxd/index.m3u8
-#EXTINF:-1 group-title="猎鹰1949" tvg-name="第30集" tvg-logo="https://live.fanmingming.cn/tv/第30集.png",第30集
-https://hn.bfvvs.com/play/wdLYypwe/index.m3u8
-#EXTINF:-1 group-title="猎鹰1949" tvg-name="第31集" tvg-logo="https://live.fanmingming.cn/tv/第31集.png",第31集
-https://hn.bfvvs.com/play/qaQNExlb/index.m3u8
-#EXTINF:-1 group-title="猎鹰1949" tvg-name="第32集" tvg-logo="https://live.fanmingming.cn/tv/第32集.png",第32集
-https://hn.bfvvs.com/play/QbYQPJKb/index.m3u8
-#EXTINF:-1 group-title="猎鹰1949" tvg-name="第33集" tvg-logo="https://live.fanmingming.cn/tv/第33集.png",第33集
-https://hn.bfvvs.com/play/Rb4k0r1a/index.m3u8
-#EXTINF:-1 group-title="猎鹰1949" tvg-name="第34集" tvg-logo="https://live.fanmingming.cn/tv/第34集.png",第34集
-https://hn.bfvvs.com/play/nelv4l5b/index.m3u8
-#EXTINF:-1 group-title="猎鹰1949" tvg-name="第35集" tvg-logo="https://live.fanmingming.cn/tv/第35集.png",第35集
-https://hn.bfvvs.com/play/lejv4j5e/index.m3u8
-#EXTINF:-1 group-title="猎鹰1949" tvg-name="第36集" tvg-logo="https://live.fanmingming.cn/tv/第36集.png",第36集
-https://hn.bfvvs.com/play/xbov4oKa/index.m3u8
-#EXTINF:-1 group-title="猎鹰1949" tvg-name="第37集" tvg-logo="https://live.fanmingming.cn/tv/第37集.png",第37集
-https://hn.bfvvs.com/play/DdwE4zwa/index.m3u8
-#EXTINF:-1 group-title="猎鹰1949" tvg-name="第38集" tvg-logo="https://live.fanmingming.cn/tv/第38集.png",第38集
-https://hn.bfvvs.com/play/6dB80AJa/index.m3u8
-#EXTINF:-1 group-title="猎鹰1949" tvg-name="第39集" tvg-logo="https://live.fanmingming.cn/tv/第39集.png",第39集
-https://hn.bfvvs.com/play/1aKYxNnd/index.m3u8
-#EXTINF:-1 group-title="猎鹰19492" tvg-name="第1集" tvg-logo="https://live.fanmingming.cn/tv/第1集.png",第1集
-https://v7.tlkqc.com/wjv7/202309/12/cVdWL8wAe11/video/1000k_720/hls/index.m3u8
-#EXTINF:-1 group-title="猎鹰19492" tvg-name="第2集" tvg-logo="https://live.fanmingming.cn/tv/第2集.png",第2集
-https://v7.tlkqc.com/wjv7/202309/12/km1LPvsNgR1/video/1000k_720/hls/index.m3u8
-#EXTINF:-1 group-title="猎鹰19492" tvg-name="第3集" tvg-logo="https://live.fanmingming.cn/tv/第3集.png",第3集
-https://v7.tlkqc.com/wjv7/202309/12/79a9jvPrv11/video/1000k_720/hls/index.m3u8
-#EXTINF:-1 group-title="猎鹰19492" tvg-name="第4集" tvg-logo="https://live.fanmingming.cn/tv/第4集.png",第4集
-https://v7.tlkqc.com/wjv7/202309/12/WMDygxSBdy1/video/1000k_720/hls/index.m3u8
-#EXTINF:-1 group-title="猎鹰19492" tvg-name="第5集" tvg-logo="https://live.fanmingming.cn/tv/第5集.png",第5集
-https://v7.tlkqc.com/wjv7/202309/12/vxZRQqTpnx1/video/1000k_720/hls/index.m3u8
-#EXTINF:-1 group-title="猎鹰19492" tvg-name="第6集" tvg-logo="https://live.fanmingming.cn/tv/第6集.png",第6集
-https://v7.tlkqc.com/wjv7/202309/12/4GX3mwWCWU1/video/1000k_720/hls/index.m3u8
-#EXTINF:-1 group-title="猎鹰19492" tvg-name="第7集" tvg-logo="https://live.fanmingming.cn/tv/第7集.png",第7集
-https://v7.tlkqc.com/wjv7/202309/12/fLaAW4zry41/video/1000k_720/hls/index.m3u8
-#EXTINF:-1 group-title="猎鹰19492" tvg-name="第8集" tvg-logo="https://live.fanmingming.cn/tv/第8集.png",第8集
-https://v7.tlkqc.com/wjv7/202309/12/NCLUGWSPvH1/video/1000k_720/hls/index.m3u8
-#EXTINF:-1 group-title="猎鹰19492" tvg-name="第9集" tvg-logo="https://live.fanmingming.cn/tv/第9集.png",第9集
-https://v7.tlkqc.com/wjv7/202309/12/SNNuUjLK071/video/1000k_720/hls/index.m3u8
-#EXTINF:-1 group-title="猎鹰19492" tvg-name="第10集" tvg-logo="https://live.fanmingming.cn/tv/第10集.png",第10集
-https://v7.tlkqc.com/wjv7/202309/12/fj5ci3a3pA1/video/1000k_720/hls/index.m3u8
-#EXTINF:-1 group-title="猎鹰19492" tvg-name="第11集" tvg-logo="https://live.fanmingming.cn/tv/第11集.png",第11集
-https://v7.tlkqc.com/wjv7/202309/12/QbPz71bCnv1/video/1000k_720/hls/index.m3u8
-#EXTINF:-1 group-title="猎鹰19492" tvg-name="第12集" tvg-logo="https://live.fanmingming.cn/tv/第12集.png",第12集
-https://v7.tlkqc.com/wjv7/202309/12/Fh4AFDeiqn1/video/1000k_720/hls/index.m3u8
-#EXTINF:-1 group-title="猎鹰19492" tvg-name="第13集" tvg-logo="https://live.fanmingming.cn/tv/第13集.png",第13集
-https://v7.tlkqc.com/wjv7/202309/12/c0Kab4AUDB1/video/1000k_720/hls/index.m3u8
-#EXTINF:-1 group-title="猎鹰19492" tvg-name="第14集" tvg-logo="https://live.fanmingming.cn/tv/第14集.png",第14集
-https://v7.tlkqc.com/wjv7/202309/12/j3wMypztsS1/video/1000k_720/hls/index.m3u8
-#EXTINF:-1 group-title="猎鹰19492" tvg-name="第15集" tvg-logo="https://live.fanmingming.cn/tv/第15集.png",第15集
-https://v7.tlkqc.com/wjv7/202309/12/cSrprhXN3a1/video/1000k_720/hls/index.m3u8
-#EXTINF:-1 group-title="猎鹰19492" tvg-name="第16集" tvg-logo="https://live.fanmingming.cn/tv/第16集.png",第16集
-https://v7.tlkqc.com/wjv7/202309/12/uCtbaU5UgE1/video/1000k_720/hls/index.m3u8
-#EXTINF:-1 group-title="猎鹰19492" tvg-name="第17集" tvg-logo="https://live.fanmingming.cn/tv/第17集.png",第17集
-https://v7.tlkqc.com/wjv7/202309/12/ajnUtSDTcb1/video/1000k_720/hls/index.m3u8
-#EXTINF:-1 group-title="猎鹰19492" tvg-name="第18集" tvg-logo="https://live.fanmingming.cn/tv/第18集.png",第18集
-https://v7.tlkqc.com/wjv7/202309/12/ed8NgykhGP1/video/1000k_720/hls/index.m3u8
-#EXTINF:-1 group-title="猎鹰19492" tvg-name="第19集" tvg-logo="https://live.fanmingming.cn/tv/第19集.png",第19集
-https://v7.tlkqc.com/wjv7/202309/12/s1WVmzSHeB1/video/1000k_720/hls/index.m3u8
-#EXTINF:-1 group-title="猎鹰19492" tvg-name="第20集" tvg-logo="https://live.fanmingming.cn/tv/第20集.png",第20集
-https://v7.tlkqc.com/wjv7/202309/12/k1zazAP5V11/video/1000k_720/hls/index.m3u8
-#EXTINF:-1 group-title="猎鹰19492" tvg-name="第21集" tvg-logo="https://live.fanmingming.cn/tv/第21集.png",第21集
-https://v7.tlkqc.com/wjv7/202309/12/YwGsRFjZA81/video/1000k_720/hls/index.m3u8
-#EXTINF:-1 group-title="猎鹰19492" tvg-name="第22集" tvg-logo="https://live.fanmingming.cn/tv/第22集.png",第22集
-https://v7.tlkqc.com/wjv7/202309/12/4q4cELnCNG1/video/1000k_720/hls/index.m3u8
-#EXTINF:-1 group-title="猎鹰19492" tvg-name="第23集" tvg-logo="https://live.fanmingming.cn/tv/第23集.png",第23集
-https://v7.tlkqc.com/wjv7/202309/12/A9zwDqFk8a1/video/1000k_720/hls/index.m3u8
-#EXTINF:-1 group-title="猎鹰19492" tvg-name="第24集" tvg-logo="https://live.fanmingming.cn/tv/第24集.png",第24集
-https://v7.tlkqc.com/wjv7/202309/12/SjbcVicPzh1/video/1000k_720/hls/index.m3u8
-#EXTINF:-1 group-title="猎鹰19492" tvg-name="第25集" tvg-logo="https://live.fanmingming.cn/tv/第25集.png",第25集
-https://v7.tlkqc.com/wjv7/202309/12/UPvkXC1sAy1/video/1000k_720/hls/index.m3u8
-#EXTINF:-1 group-title="猎鹰19492" tvg-name="第26集" tvg-logo="https://live.fanmingming.cn/tv/第26集.png",第26集
-https://v7.tlkqc.com/wjv7/202309/12/y0nHBjbL3J1/video/1000k_720/hls/index.m3u8
-#EXTINF:-1 group-title="猎鹰19492" tvg-name="第27集" tvg-logo="https://live.fanmingming.cn/tv/第27集.png",第27集
-https://v7.tlkqc.com/wjv7/202309/12/zXvTEk8nGm1/video/1000k_720/hls/index.m3u8
-#EXTINF:-1 group-title="猎鹰19492" tvg-name="第28集" tvg-logo="https://live.fanmingming.cn/tv/第28集.png",第28集
-https://v7.tlkqc.com/wjv7/202309/12/CvYc7YwFzi1/video/1000k_720/hls/index.m3u8
-#EXTINF:-1 group-title="猎鹰19492" tvg-name="第29集" tvg-logo="https://live.fanmingming.cn/tv/第29集.png",第29集
-https://v7.tlkqc.com/wjv7/202309/12/JvACh61VX11/video/1000k_720/hls/index.m3u8
-#EXTINF:-1 group-title="猎鹰19492" tvg-name="第30集" tvg-logo="https://live.fanmingming.cn/tv/第30集.png",第30集
-https://v7.tlkqc.com/wjv7/202309/12/MeNsgD96Qv1/video/1000k_720/hls/index.m3u8
-#EXTINF:-1 group-title="猎鹰19492" tvg-name="第31集" tvg-logo="https://live.fanmingming.cn/tv/第31集.png",第31集
-https://v7.tlkqc.com/wjv7/202309/12/wGQm1wHMv81/video/1000k_720/hls/index.m3u8
-#EXTINF:-1 group-title="猎鹰19492" tvg-name="第32集" tvg-logo="https://live.fanmingming.cn/tv/第32集.png",第32集
-https://v7.tlkqc.com/wjv7/202309/12/ibGeqexiJu1/video/1000k_720/hls/index.m3u8
-#EXTINF:-1 group-title="猎鹰19492" tvg-name="第33集" tvg-logo="https://live.fanmingming.cn/tv/第33集.png",第33集
-https://v7.tlkqc.com/wjv7/202309/12/EUiB33yEqC1/video/1000k_720/hls/index.m3u8
-#EXTINF:-1 group-title="猎鹰19492" tvg-name="第34集" tvg-logo="https://live.fanmingming.cn/tv/第34集.png",第34集
-https://v7.tlkqc.com/wjv7/202309/12/Mp1LGbbirZ1/video/1000k_720/hls/index.m3u8
-#EXTINF:-1 group-title="猎鹰19492" tvg-name="第35集" tvg-logo="https://live.fanmingming.cn/tv/第35集.png",第35集
-https://v7.tlkqc.com/wjv7/202309/12/kxc8r4HMiM1/video/1000k_720/hls/index.m3u8
-#EXTINF:-1 group-title="猎鹰19492" tvg-name="第36集" tvg-logo="https://live.fanmingming.cn/tv/第36集.png",第36集
-https://v7.tlkqc.com/wjv7/202309/12/d7ZGAs97Z71/video/1000k_720/hls/index.m3u8
-#EXTINF:-1 group-title="猎鹰19492" tvg-name="第37集" tvg-logo="https://live.fanmingming.cn/tv/第37集.png",第37集
-https://v7.tlkqc.com/wjv7/202309/12/yyZwx9BLEw1/video/1000k_720/hls/index.m3u8
-#EXTINF:-1 group-title="猎鹰19492" tvg-name="第38集" tvg-logo="https://live.fanmingming.cn/tv/第38集.png",第38集
-https://v7.tlkqc.com/wjv7/202309/12/V4e92c2wE11/video/1000k_720/hls/index.m3u8
-#EXTINF:-1 group-title="猎鹰19492" tvg-name="第39集" tvg-logo="https://live.fanmingming.cn/tv/第39集.png",第39集
-https://v7.tlkqc.com/wjv7/202309/12/Af9X39DVLD1/video/1000k_720/hls/index.m3u8
 #EXTINF:-1 group-title="大漠枪神" tvg-name="第1集" tvg-logo="https://live.fanmingming.cn/tv/第1集.png",第1集
 https://vip.ffzy-play.com/20221012/469_9dec366b/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="大漠枪神" tvg-name="第2集" tvg-logo="https://live.fanmingming.cn/tv/第2集.png",第2集
@@ -1538,3 +1306,71 @@ https://v7.tlkqc.com/wjv7/202309/12/mivEqarFXn1/video/index.m3u8
 https://v7.tlkqc.com/wjv7/202309/12/n8VcPuhEYP1/video/index.m3u8
 #EXTINF:-1 group-title="生死线" tvg-name="第48集" tvg-logo="https://live.fanmingming.cn/tv/第48集.png",第48集
 https://v7.tlkqc.com/wjv7/202309/12/a4cJ53XPPw1/video/index.m3u8
+#EXTINF:-1 group-title="永不磨灭的番号" tvg-name="第01集" tvg-logo="https://live.fanmingming.cn/tv/第01集.png",第01集
+https://v7.tlkqc.com/wjv7/202309/07/U1706npNyb1/video/index.m3u8
+#EXTINF:-1 group-title="永不磨灭的番号" tvg-name="第02集" tvg-logo="https://live.fanmingming.cn/tv/第02集.png",第02集
+https://v7.tlkqc.com/wjv7/202309/07/wLgpstb1Lk1/video/index.m3u8
+#EXTINF:-1 group-title="永不磨灭的番号" tvg-name="第03集" tvg-logo="https://live.fanmingming.cn/tv/第03集.png",第03集
+https://v4.tlkqc.com/wjv4/202308/27/WpALL1SBvR1/video/index.m3u8
+#EXTINF:-1 group-title="永不磨灭的番号" tvg-name="第04集" tvg-logo="https://live.fanmingming.cn/tv/第04集.png",第04集
+https://v7.tlkqc.com/wjv7/202309/07/1hG9MMVg2h1/video/index.m3u8
+#EXTINF:-1 group-title="永不磨灭的番号" tvg-name="第05集" tvg-logo="https://live.fanmingming.cn/tv/第05集.png",第05集
+https://v7.tlkqc.com/wjv7/202309/07/cZQBWrtAeC1/video/index.m3u8
+#EXTINF:-1 group-title="永不磨灭的番号" tvg-name="第06集" tvg-logo="https://live.fanmingming.cn/tv/第06集.png",第06集
+https://v4.tlkqc.com/wjv4/202308/27/MTj2MyVj9d1/video/index.m3u8
+#EXTINF:-1 group-title="永不磨灭的番号" tvg-name="第07集" tvg-logo="https://live.fanmingming.cn/tv/第07集.png",第07集
+https://v4.tlkqc.com/wjv4/202308/27/nbEd3N7kPS1/video/index.m3u8
+#EXTINF:-1 group-title="永不磨灭的番号" tvg-name="第08集" tvg-logo="https://live.fanmingming.cn/tv/第08集.png",第08集
+https://v7.tlkqc.com/wjv7/202309/07/4pGejA0sTk1/video/index.m3u8
+#EXTINF:-1 group-title="永不磨灭的番号" tvg-name="第09集" tvg-logo="https://live.fanmingming.cn/tv/第09集.png",第09集
+https://v7.tlkqc.com/wjv7/202309/07/jg8AmEW0ZN1/video/index.m3u8
+#EXTINF:-1 group-title="永不磨灭的番号" tvg-name="第10集" tvg-logo="https://live.fanmingming.cn/tv/第10集.png",第10集
+https://v7.tlkqc.com/wjv7/202309/07/wP9GUkFNAc1/video/index.m3u8
+#EXTINF:-1 group-title="永不磨灭的番号" tvg-name="第11集" tvg-logo="https://live.fanmingming.cn/tv/第11集.png",第11集
+https://v7.tlkqc.com/wjv7/202309/07/DvvRAPd6af1/video/index.m3u8
+#EXTINF:-1 group-title="永不磨灭的番号" tvg-name="第12集" tvg-logo="https://live.fanmingming.cn/tv/第12集.png",第12集
+https://v7.tlkqc.com/wjv7/202309/07/qFdmdV5VMB1/video/index.m3u8
+#EXTINF:-1 group-title="永不磨灭的番号" tvg-name="第13集" tvg-logo="https://live.fanmingming.cn/tv/第13集.png",第13集
+https://v4.tlkqc.com/wjv4/202308/27/QTwWLKBLkT1/video/index.m3u8
+#EXTINF:-1 group-title="永不磨灭的番号" tvg-name="第14集" tvg-logo="https://live.fanmingming.cn/tv/第14集.png",第14集
+https://v4.tlkqc.com/wjv4/202308/27/QTRLT0QhJs1/video/index.m3u8
+#EXTINF:-1 group-title="永不磨灭的番号" tvg-name="第15集" tvg-logo="https://live.fanmingming.cn/tv/第15集.png",第15集
+https://v4.tlkqc.com/wjv4/202308/27/HXTJqerbsj1/video/index.m3u8
+#EXTINF:-1 group-title="永不磨灭的番号" tvg-name="第16集" tvg-logo="https://live.fanmingming.cn/tv/第16集.png",第16集
+https://v7.tlkqc.com/wjv7/202309/07/BAR220JZLq1/video/index.m3u8
+#EXTINF:-1 group-title="永不磨灭的番号" tvg-name="第17集" tvg-logo="https://live.fanmingming.cn/tv/第17集.png",第17集
+https://v7.tlkqc.com/wjv7/202309/07/3ifVHWF2C51/video/index.m3u8
+#EXTINF:-1 group-title="永不磨灭的番号" tvg-name="第18集" tvg-logo="https://live.fanmingming.cn/tv/第18集.png",第18集
+https://v4.tlkqc.com/wjv4/202308/27/3gPk1pi1pL1/video/index.m3u8
+#EXTINF:-1 group-title="永不磨灭的番号" tvg-name="第19集" tvg-logo="https://live.fanmingming.cn/tv/第19集.png",第19集
+https://v4.tlkqc.com/wjv4/202308/27/ZYxsygPwkt1/video/index.m3u8
+#EXTINF:-1 group-title="永不磨灭的番号" tvg-name="第20集" tvg-logo="https://live.fanmingming.cn/tv/第20集.png",第20集
+https://v4.tlkqc.com/wjv4/202308/27/PVf2PG47jW1/video/index.m3u8
+#EXTINF:-1 group-title="永不磨灭的番号" tvg-name="第21集" tvg-logo="https://live.fanmingming.cn/tv/第21集.png",第21集
+https://v4.tlkqc.com/wjv4/202308/27/Vx90RPaD4i1/video/index.m3u8
+#EXTINF:-1 group-title="永不磨灭的番号" tvg-name="第22集" tvg-logo="https://live.fanmingming.cn/tv/第22集.png",第22集
+https://v4.tlkqc.com/wjv4/202308/27/AuCu5uAWJV1/video/index.m3u8
+#EXTINF:-1 group-title="永不磨灭的番号" tvg-name="第23集" tvg-logo="https://live.fanmingming.cn/tv/第23集.png",第23集
+https://v4.tlkqc.com/wjv4/202308/27/9pTT7WVbBc1/video/index.m3u8
+#EXTINF:-1 group-title="永不磨灭的番号" tvg-name="第24集" tvg-logo="https://live.fanmingming.cn/tv/第24集.png",第24集
+https://v4.tlkqc.com/wjv4/202308/27/1efexH22cY1/video/index.m3u8
+#EXTINF:-1 group-title="永不磨灭的番号" tvg-name="第25集" tvg-logo="https://live.fanmingming.cn/tv/第25集.png",第25集
+https://v7.tlkqc.com/wjv7/202309/07/8pnfBLYx5Y1/video/index.m3u8
+#EXTINF:-1 group-title="永不磨灭的番号" tvg-name="第26集" tvg-logo="https://live.fanmingming.cn/tv/第26集.png",第26集
+https://v7.tlkqc.com/wjv7/202309/07/ZXaBSjSzrN1/video/index.m3u8
+#EXTINF:-1 group-title="永不磨灭的番号" tvg-name="第27集" tvg-logo="https://live.fanmingming.cn/tv/第27集.png",第27集
+https://v7.tlkqc.com/wjv7/202309/07/EuceJPWWjW1/video/index.m3u8
+#EXTINF:-1 group-title="永不磨灭的番号" tvg-name="第28集" tvg-logo="https://live.fanmingming.cn/tv/第28集.png",第28集
+https://v4.tlkqc.com/wjv4/202308/27/spzrzsam9q1/video/index.m3u8
+#EXTINF:-1 group-title="永不磨灭的番号" tvg-name="第29集" tvg-logo="https://live.fanmingming.cn/tv/第29集.png",第29集
+https://v7.tlkqc.com/wjv7/202309/07/17dvd8vHhw1/video/index.m3u8
+#EXTINF:-1 group-title="永不磨灭的番号" tvg-name="第30集" tvg-logo="https://live.fanmingming.cn/tv/第30集.png",第30集
+https://v4.tlkqc.com/wjv4/202308/27/k7yL6WfFhw1/video/index.m3u8
+#EXTINF:-1 group-title="永不磨灭的番号" tvg-name="第31集" tvg-logo="https://live.fanmingming.cn/tv/第31集.png",第31集
+https://v4.tlkqc.com/wjv4/202308/27/yERgtBii2b1/video/index.m3u8
+#EXTINF:-1 group-title="永不磨灭的番号" tvg-name="第32集" tvg-logo="https://live.fanmingming.cn/tv/第32集.png",第32集
+https://v7.tlkqc.com/wjv7/202309/07/0CBXyjVk1t1/video/index.m3u8
+#EXTINF:-1 group-title="永不磨灭的番号" tvg-name="第33集" tvg-logo="https://live.fanmingming.cn/tv/第33集.png",第33集
+https://v7.tlkqc.com/wjv7/202309/07/9jG58fnX7Z1/video/index.m3u8
+#EXTINF:-1 group-title="永不磨灭的番号" tvg-name="第34集" tvg-logo="https://live.fanmingming.cn/tv/第34集.png",第34集
+https://v4.tlkqc.com/wjv4/202308/27/M94D2jzKgU1/video/index.m3u8
