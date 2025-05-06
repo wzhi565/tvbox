@@ -892,7 +892,187 @@ https://v4.tlkqc.com/wjv4/202308/27/wdPiZHYwLd1/video/index.m3u8
 https://v4.tlkqc.com/wjv4/202308/27/EfGRBgrZMJ1/video/index.m3u8
 #EXTINF:-1 group-title="战长沙" tvg-name="第30集" tvg-logo="https://live.fanmingming.cn/tv/第30集.png",第30集
 https://v4.tlkqc.com/wjv4/202308/27/vfReAUpAYz1/video/index.m3u8
+#EXTINF:-1 group-title="跨过鸭绿江" tvg-name="第01集" tvg-logo="https://live.fanmingming.cn/tv/第01集.png",第01集
+https://v7.tlkqc.com/wjv7/202309/12/x6y7NFkkTv1/video/index.m3u8
+#EXTINF:-1 group-title="跨过鸭绿江" tvg-name="第02集" tvg-logo="https://live.fanmingming.cn/tv/第02集.png",第02集
+https://v7.tlkqc.com/wjv7/202309/12/wvvKxCAidv1/video/index.m3u8
+#EXTINF:-1 group-title="跨过鸭绿江" tvg-name="第03集" tvg-logo="https://live.fanmingming.cn/tv/第03集.png",第03集
+https://v7.tlkqc.com/wjv7/202309/12/uQJXJcUPRx1/video/index.m3u8
+#EXTINF:-1 group-title="跨过鸭绿江" tvg-name="第04集" tvg-logo="https://live.fanmingming.cn/tv/第04集.png",第04集
+https://v7.tlkqc.com/wjv7/202309/12/Hejcp7zdnn1/video/index.m3u8
+#EXTINF:-1 group-title="跨过鸭绿江" tvg-name="第05集" tvg-logo="https://live.fanmingming.cn/tv/第05集.png",第05集
+https://v7.tlkqc.com/wjv7/202309/12/eDGN98LuXv1/video/index.m3u8
+#EXTINF:-1 group-title="跨过鸭绿江" tvg-name="第06集" tvg-logo="https://live.fanmingming.cn/tv/第06集.png",第06集
+https://v7.tlkqc.com/wjv7/202309/12/n1cncugTk81/video/index.m3u8
+#EXTINF:-1 group-title="跨过鸭绿江" tvg-name="第07集" tvg-logo="https://live.fanmingming.cn/tv/第07集.png",第07集
+https://v7.tlkqc.com/wjv7/202309/12/zjMAPr9wDR1/video/index.m3u8
+#EXTINF:-1 group-title="跨过鸭绿江" tvg-name="第08集" tvg-logo="https://live.fanmingming.cn/tv/第08集.png",第08集
+https://v7.tlkqc.com/wjv7/202309/12/sJ6JyZzr8x1/video/index.m3u8
+#EXTINF:-1 group-title="跨过鸭绿江" tvg-name="第09集" tvg-logo="https://live.fanmingming.cn/tv/第09集.png",第09集
+https://v7.tlkqc.com/wjv7/202309/12/1Ls5LDBCLE1/video/index.m3u8
+#EXTINF:-1 group-title="跨过鸭绿江" tvg-name="第10集" tvg-logo="https://live.fanmingming.cn/tv/第10集.png",第10集
+https://v7.tlkqc.com/wjv7/202309/12/wmTsmfFB3c1/video/index.m3u8
+#EXTINF:-1 group-title="跨过鸭绿江" tvg-name="第11集" tvg-logo="https://live.fanmingming.cn/tv/第11集.png",第11集
+https://v7.tlkqc.com/wjv7/202309/12/jZJuYP6vFk1/video/index.m3u8
+#EXTINF:-1 group-title="跨过鸭绿江" tvg-name="第12集" tvg-logo="https://live.fanmingming.cn/tv/第12集.png",第12集
+https://v7.tlkqc.com/wjv7/202309/12/MvQY7su7Ed1/video/index.m3u8
+#EXTINF:-1 group-title="跨过鸭绿江" tvg-name="第13集" tvg-logo="https://live.fanmingming.cn/tv/第13集.png",第13集
+https://v7.tlkqc.com/wjv7/202309/12/iHsbf1bLHA1/video/index.m3u8
+#EXTINF:-1 group-title="跨过鸭绿江" tvg-name="第14集" tvg-logo="https://live.fanmingming.cn/tv/第14集.png",第14集
+https://v7.tlkqc.com/wjv7/202309/12/qFtjSwkZbs1/video/index.m3u8
+#EXTINF:-1 group-title="跨过鸭绿江" tvg-name="第15集" tvg-logo="https://live.fanmingming.cn/tv/第15集.png",第15集
+https://v7.tlkqc.com/wjv7/202309/12/DHThBYeMqN1/video/index.m3u8
+#EXTINF:-1 group-title="跨过鸭绿江" tvg-name="第16集" tvg-logo="https://live.fanmingming.cn/tv/第16集.png",第16集
+https://v7.tlkqc.com/wjv7/202309/12/uAzWkXqGLS1/video/index.m3u8
+#EXTINF:-1 group-title="跨过鸭绿江" tvg-name="第17集" tvg-logo="https://live.fanmingming.cn/tv/第17集.png",第17集
+https://v7.tlkqc.com/wjv7/202309/12/MR2pfGUF161/video/index.m3u8
+#EXTINF:-1 group-title="跨过鸭绿江" tvg-name="第18集" tvg-logo="https://live.fanmingming.cn/tv/第18集.png",第18集
+https://v7.tlkqc.com/wjv7/202309/12/54EYAefvw31/video/index.m3u8
+#EXTINF:-1 group-title="跨过鸭绿江" tvg-name="第19集" tvg-logo="https://live.fanmingming.cn/tv/第19集.png",第19集
+https://v7.tlkqc.com/wjv7/202309/12/Db6CmZn1Nx1/video/index.m3u8
+#EXTINF:-1 group-title="跨过鸭绿江" tvg-name="第20集" tvg-logo="https://live.fanmingming.cn/tv/第20集.png",第20集
+https://v7.tlkqc.com/wjv7/202309/12/JTNbfXnbqQ1/video/index.m3u8
+#EXTINF:-1 group-title="跨过鸭绿江" tvg-name="第21集" tvg-logo="https://live.fanmingming.cn/tv/第21集.png",第21集
+https://v7.tlkqc.com/wjv7/202309/12/Fz41yig4hL1/video/index.m3u8
+#EXTINF:-1 group-title="跨过鸭绿江" tvg-name="第22集" tvg-logo="https://live.fanmingming.cn/tv/第22集.png",第22集
+https://v7.tlkqc.com/wjv7/202309/12/qsyRMd7SSn1/video/index.m3u8
+#EXTINF:-1 group-title="跨过鸭绿江" tvg-name="第23集" tvg-logo="https://live.fanmingming.cn/tv/第23集.png",第23集
+https://v7.tlkqc.com/wjv7/202309/12/2A95qf7ZM01/video/index.m3u8
+#EXTINF:-1 group-title="跨过鸭绿江" tvg-name="第24集" tvg-logo="https://live.fanmingming.cn/tv/第24集.png",第24集
+https://v7.tlkqc.com/wjv7/202309/12/ErvDiWXwH21/video/index.m3u8
+#EXTINF:-1 group-title="跨过鸭绿江" tvg-name="第25集" tvg-logo="https://live.fanmingming.cn/tv/第25集.png",第25集
+https://v7.tlkqc.com/wjv7/202309/12/yTHFzNFcRd1/video/index.m3u8
+#EXTINF:-1 group-title="跨过鸭绿江" tvg-name="第26集" tvg-logo="https://live.fanmingming.cn/tv/第26集.png",第26集
+https://v7.tlkqc.com/wjv7/202309/12/Ke4MaQ7YsZ1/video/index.m3u8
+#EXTINF:-1 group-title="跨过鸭绿江" tvg-name="第27集" tvg-logo="https://live.fanmingming.cn/tv/第27集.png",第27集
+https://v7.tlkqc.com/wjv7/202309/12/ySiLVH1K8L1/video/index.m3u8
+#EXTINF:-1 group-title="跨过鸭绿江" tvg-name="第28集" tvg-logo="https://live.fanmingming.cn/tv/第28集.png",第28集
+https://v7.tlkqc.com/wjv7/202309/12/FtkZyFJ81N1/video/index.m3u8
+#EXTINF:-1 group-title="跨过鸭绿江" tvg-name="第29集" tvg-logo="https://live.fanmingming.cn/tv/第29集.png",第29集
+https://v7.tlkqc.com/wjv7/202309/12/bVqVTfmxR21/video/index.m3u8
+#EXTINF:-1 group-title="跨过鸭绿江" tvg-name="第30集" tvg-logo="https://live.fanmingming.cn/tv/第30集.png",第30集
+https://v7.tlkqc.com/wjv7/202309/12/Six1HbDsbM1/video/index.m3u8
+#EXTINF:-1 group-title="跨过鸭绿江" tvg-name="第31集" tvg-logo="https://live.fanmingming.cn/tv/第31集.png",第31集
+https://v7.tlkqc.com/wjv7/202309/12/z1Wp0hvi4j1/video/index.m3u8
+#EXTINF:-1 group-title="跨过鸭绿江" tvg-name="第32集" tvg-logo="https://live.fanmingming.cn/tv/第32集.png",第32集
+https://v7.tlkqc.com/wjv7/202309/12/pFZPHFaABK1/video/index.m3u8
+#EXTINF:-1 group-title="跨过鸭绿江" tvg-name="第33集" tvg-logo="https://live.fanmingming.cn/tv/第33集.png",第33集
+https://v7.tlkqc.com/wjv7/202309/12/hmkyA65dpS1/video/index.m3u8
+#EXTINF:-1 group-title="跨过鸭绿江" tvg-name="第34集" tvg-logo="https://live.fanmingming.cn/tv/第34集.png",第34集
+https://v7.tlkqc.com/wjv7/202309/12/RRRsCKRHzd1/video/index.m3u8
+#EXTINF:-1 group-title="跨过鸭绿江" tvg-name="第35集" tvg-logo="https://live.fanmingming.cn/tv/第35集.png",第35集
+https://v7.tlkqc.com/wjv7/202309/12/3VAx59CUfS1/video/index.m3u8
+#EXTINF:-1 group-title="跨过鸭绿江" tvg-name="第36集" tvg-logo="https://live.fanmingming.cn/tv/第36集.png",第36集
+https://v7.tlkqc.com/wjv7/202309/12/KrWZPkUdFu1/video/index.m3u8
+#EXTINF:-1 group-title="跨过鸭绿江" tvg-name="第37集" tvg-logo="https://live.fanmingming.cn/tv/第37集.png",第37集
+https://v7.tlkqc.com/wjv7/202309/12/tu9p50GnXM1/video/index.m3u8
+#EXTINF:-1 group-title="跨过鸭绿江" tvg-name="第38集" tvg-logo="https://live.fanmingming.cn/tv/第38集.png",第38集
+https://v7.tlkqc.com/wjv7/202309/12/AheUB3UBGy1/video/index.m3u8
+#EXTINF:-1 group-title="跨过鸭绿江" tvg-name="第39集" tvg-logo="https://live.fanmingming.cn/tv/第39集.png",第39集
+https://v7.tlkqc.com/wjv7/202309/12/23XRU5YkrE1/video/index.m3u8
+#EXTINF:-1 group-title="跨过鸭绿江" tvg-name="第40集" tvg-logo="https://live.fanmingming.cn/tv/第40集.png",第40集
+https://v7.tlkqc.com/wjv7/202309/12/SYW9k21aqy1/video/index.m3u8
 #EXTINF:-1 group-title="战长沙" tvg-name="第31集" tvg-logo="https://live.fanmingming.cn/tv/第31集.png",第31集
 https://v4.tlkqc.com/wjv4/202308/31/wMxu3eiAme1/video/index.m3u8
 #EXTINF:-1 group-title="战长沙" tvg-name="第32集" tvg-logo="https://live.fanmingming.cn/tv/第32集.png",第32集
 https://v7.tlkqc.com/wjv7/202309/07/s4LaHdGL861/video/index.m3u8
+#EXTINF:-1 group-title="解放" tvg-name="第01集" tvg-logo="https://live.fanmingming.cn/tv/第01集.png",第01集
+https://v7.tlkqc.com/wjv7/202309/12/nNDJrq9A531/video/index.m3u8
+#EXTINF:-1 group-title="解放" tvg-name="第02集" tvg-logo="https://live.fanmingming.cn/tv/第02集.png",第02集
+https://v7.tlkqc.com/wjv7/202309/12/1Ey8Za3C6a1/video/index.m3u8
+#EXTINF:-1 group-title="解放" tvg-name="第03集" tvg-logo="https://live.fanmingming.cn/tv/第03集.png",第03集
+https://v7.tlkqc.com/wjv7/202309/12/fw2KCMKP6N1/video/index.m3u8
+#EXTINF:-1 group-title="解放" tvg-name="第04集" tvg-logo="https://live.fanmingming.cn/tv/第04集.png",第04集
+https://v7.tlkqc.com/wjv7/202309/12/HB6y57uqyD1/video/index.m3u8
+#EXTINF:-1 group-title="解放" tvg-name="第05集" tvg-logo="https://live.fanmingming.cn/tv/第05集.png",第05集
+https://v7.tlkqc.com/wjv7/202309/12/SxBuCM5fvi1/video/index.m3u8
+#EXTINF:-1 group-title="解放" tvg-name="第06集" tvg-logo="https://live.fanmingming.cn/tv/第06集.png",第06集
+https://v7.tlkqc.com/wjv7/202309/12/z4Ztm0Mj021/video/index.m3u8
+#EXTINF:-1 group-title="解放" tvg-name="第07集" tvg-logo="https://live.fanmingming.cn/tv/第07集.png",第07集
+https://v7.tlkqc.com/wjv7/202309/12/8S20UG5s4b1/video/index.m3u8
+#EXTINF:-1 group-title="解放" tvg-name="第08集" tvg-logo="https://live.fanmingming.cn/tv/第08集.png",第08集
+https://v7.tlkqc.com/wjv7/202309/12/avP6gSkvP41/video/index.m3u8
+#EXTINF:-1 group-title="解放" tvg-name="第09集" tvg-logo="https://live.fanmingming.cn/tv/第09集.png",第09集
+https://v7.tlkqc.com/wjv7/202309/12/nCyKZQ7rGC1/video/index.m3u8
+#EXTINF:-1 group-title="解放" tvg-name="第10集" tvg-logo="https://live.fanmingming.cn/tv/第10集.png",第10集
+https://v7.tlkqc.com/wjv7/202309/12/LFiZd06rPA1/video/index.m3u8
+#EXTINF:-1 group-title="解放" tvg-name="第11集" tvg-logo="https://live.fanmingming.cn/tv/第11集.png",第11集
+https://v7.tlkqc.com/wjv7/202309/12/zGJhLhrHek1/video/index.m3u8
+#EXTINF:-1 group-title="解放" tvg-name="第12集" tvg-logo="https://live.fanmingming.cn/tv/第12集.png",第12集
+https://v7.tlkqc.com/wjv7/202309/12/Th8vdurcdt1/video/index.m3u8
+#EXTINF:-1 group-title="解放" tvg-name="第13集" tvg-logo="https://live.fanmingming.cn/tv/第13集.png",第13集
+https://v7.tlkqc.com/wjv7/202309/12/tkiBRR8SjT1/video/index.m3u8
+#EXTINF:-1 group-title="解放" tvg-name="第14集" tvg-logo="https://live.fanmingming.cn/tv/第14集.png",第14集
+https://v7.tlkqc.com/wjv7/202309/12/LK8UsNPAvz1/video/index.m3u8
+#EXTINF:-1 group-title="解放" tvg-name="第15集" tvg-logo="https://live.fanmingming.cn/tv/第15集.png",第15集
+https://v7.tlkqc.com/wjv7/202309/12/vE3sySM5t81/video/index.m3u8
+#EXTINF:-1 group-title="解放" tvg-name="第16集" tvg-logo="https://live.fanmingming.cn/tv/第16集.png",第16集
+https://v7.tlkqc.com/wjv7/202309/12/ZuxXfHfMpF1/video/index.m3u8
+#EXTINF:-1 group-title="解放" tvg-name="第17集" tvg-logo="https://live.fanmingming.cn/tv/第17集.png",第17集
+https://v7.tlkqc.com/wjv7/202309/12/SMV9DgwDLS1/video/index.m3u8
+#EXTINF:-1 group-title="解放" tvg-name="第18集" tvg-logo="https://live.fanmingming.cn/tv/第18集.png",第18集
+https://v7.tlkqc.com/wjv7/202309/12/b0EaMgm3M61/video/index.m3u8
+#EXTINF:-1 group-title="解放" tvg-name="第19集" tvg-logo="https://live.fanmingming.cn/tv/第19集.png",第19集
+https://v7.tlkqc.com/wjv7/202309/12/EcNaaEcBLz1/video/index.m3u8
+#EXTINF:-1 group-title="解放" tvg-name="第20集" tvg-logo="https://live.fanmingming.cn/tv/第20集.png",第20集
+https://v7.tlkqc.com/wjv7/202309/12/JDDajkubc71/video/index.m3u8
+#EXTINF:-1 group-title="解放" tvg-name="第21集" tvg-logo="https://live.fanmingming.cn/tv/第21集.png",第21集
+https://v7.tlkqc.com/wjv7/202309/12/iU8uxY3WYJ1/video/index.m3u8
+#EXTINF:-1 group-title="解放" tvg-name="第22集" tvg-logo="https://live.fanmingming.cn/tv/第22集.png",第22集
+https://v7.tlkqc.com/wjv7/202309/12/yWAaVXm7E51/video/index.m3u8
+#EXTINF:-1 group-title="解放" tvg-name="第23集" tvg-logo="https://live.fanmingming.cn/tv/第23集.png",第23集
+https://v7.tlkqc.com/wjv7/202309/12/gmGDtLFKty1/video/index.m3u8
+#EXTINF:-1 group-title="解放" tvg-name="第24集" tvg-logo="https://live.fanmingming.cn/tv/第24集.png",第24集
+https://v7.tlkqc.com/wjv7/202309/12/rC3xQDtZ6z1/video/index.m3u8
+#EXTINF:-1 group-title="解放" tvg-name="第25集" tvg-logo="https://live.fanmingming.cn/tv/第25集.png",第25集
+https://v7.tlkqc.com/wjv7/202309/12/nzFBiX9DMe1/video/index.m3u8
+#EXTINF:-1 group-title="解放" tvg-name="第26集" tvg-logo="https://live.fanmingming.cn/tv/第26集.png",第26集
+https://v7.tlkqc.com/wjv7/202309/12/dSaQk8uJ0M1/video/index.m3u8
+#EXTINF:-1 group-title="解放" tvg-name="第27集" tvg-logo="https://live.fanmingming.cn/tv/第27集.png",第27集
+https://v7.tlkqc.com/wjv7/202309/12/7zSkt0TAa31/video/index.m3u8
+#EXTINF:-1 group-title="解放" tvg-name="第28集" tvg-logo="https://live.fanmingming.cn/tv/第28集.png",第28集
+https://v7.tlkqc.com/wjv7/202309/12/LuRxUhdGM21/video/index.m3u8
+#EXTINF:-1 group-title="解放" tvg-name="第29集" tvg-logo="https://live.fanmingming.cn/tv/第29集.png",第29集
+https://v7.tlkqc.com/wjv7/202309/12/mEX0B7XEKA1/video/index.m3u8
+#EXTINF:-1 group-title="解放" tvg-name="第30集" tvg-logo="https://live.fanmingming.cn/tv/第30集.png",第30集
+https://v7.tlkqc.com/wjv7/202309/12/nA70vrek8H1/video/index.m3u8
+#EXTINF:-1 group-title="解放" tvg-name="第31集" tvg-logo="https://live.fanmingming.cn/tv/第31集.png",第31集
+https://v7.tlkqc.com/wjv7/202309/12/083wHk8XLD1/video/index.m3u8
+#EXTINF:-1 group-title="解放" tvg-name="第32集" tvg-logo="https://live.fanmingming.cn/tv/第32集.png",第32集
+https://v7.tlkqc.com/wjv7/202309/12/NcWz0r113A1/video/index.m3u8
+#EXTINF:-1 group-title="解放" tvg-name="第33集" tvg-logo="https://live.fanmingming.cn/tv/第33集.png",第33集
+https://v7.tlkqc.com/wjv7/202309/12/M0WEaqtPTu1/video/index.m3u8
+#EXTINF:-1 group-title="解放" tvg-name="第34集" tvg-logo="https://live.fanmingming.cn/tv/第34集.png",第34集
+https://v7.tlkqc.com/wjv7/202309/12/D50CBMP1bd1/video/index.m3u8
+#EXTINF:-1 group-title="解放" tvg-name="第35集" tvg-logo="https://live.fanmingming.cn/tv/第35集.png",第35集
+https://v7.tlkqc.com/wjv7/202309/12/N42eRCDkzy1/video/index.m3u8
+#EXTINF:-1 group-title="解放" tvg-name="第36集" tvg-logo="https://live.fanmingming.cn/tv/第36集.png",第36集
+https://v7.tlkqc.com/wjv7/202309/12/Z8CCf6Tzy51/video/index.m3u8
+#EXTINF:-1 group-title="解放" tvg-name="第37集" tvg-logo="https://live.fanmingming.cn/tv/第37集.png",第37集
+https://v7.tlkqc.com/wjv7/202309/12/VmFEEWdj9U1/video/index.m3u8
+#EXTINF:-1 group-title="解放" tvg-name="第38集" tvg-logo="https://live.fanmingming.cn/tv/第38集.png",第38集
+https://v7.tlkqc.com/wjv7/202309/12/6k8tMGXBdB1/video/index.m3u8
+#EXTINF:-1 group-title="解放" tvg-name="第39集" tvg-logo="https://live.fanmingming.cn/tv/第39集.png",第39集
+https://v7.tlkqc.com/wjv7/202309/12/MnedQa28hM1/video/index.m3u8
+#EXTINF:-1 group-title="解放" tvg-name="第40集" tvg-logo="https://live.fanmingming.cn/tv/第40集.png",第40集
+https://v7.tlkqc.com/wjv7/202309/12/gs6TapELT11/video/index.m3u8
+#EXTINF:-1 group-title="解放" tvg-name="第41集" tvg-logo="https://live.fanmingming.cn/tv/第41集.png",第41集
+https://v7.tlkqc.com/wjv7/202309/12/Cm4HheWctA1/video/index.m3u8
+#EXTINF:-1 group-title="解放" tvg-name="第42集" tvg-logo="https://live.fanmingming.cn/tv/第42集.png",第42集
+https://v7.tlkqc.com/wjv7/202309/12/H1LWKB0TwH1/video/index.m3u8
+#EXTINF:-1 group-title="解放" tvg-name="第43集" tvg-logo="https://live.fanmingming.cn/tv/第43集.png",第43集
+https://v7.tlkqc.com/wjv7/202309/12/G2kPFaCafY1/video/index.m3u8
+#EXTINF:-1 group-title="解放" tvg-name="第44集" tvg-logo="https://live.fanmingming.cn/tv/第44集.png",第44集
+https://v7.tlkqc.com/wjv7/202309/12/Ct9MACVNaD1/video/index.m3u8
+#EXTINF:-1 group-title="解放" tvg-name="第45集" tvg-logo="https://live.fanmingming.cn/tv/第45集.png",第45集
+https://v7.tlkqc.com/wjv7/202309/12/wqn3T792QU1/video/index.m3u8
+#EXTINF:-1 group-title="解放" tvg-name="第46集" tvg-logo="https://live.fanmingming.cn/tv/第46集.png",第46集
+https://v7.tlkqc.com/wjv7/202309/12/uRWapJhJYm1/video/index.m3u8
+#EXTINF:-1 group-title="解放" tvg-name="第47集" tvg-logo="https://live.fanmingming.cn/tv/第47集.png",第47集
+https://v7.tlkqc.com/wjv7/202309/12/t6BVYj7UqH1/video/index.m3u8
+#EXTINF:-1 group-title="解放" tvg-name="第48集" tvg-logo="https://live.fanmingming.cn/tv/第48集.png",第48集
+https://v7.tlkqc.com/wjv7/202309/12/fYV3yTEYN01/video/index.m3u8
+#EXTINF:-1 group-title="解放" tvg-name="第49集" tvg-logo="https://live.fanmingming.cn/tv/第49集.png",第49集
+https://v7.tlkqc.com/wjv7/202309/12/SLUUjV6spF1/video/index.m3u8
+#EXTINF:-1 group-title="解放" tvg-name="第50集" tvg-logo="https://live.fanmingming.cn/tv/第50集.png",第50集
+https://v7.tlkqc.com/wjv7/202309/12/dzw9YcdfFg1/video/index.m3u8
