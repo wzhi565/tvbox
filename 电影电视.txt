@@ -418,181 +418,234 @@ https://v7.tlkqc.com/wjv7/202309/07/tQn6C1pL4Y1/video/index.m3u8
 https://v7.tlkqc.com/wjv7/202309/07/mjAF054Sis1/video/index.m3u8
 #EXTINF:-1 group-title="延禧攻略" tvg-name="第70集" tvg-logo="https://live.fanmingming.com/tv/第70集.png",第70集
 https://v4.tlkqc.com/wjv4/202308/27/2ecYZACFp21/video/index.m3u8
-#EXTINF:-1 group-title="正阳门下",tvg-name="第01集" tvg-logo="https://live.fanmingming.com/tv/第01集.png",第01集
-https://m3u.haiwaikan.com/xm3u8/735f5eed2c11dc9d2f559f92fa073d367bcfa998e544697fbb226e49622d4f8d9921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="正阳门下",tvg-name="第02集" tvg-logo="https://live.fanmingming.com/tv/第02集.png",第02集
-https://m3u.haiwaikan.com/xm3u8/68cbbffcf1409dcfc410f5c118234663aba3c48ee8e7a9e13602308df77305489921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="正阳门下",tvg-name="第03集" tvg-logo="https://live.fanmingming.com/tv/第03集.png",第03集
-https://m3u.haiwaikan.com/xm3u8/d8fc4a2ed58ae15be8ad284d840ccf321c46ba479c6c8a3fa908e774af22ea579921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="正阳门下",tvg-name="第04集" tvg-logo="https://live.fanmingming.com/tv/第04集.png",第04集
-https://m3u.haiwaikan.com/xm3u8/e1f240e2887dda313b216fa03daf9838036dac59f860b449addd7d05d768f0fe9921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="正阳门下",tvg-name="第05集" tvg-logo="https://live.fanmingming.com/tv/第05集.png",第05集
-https://m3u.haiwaikan.com/xm3u8/d86ff903933ea096abcde15a3cd41ba145962724def104d029603192f22017849921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="正阳门下",tvg-name="第06集" tvg-logo="https://live.fanmingming.com/tv/第06集.png",第06集
-https://m3u.haiwaikan.com/xm3u8/d42fb23051a0d39be8bf5b545f2982790b4714e34a0209cc75e92b2bc389a94a9921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="正阳门下",tvg-name="第07集" tvg-logo="https://live.fanmingming.com/tv/第07集.png",第07集
-https://m3u.haiwaikan.com/xm3u8/5fa48bb851d0345bd59021b237687c021110401e708b7396a0f8ac9cde24d21e9921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="正阳门下",tvg-name="第08集" tvg-logo="https://live.fanmingming.com/tv/第08集.png",第08集
-https://m3u.haiwaikan.com/xm3u8/15bdc4cf0561ca81e5dbebd3c67e009b7785c078be344a7c3f116d4e372fc5ae9921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="正阳门下",tvg-name="第09集" tvg-logo="https://live.fanmingming.com/tv/第09集.png",第09集
-https://m3u.haiwaikan.com/xm3u8/6003ac83043cd03905543f3b6f1779fcc5950d80a22ca11555a1be2081720d2b9921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="正阳门下",tvg-name="第10集" tvg-logo="https://live.fanmingming.com/tv/第10集.png",第10集
-https://m3u.haiwaikan.com/xm3u8/a655e75d9f00274ed20b76932e1e1eef4090f3309af47557c413619bb323604b9921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="正阳门下",tvg-name="第11集" tvg-logo="https://live.fanmingming.com/tv/第11集.png",第11集
-https://m3u.haiwaikan.com/xm3u8/95b7971b632ec1eb97d0b4cdcb9aeb470392779cfe6f9a036b618eb95159d3019921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="正阳门下",tvg-name="第12集" tvg-logo="https://live.fanmingming.com/tv/第12集.png",第12集
-https://m3u.haiwaikan.com/xm3u8/e0a3b76892ed329bf7799bf91596458a421f33d540c763394e83691b346ddabe9921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="正阳门下",tvg-name="第13集" tvg-logo="https://live.fanmingming.com/tv/第13集.png",第13集
-https://m3u.haiwaikan.com/xm3u8/0b7310b9911eb087ac42f2ee7be8cf693dcb74d96d9f0d7b40e505b48b2e828b9921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="正阳门下",tvg-name="第14集" tvg-logo="https://live.fanmingming.com/tv/第14集.png",第14集
-https://m3u.haiwaikan.com/xm3u8/063cb3d7f5b36a432c5029882e31bac4aa781d53abf9269721792aa8aebe19939921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="正阳门下",tvg-name="第15集" tvg-logo="https://live.fanmingming.com/tv/第15集.png",第15集
-https://m3u.haiwaikan.com/xm3u8/6019a1214e609bde74cc3368b34a8cfec9764071418daa0704368390635790bb9921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="正阳门下",tvg-name="第16集" tvg-logo="https://live.fanmingming.com/tv/第16集.png",第16集
-https://m3u.haiwaikan.com/xm3u8/057de75f8d3271b357783188aa6b7a0d98b0de9fb22798c1c8e9fdb7e02529cb9921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="正阳门下",tvg-name="第17集" tvg-logo="https://live.fanmingming.com/tv/第17集.png",第17集
-https://m3u.haiwaikan.com/xm3u8/b129620f9e80b4d1bba219870c2fc0803658266cd9054423261ef2414437ece69921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="正阳门下",tvg-name="第18集" tvg-logo="https://live.fanmingming.com/tv/第18集.png",第18集
-https://m3u.haiwaikan.com/xm3u8/642b74056ecebb93d71ce8912a7924eb575d0a8fa5a8584d99f2dc14f652ddf69921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="正阳门下",tvg-name="第19集" tvg-logo="https://live.fanmingming.com/tv/第19集.png",第19集
-https://m3u.haiwaikan.com/xm3u8/7b8c900f86949e0747c042dba5521360daf119eb73c995c0aeb522cb31b260f69921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="正阳门下",tvg-name="第20集" tvg-logo="https://live.fanmingming.com/tv/第20集.png",第20集
-https://m3u.haiwaikan.com/xm3u8/05daf8d6f17aca2c691c1760c6e73b0f49426a76eca63cc6b55ab4b69d0ad39d9921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="正阳门下",tvg-name="第21集" tvg-logo="https://live.fanmingming.com/tv/第21集.png",第21集
-https://m3u.haiwaikan.com/xm3u8/3684fe10f068d99579cf76dad1af92f8bf6dd71bcae31578d863582b4503fc489921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="正阳门下",tvg-name="第22集" tvg-logo="https://live.fanmingming.com/tv/第22集.png",第22集
-https://m3u.haiwaikan.com/xm3u8/04692651dca16212844d53daa067221eee25acbbcd2b1d5373b98039f9fcdd9f9921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="正阳门下",tvg-name="第23集" tvg-logo="https://live.fanmingming.com/tv/第23集.png",第23集
-https://m3u.haiwaikan.com/xm3u8/1b73071bdd30fbe846a9dbe1425e83049c5e506892019bc9b897ee30e432febb9921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="正阳门下",tvg-name="第24集" tvg-logo="https://live.fanmingming.com/tv/第24集.png",第24集
-https://m3u.haiwaikan.com/xm3u8/02bc868785148d3eaaa6053f784c9d8ab8660f07c64eb23d876fc4038f1c8efd9921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="正阳门下",tvg-name="第25集" tvg-logo="https://live.fanmingming.com/tv/第25集.png",第25集
-https://m3u.haiwaikan.com/xm3u8/adf3ac4d7fcf46c5de2f1690d97d19cc8618bdbd7e1cfffd7d43c5f473a6c1b39921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="正阳门下",tvg-name="第26集" tvg-logo="https://live.fanmingming.com/tv/第26集.png",第26集
-https://m3u.haiwaikan.com/xm3u8/76ca8d6fd8747b156b3c9819e4bc1821e7dbeaba5a3a1f3bbed8280f8749ad239921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="正阳门下",tvg-name="第27集" tvg-logo="https://live.fanmingming.com/tv/第27集.png",第27集
-https://m3u.haiwaikan.com/xm3u8/015659faa85b5e89bed0dfaa7e47bfd67643e108b9ade8dc56b02c36408ba5ee9921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="正阳门下",tvg-name="第28集" tvg-logo="https://live.fanmingming.com/tv/第28集.png",第28集
-https://m3u.haiwaikan.com/xm3u8/8628e25ee82b0ca82268d26f8375ae9b290568c8556aaa57a87e601b4a75d5e39921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="正阳门下",tvg-name="第29集" tvg-logo="https://live.fanmingming.com/tv/第29集.png",第29集
-https://m3u.haiwaikan.com/xm3u8/c1625705cc69f5bec4937a866b2abe18dc9c84d15c2239e46336529c1a2f24049921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="正阳门下",tvg-name="第30集" tvg-logo="https://live.fanmingming.com/tv/第30集.png",第30集
-https://m3u.haiwaikan.com/xm3u8/33f7280e362784e6db2bd059ecf03f8e4392d0a8538879a5ff0bf63261e46d289921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="正阳门下",tvg-name="第31集" tvg-logo="https://live.fanmingming.com/tv/第31集.png",第31集
-https://m3u.haiwaikan.com/xm3u8/06878d1d2ff513b9c9cd91925e22d12f226af26eba332bdd961308d097aa0cb69921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="正阳门下",tvg-name="第32集" tvg-logo="https://live.fanmingming.com/tv/第32集.png",第32集
-https://m3u.haiwaikan.com/xm3u8/d025fc5d266cb7a497cffba0ebdc5b00ba271180abab0f8264f8e26181f1bf8f9921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="正阳门下",tvg-name="第33集" tvg-logo="https://live.fanmingming.com/tv/第33集.png",第33集
-https://m3u.haiwaikan.com/xm3u8/f49e0217f0b76b6b762214d6b9cda69a1aa1cf99dea6be24616c64453f535fae9921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="正阳门下",tvg-name="第34集" tvg-logo="https://live.fanmingming.com/tv/第34集.png",第34集
-https://m3u.haiwaikan.com/xm3u8/e1e19d05cbb9226e15d63773042be3bde253eff3ff04414d8d400eff503d62599921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="正阳门下",tvg-name="第35集" tvg-logo="https://live.fanmingming.com/tv/第35集.png",第35集
-https://m3u.haiwaikan.com/xm3u8/7b1ef62f9e621fc4649d481346550716097d127d1a092e45b6895122d1f36c4d9921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="正阳门下",tvg-name="第36集" tvg-logo="https://live.fanmingming.com/tv/第36集.png",第36集
-https://m3u.haiwaikan.com/xm3u8/f8b7f7da2b519b26261c2f4b805e009f6459cea797138b88883727ba3f9fdfae9921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="亮剑" tvg-name="第1集" tvg-logo="https://live.fanmingming.com/tv/第1集.png",第1集
-https://api.heimuer.app/play/7936f1c2f6764b70a7e22fa7d5e0e4ac.m3u8
-#EXTINF:-1 group-title="亮剑" tvg-name="第2集" tvg-logo="https://live.fanmingming.com/tv/第2集.png",第2集
-https://api.heimuer.app/play/37116f876c9146e4b80c345da6e1e0cf.m3u8
-#EXTINF:-1 group-title="亮剑" tvg-name="第3集" tvg-logo="https://live.fanmingming.com/tv/第3集.png",第3集
-https://api.heimuer.app/play/1c0c6c3ee529448cae9cb0aedd28aa6c.m3u8
-#EXTINF:-1 group-title="亮剑" tvg-name="第4集" tvg-logo="https://live.fanmingming.com/tv/第4集.png",第4集
-https://api.heimuer.app/play/9ece5f36c8fa49ad8682e0fd87af5874.m3u8
-#EXTINF:-1 group-title="亮剑" tvg-name="第5集" tvg-logo="https://live.fanmingming.com/tv/第5集.png",第5集
-https://api.heimuer.app/play/36e890ff2012466b81c52a678676ac5f.m3u8
-#EXTINF:-1 group-title="亮剑" tvg-name="第6集" tvg-logo="https://live.fanmingming.com/tv/第6集.png",第6集
-https://api.heimuer.app/play/f3ad461124e04e6092646e349082dfce.m3u8
-#EXTINF:-1 group-title="亮剑" tvg-name="第7集" tvg-logo="https://live.fanmingming.com/tv/第7集.png",第7集
-https://api.heimuer.app/play/eae4dace9f0c4315bd7f28b5869a6522.m3u8
-#EXTINF:-1 group-title="亮剑" tvg-name="第8集" tvg-logo="https://live.fanmingming.com/tv/第8集.png",第8集
-https://api.heimuer.app/play/e3467778290e4e6bacb684123ab7b096.m3u8
-#EXTINF:-1 group-title="亮剑" tvg-name="第9集" tvg-logo="https://live.fanmingming.com/tv/第9集.png",第9集
-https://api.heimuer.app/play/9d30dab8b99b4aef8d791ae986441a6d.m3u8
-#EXTINF:-1 group-title="亮剑" tvg-name="第10集" tvg-logo="https://live.fanmingming.com/tv/第10集.png",第10集
-https://api.heimuer.app/play/2593d62443384001bb88b5008bd5183a.m3u8
-#EXTINF:-1 group-title="亮剑" tvg-name="第11集" tvg-logo="https://live.fanmingming.com/tv/第11集.png",第11集
-https://api.heimuer.app/play/ba7adda986e7496482e69ec19cb6c002.m3u8
-#EXTINF:-1 group-title="亮剑" tvg-name="第12集" tvg-logo="https://live.fanmingming.com/tv/第12集.png",第12集
-https://api.heimuer.app/play/e2e4985023ff4bacb16758894c5e1534.m3u8
-#EXTINF:-1 group-title="亮剑" tvg-name="第13集" tvg-logo="https://live.fanmingming.com/tv/第13集.png",第13集
-https://api.heimuer.app/play/ea01cd22da374dbfac775ec6438b0305.m3u8
-#EXTINF:-1 group-title="亮剑" tvg-name="第14集" tvg-logo="https://live.fanmingming.com/tv/第14集.png",第14集
-https://api.heimuer.app/play/0a433ff9b73a4e29a5794fa1eeebe0e1.m3u8
-#EXTINF:-1 group-title="亮剑" tvg-name="第15集" tvg-logo="https://live.fanmingming.com/tv/第15集.png",第15集
-https://api.heimuer.app/play/43837d3d9cf5454d9dfa85e1f4a9446c.m3u8
-#EXTINF:-1 group-title="亮剑" tvg-name="第16集" tvg-logo="https://live.fanmingming.com/tv/第16集.png",第16集
-https://api.heimuer.app/play/6355042f0013440b9e19721c540dac91.m3u8
-#EXTINF:-1 group-title="亮剑" tvg-name="第17集" tvg-logo="https://live.fanmingming.com/tv/第17集.png",第17集
-https://api.heimuer.app/play/95ed0f15b90340ae8ea545138f2a5e67.m3u8
-#EXTINF:-1 group-title="亮剑" tvg-name="第18集" tvg-logo="https://live.fanmingming.com/tv/第18集.png",第18集
-https://api.heimuer.app/play/1dc18681189849b08a752c30d8dd7cae.m3u8
-#EXTINF:-1 group-title="亮剑" tvg-name="第19集" tvg-logo="https://live.fanmingming.com/tv/第19集.png",第19集
-https://api.heimuer.app/play/6be27d2521704d43afff95a1670e5abc.m3u8
-#EXTINF:-1 group-title="亮剑" tvg-name="第20集" tvg-logo="https://live.fanmingming.com/tv/第20集.png",第20集
-https://api.heimuer.app/play/a6b267e6efd74c468da904233c27262c.m3u8
-#EXTINF:-1 group-title="亮剑" tvg-name="第21集" tvg-logo="https://live.fanmingming.com/tv/第21集.png",第21集
-https://api.heimuer.app/play/03014aeabb1a4154b28f05b3e800ffee.m3u8
-#EXTINF:-1 group-title="亮剑" tvg-name="第22集" tvg-logo="https://live.fanmingming.com/tv/第22集.png",第22集
-https://api.heimuer.app/play/ae1dd89319fa467bb613e31acc48cc80.m3u8
-#EXTINF:-1 group-title="亮剑" tvg-name="第23集" tvg-logo="https://live.fanmingming.com/tv/第23集.png",第23集
-https://api.heimuer.app/play/a39608238c0e4cd7a1834a6b1859a5c9.m3u8
-#EXTINF:-1 group-title="亮剑" tvg-name="第24集" tvg-logo="https://live.fanmingming.com/tv/第24集.png",第24集
-https://api.heimuer.app/play/5e1ec181c0a34e349e63b1f7b9fccf7d.m3u8
-#EXTINF:-1 group-title="亮剑" tvg-name="第25集" tvg-logo="https://live.fanmingming.com/tv/第25集.png",第25集
-https://api.heimuer.app/play/5c65f0c696a345b0b17896e89ef6c7d5.m3u8
-#EXTINF:-1 group-title="亮剑" tvg-name="第26集" tvg-logo="https://live.fanmingming.com/tv/第26集.png",第26集
-https://api.heimuer.app/play/ed9a9f685c0b4390b8eb119535fc33f3.m3u8
-#EXTINF:-1 group-title="亮剑" tvg-name="第27集" tvg-logo="https://live.fanmingming.com/tv/第27集.png",第27集
-https://api.heimuer.app/play/5f904bee25e9433b8a32758c9db6f8cb.m3u8
-#EXTINF:-1 group-title="亮剑" tvg-name="第28集" tvg-logo="https://live.fanmingming.com/tv/第28集.png",第28集
-https://api.heimuer.app/play/c16d8b4774c940e8a95cf7219f1fa00d.m3u8
-#EXTINF:-1 group-title="亮剑" tvg-name="第29集" tvg-logo="https://live.fanmingming.com/tv/第29集.png",第29集
-https://api.heimuer.app/play/43c09e8a11e64ef28a41f0351ddf814d.m3u8
-#EXTINF:-1 group-title="亮剑" tvg-name="第30集" tvg-logo="https://live.fanmingming.com/tv/第30集.png",第30集
-https://api.heimuer.app/play/70a1f397af0c42d0bf805cdd1c09e5d2.m3u8
-#EXTINF:-1 group-title="棋士" tvg-name="第1集" tvg-logo="https://live.fanmingming.cn/tv/第1集.png",第1集
-https://v11.tlkqc.com/wjv11/202503/25/gRPaCSh9z283/video/index.m3u8
-#EXTINF:-1 group-title="棋士" tvg-name="第2集" tvg-logo="https://live.fanmingming.cn/tv/第2集.png",第2集
-https://v5.tlkqc.com/wjv5/202503/25/cgk9c8AXKS77/video/index.m3u8
-#EXTINF:-1 group-title="棋士" tvg-name="第3集" tvg-logo="https://live.fanmingming.cn/tv/第3集.png",第3集
-https://v6.tlkqc.com/wjv6/202503/26/5MWmevkyhC78/video/index.m3u8
-#EXTINF:-1 group-title="棋士" tvg-name="第4集" tvg-logo="https://live.fanmingming.cn/tv/第4集.png",第4集
-https://v9.tlkqc.com/wjv9/202503/26/mTFahPMXn781/video/index.m3u8
-#EXTINF:-1 group-title="棋士" tvg-name="第5集" tvg-logo="https://live.fanmingming.cn/tv/第5集.png",第5集
-https://v6.tlkqc.com/wjv6/202503/26/pKp3b5PzF078/video/index.m3u8
-#EXTINF:-1 group-title="棋士" tvg-name="第6集" tvg-logo="https://live.fanmingming.cn/tv/第6集.png",第6集
-https://v6.tlkqc.com/wjv6/202503/27/ujCY5pDi8s78/video/index.m3u8
-#EXTINF:-1 group-title="棋士" tvg-name="第7集" tvg-logo="https://live.fanmingming.cn/tv/第7集.png",第7集
-https://v12.tlkqc.com/wjv12/202503/28/vHeJ1Cmev484/video/index.m3u8
-#EXTINF:-1 group-title="棋士" tvg-name="第8集" tvg-logo="https://live.fanmingming.cn/tv/第8集.png",第8集
-https://v6.tlkqc.com/wjv6/202503/29/uTDeFhZU2978/video/index.m3u8
-#EXTINF:-1 group-title="棋士" tvg-name="第9集" tvg-logo="https://live.fanmingming.cn/tv/第9集.png",第9集
-https://v12.tlkqc.com/wjv12/202503/30/rMRzNSqWGm84/video/index.m3u8
-#EXTINF:-1 group-title="棋士" tvg-name="第10集" tvg-logo="https://live.fanmingming.cn/tv/第10集.png",第10集
-https://v9.tlkqc.com/wjv9/202503/31/b4EAcwxyyA81/video/index.m3u8
-#EXTINF:-1 group-title="棋士" tvg-name="第11集" tvg-logo="https://live.fanmingming.cn/tv/第11集.png",第11集
-https://v11.tlkqc.com/wjv11/202504/01/5B8kcPnt5f83/video/index.m3u8
-#EXTINF:-1 group-title="棋士" tvg-name="第12集" tvg-logo="https://live.fanmingming.cn/tv/第12集.png",第12集
-https://v12.tlkqc.com/wjv12/202504/02/4KaKgsJzRH84/video/index.m3u8
-#EXTINF:-1 group-title="棋士" tvg-name="第13集" tvg-logo="https://live.fanmingming.cn/tv/第13集.png",第13集
-https://v10.tlkqc.com/wjv10/202504/05/VjnvtvgM2R82/video/index.m3u8
-#EXTINF:-1 group-title="棋士" tvg-name="第14集" tvg-logo="https://live.fanmingming.cn/tv/第14集.png",第14集
-https://v6.tlkqc.com/wjv6/202504/05/iaMKViDbuF78/video/index.m3u8
-#EXTINF:-1 group-title="棋士" tvg-name="第15集" tvg-logo="https://live.fanmingming.cn/tv/第15集.png",第15集
-https://v3.tlkqc.com/wjv3/202504/05/p4chhz6tLj75/video/index.m3u8
-#EXTINF:-1 group-title="棋士" tvg-name="第16集" tvg-logo="https://live.fanmingming.cn/tv/第16集.png",第16集
-https://v10.tlkqc.com/wjv10/202504/06/VmwHecY6Qs82/video/index.m3u8
-#EXTINF:-1 group-title="棋士" tvg-name="第17集" tvg-logo="https://live.fanmingming.cn/tv/第17集.png",第17集
-https://v5.tlkqc.com/wjv5/202504/07/zWp6m6NZL577/video/index.m3u8
-#EXTINF:-1 group-title="棋士" tvg-name="第18集" tvg-logo="https://live.fanmingming.cn/tv/第18集.png",第18集
-https://v9.tlkqc.com/wjv9/202504/08/pM8dRtudr081/video/index.m3u8
-#EXTINF:-1 group-title="棋士" tvg-name="第19集" tvg-logo="https://live.fanmingming.cn/tv/第19集.png",第19集
-https://v9.tlkqc.com/wjv9/202504/09/U8LeJ0DuKS81/video/index.m3u8
-#EXTINF:-1 group-title="棋士" tvg-name="第20集" tvg-logo="https://live.fanmingming.cn/tv/第20集.png",第20集
-https://v11.tlkqc.com/wjv11/202504/09/MS8fXELPsp83/video/index.m3u8
-#EXTINF:-1 group-title="棋士" tvg-name="第21集" tvg-logo="https://live.fanmingming.cn/tv/第21集.png",第21集
-https://v12.tlkqc.com/wjv12/202504/09/29D95y5G7F84/video/index.m3u8
-#EXTINF:-1 group-title="棋士" tvg-name="第22集" tvg-logo="https://live.fanmingming.cn/tv/第22集.png",第22集
+#EXTINF:-1 group-title="正阳门下",tvg-name="第01集" tvg-logo="https://live.fanmingming.cn/tv/第01集.png",第01集
+https://v7.qrssuv.com/wjv7/202309/07/MWkkMieSN91/video/index.m3u8
+#EXTINF:-1 group-title="正阳门下",tvg-name="第02集" tvg-logo="https://live.fanmingming.cn/tv/第02集.png",第02集
+https://v7.qrssuv.com/wjv7/202309/07/V1S4RpY8261/video/index.m3u8
+#EXTINF:-1 group-title="正阳门下",tvg-name="第03集" tvg-logo="https://live.fanmingming.cn/tv/第03集.png",第03集
+https://v7.qrssuv.com/wjv7/202309/07/8e1K3ccbCT1/video/index.m3u8
+#EXTINF:-1 group-title="正阳门下",tvg-name="第04集" tvg-logo="https://live.fanmingming.cn/tv/第04集.png",第04集
+https://v7.qrssuv.com/wjv7/202309/07/UNdsZ2pwjj1/video/index.m3u8
+#EXTINF:-1 group-title="正阳门下",tvg-name="第05集" tvg-logo="https://live.fanmingming.cn/tv/第05集.png",第05集
+https://v7.qrssuv.com/wjv7/202309/07/CZBNEa91zq1/video/index.m3u8
+#EXTINF:-1 group-title="正阳门下",tvg-name="第06集" tvg-logo="https://live.fanmingming.cn/tv/第06集.png",第06集
+https://v7.qrssuv.com/wjv7/202309/07/mGC7kJTA3k1/video/index.m3u8
+#EXTINF:-1 group-title="正阳门下",tvg-name="第07集" tvg-logo="https://live.fanmingming.cn/tv/第07集.png",第07集
+https://v4.qrssuv.com/wjv4/202309/04/pNqhT253bQ1/video/index.m3u8
+#EXTINF:-1 group-title="正阳门下",tvg-name="第08集" tvg-logo="https://live.fanmingming.cn/tv/第08集.png",第08集
+https://v7.qrssuv.com/wjv7/202309/07/ck73M8CzD61/video/index.m3u8
+#EXTINF:-1 group-title="正阳门下",tvg-name="第09集" tvg-logo="https://live.fanmingming.cn/tv/第09集.png",第09集
+https://v4.qrssuv.com/wjv4/202309/04/NcChYNw11i1/video/index.m3u8
+#EXTINF:-1 group-title="正阳门下",tvg-name="第10集" tvg-logo="https://live.fanmingming.cn/tv/第10集.png",第10集
+https://v4.qrssuv.com/wjv4/202309/04/CyHrkW07BN1/video/index.m3u8
+#EXTINF:-1 group-title="正阳门下",tvg-name="第11集" tvg-logo="https://live.fanmingming.cn/tv/第11集.png",第11集
+https://v7.qrssuv.com/wjv7/202309/07/W9HfDxpNqi1/video/index.m3u8
+#EXTINF:-1 group-title="正阳门下",tvg-name="第12集" tvg-logo="https://live.fanmingming.cn/tv/第12集.png",第12集
+https://v4.qrssuv.com/wjv4/202309/04/mFgiwm7UHC1/video/index.m3u8
+#EXTINF:-1 group-title="正阳门下",tvg-name="第13集" tvg-logo="https://live.fanmingming.cn/tv/第13集.png",第13集
+https://v4.qrssuv.com/wjv4/202309/04/Auc9yhNr3V1/video/index.m3u8
+#EXTINF:-1 group-title="正阳门下",tvg-name="第14集" tvg-logo="https://live.fanmingming.cn/tv/第14集.png",第14集
+https://v4.qrssuv.com/wjv4/202309/04/gZ1au7dBpx1/video/index.m3u8
+#EXTINF:-1 group-title="正阳门下",tvg-name="第15集" tvg-logo="https://live.fanmingming.cn/tv/第15集.png",第15集
+https://v4.qrssuv.com/wjv4/202309/04/hAfwWAvqf61/video/index.m3u8
+#EXTINF:-1 group-title="正阳门下",tvg-name="第16集" tvg-logo="https://live.fanmingming.cn/tv/第16集.png",第16集
+https://v4.qrssuv.com/wjv4/202309/04/Sb1gbQzfQQ1/video/index.m3u8
+#EXTINF:-1 group-title="正阳门下",tvg-name="第17集" tvg-logo="https://live.fanmingming.cn/tv/第17集.png",第17集
+https://v4.qrssuv.com/wjv4/202309/04/fFRasuFrff1/video/index.m3u8
+#EXTINF:-1 group-title="正阳门下",tvg-name="第18集" tvg-logo="https://live.fanmingming.cn/tv/第18集.png",第18集
+https://v7.qrssuv.com/wjv7/202309/07/h20LUkLJJM1/video/index.m3u8
+#EXTINF:-1 group-title="正阳门下",tvg-name="第19集" tvg-logo="https://live.fanmingming.cn/tv/第19集.png",第19集
+https://v7.qrssuv.com/wjv7/202309/07/qpsSaiyAtu1/video/index.m3u8
+#EXTINF:-1 group-title="正阳门下",tvg-name="第20集" tvg-logo="https://live.fanmingming.cn/tv/第20集.png",第20集
+https://v7.qrssuv.com/wjv7/202309/07/fsrQnSxkLq1/video/index.m3u8
+#EXTINF:-1 group-title="正阳门下",tvg-name="第21集" tvg-logo="https://live.fanmingming.cn/tv/第21集.png",第21集
+https://v7.qrssuv.com/wjv7/202309/07/e4dMpyWnGN1/video/index.m3u8
+#EXTINF:-1 group-title="正阳门下",tvg-name="第22集" tvg-logo="https://live.fanmingming.cn/tv/第22集.png",第22集
+https://v7.qrssuv.com/wjv7/202309/07/9CepPBHV5b1/video/index.m3u8
+#EXTINF:-1 group-title="正阳门下",tvg-name="第23集" tvg-logo="https://live.fanmingming.cn/tv/第23集.png",第23集
+https://v7.qrssuv.com/wjv7/202309/07/3EHVpTZaeD1/video/index.m3u8
+#EXTINF:-1 group-title="正阳门下",tvg-name="第24集" tvg-logo="https://live.fanmingming.cn/tv/第24集.png",第24集
+https://v7.qrssuv.com/wjv7/202309/07/df4XG4dQLM1/video/index.m3u8
+#EXTINF:-1 group-title="正阳门下",tvg-name="第25集" tvg-logo="https://live.fanmingming.cn/tv/第25集.png",第25集
+https://v7.qrssuv.com/wjv7/202309/07/92Z4udMSf21/video/index.m3u8
+#EXTINF:-1 group-title="正阳门下",tvg-name="第26集" tvg-logo="https://live.fanmingming.cn/tv/第26集.png",第26集
+https://v7.qrssuv.com/wjv7/202309/07/2yqjtFsGeq1/video/index.m3u8
+#EXTINF:-1 group-title="正阳门下",tvg-name="第27集" tvg-logo="https://live.fanmingming.cn/tv/第27集.png",第27集
+https://v7.qrssuv.com/wjv7/202309/07/jB1Tz6ccd91/video/index.m3u8
+#EXTINF:-1 group-title="正阳门下",tvg-name="第28集" tvg-logo="https://live.fanmingming.cn/tv/第28集.png",第28集
+https://v7.qrssuv.com/wjv7/202309/07/ykWaFShehZ1/video/index.m3u8
+#EXTINF:-1 group-title="正阳门下",tvg-name="第29集" tvg-logo="https://live.fanmingming.cn/tv/第29集.png",第29集
+https://v7.qrssuv.com/wjv7/202309/07/gP6H56irRe1/video/index.m3u8
+#EXTINF:-1 group-title="正阳门下",tvg-name="第30集" tvg-logo="https://live.fanmingming.cn/tv/第30集.png",第30集
+https://v7.qrssuv.com/wjv7/202309/07/eqCpwXdnrf1/video/index.m3u8
+#EXTINF:-1 group-title="正阳门下",tvg-name="第31集" tvg-logo="https://live.fanmingming.cn/tv/第31集.png",第31集
+https://v7.qrssuv.com/wjv7/202309/07/7ai0St6b491/video/index.m3u8
+#EXTINF:-1 group-title="正阳门下",tvg-name="第32集" tvg-logo="https://live.fanmingming.cn/tv/第32集.png",第32集
+https://v7.qrssuv.com/wjv7/202309/07/9Us4JcPiq71/video/index.m3u8
+#EXTINF:-1 group-title="正阳门下",tvg-name="第33集" tvg-logo="https://live.fanmingming.cn/tv/第33集.png",第33集
+https://v7.qrssuv.com/wjv7/202309/07/6BjBj0RkLk1/video/index.m3u8
+#EXTINF:-1 group-title="正阳门下",tvg-name="第34集" tvg-logo="https://live.fanmingming.cn/tv/第34集.png",第34集
+https://v7.qrssuv.com/wjv7/202309/07/m13jpfBXiM1/video/index.m3u8
+#EXTINF:-1 group-title="正阳门下",tvg-name="第35集" tvg-logo="https://live.fanmingming.cn/tv/第35集.png",第35集
+https://v7.qrssuv.com/wjv7/202309/07/hh4gDXR3hZ1/video/index.m3u8
+#EXTINF:-1 group-title="正阳门下",tvg-name="第36集" tvg-logo="https://live.fanmingming.cn/tv/第36集.png",第36集
+https://v7.qrssuv.com/wjv7/202309/07/EX38VaWak71/video/index.m3u8
+#EXTINF:-1 group-title="正阳门下",tvg-name="第37集" tvg-logo="https://live.fanmingming.cn/tv/第37集.png",第37集
+https://v7.qrssuv.com/wjv7/202309/07/8X2QHkBrDQ1/video/index.m3u8
+#EXTINF:-1 group-title="正阳门下",tvg-name="第38集" tvg-logo="https://live.fanmingming.cn/tv/第38集.png",第38集
+https://v7.qrssuv.com/wjv7/202309/07/brsr5KeZpq1/video/index.m3u8
+#EXTINF:-1 group-title="正阳门下",tvg-name="第39集" tvg-logo="https://live.fanmingming.cn/tv/第39集.png",第39集
+https://v7.qrssuv.com/wjv7/202309/07/QdP5LZPPyn1/video/index.m3u8
+#EXTINF:-1 group-title="正阳门下",tvg-name="第40集" tvg-logo="https://live.fanmingming.cn/tv/第40集.png",第40集
+https://v7.qrssuv.com/wjv7/202309/07/3k4ihy40iJ1/video/index.m3u8
+#EXTINF:-1 group-title="正阳门下",tvg-name="第41集" tvg-logo="https://live.fanmingming.cn/tv/第41集.png",第41集
+https://v7.qrssuv.com/wjv7/202309/07/XVY307tv741/video/index.m3u8
+#EXTINF:-1 group-title="正阳门下",tvg-name="第42集" tvg-logo="https://live.fanmingming.cn/tv/第42集.png",第42集
+https://v7.qrssuv.com/wjv7/202309/07/NE0RpQRvZt1/video/index.m3u8
+#EXTINF:-1 group-title="正阳门下",tvg-name="第43集" tvg-logo="https://live.fanmingming.cn/tv/第43集.png",第43集
+https://v7.qrssuv.com/wjv7/202309/07/QXaSVyRgJg1/video/index.m3u8
+#EXTINF:-1 group-title="正阳门下",tvg-name="第44集" tvg-logo="https://live.fanmingming.cn/tv/第44集.png",第44集
+https://v7.qrssuv.com/wjv7/202309/07/vP7z9CWNDv1/video/index.m3u8
+#EXTINF:-1 group-title="正阳门下",tvg-name="第45集" tvg-logo="https://live.fanmingming.cn/tv/第45集.png",第45集
+https://v7.qrssuv.com/wjv7/202309/07/T87DMjACdm1/video/index.m3u8
+#EXTINF:-1 group-title="正阳门下",tvg-name="第46集" tvg-logo="https://live.fanmingming.cn/tv/第46集.png",第46集
+https://v7.qrssuv.com/wjv7/202309/07/pUzC42aZD61/video/index.m3u8
+#EXTINF:-1 group-title="正阳门下",tvg-name="第47集" tvg-logo="https://live.fanmingming.cn/tv/第47集.png",第47集
+https://v7.qrssuv.com/wjv7/202309/07/PwhhGhLC7f1/video/index.m3u8
+#EXTINF:-1 group-title="正阳门下",tvg-name="第48集" tvg-logo="https://live.fanmingming.cn/tv/第48集.png",第48集
+https://v7.qrssuv.com/wjv7/202309/07/haEVcr8sKn1/video/index.m3u8
+#EXTINF:-1 group-title="正阳门下",tvg-name="第49集" tvg-logo="https://live.fanmingming.cn/tv/第49集.png",第49集
+https://v7.qrssuv.com/wjv7/202309/07/xaLEKP2E1b1/video/index.m3u8
+#EXTINF:-1 group-title="正阳门下",tvg-name="第50集" tvg-logo="https://live.fanmingming.cn/tv/第50集.png",第50集
+https://v7.qrssuv.com/wjv7/202309/07/Fv6YCM7F3e1/video/index.m3u8
+#EXTINF:-1 group-title="正阳门下",tvg-name="第51集" tvg-logo="https://live.fanmingming.cn/tv/第51集.png",第51集
+https://v4.qrssuv.com/wjv4/202308/31/0ZiXiELZ0A1/video/index.m3u8
+#EXTINF:-1 group-title="正阳门下",tvg-name="第52集" tvg-logo="https://live.fanmingming.cn/tv/第52集.png",第52集
+https://v7.qrssuv.com/wjv7/202309/07/Z66hVwMgxG1/video/index.m3u8
+#EXTINF:-1 group-title="正阳门下",tvg-name="第53集" tvg-logo="https://live.fanmingming.cn/tv/第53集.png",第53集
+https://v4.qrssuv.com/wjv4/202308/31/wTs18FyhGE1/video/index.m3u8
+#EXTINF:-1 group-title="正阳门下",tvg-name="第54集" tvg-logo="https://live.fanmingming.cn/tv/第54集.png",第54集
+https://v7.qrssuv.com/wjv7/202309/07/mQPBQS7yvZ1/video/index.m3u8
+#EXTINF:-1 group-title="正阳门下",tvg-name="第55集" tvg-logo="https://live.fanmingming.cn/tv/第55集.png",第55集
+https://v7.qrssuv.com/wjv7/202309/07/f7KqHqRX8B1/video/index.m3u8
+#EXTINF:-1 group-title="正阳门下",tvg-name="第56集" tvg-logo="https://live.fanmingming.cn/tv/第56集.png",第56集
+https://v7.qrssuv.com/wjv7/202309/07/HDEUW1gYeb1/video/index.m3u8
+#EXTINF:-1 group-title="正阳门下",tvg-name="第57集" tvg-logo="https://live.fanmingming.cn/tv/第57集.png",第57集
+https://v4.qrssuv.com/wjv4/202308/31/Cz2tP4Hkji1/video/index.m3u8
+#EXTINF:-1 group-title="正阳门下",tvg-name="第58集" tvg-logo="https://live.fanmingming.cn/tv/第58集.png",第58集
+https://v4.qrssuv.com/wjv4/202308/26/jFQpEyYW6v1/video/index.m3u8
+#EXTINF:-1 group-title="正阳门下",tvg-name="第59集" tvg-logo="https://live.fanmingming.cn/tv/第59集.png",第59集
+https://v4.qrssuv.com/wjv4/202308/26/qTskAx2zYC1/video/index.m3u8
+#EXTINF:-1 group-title="正阳门下",tvg-name="第60集" tvg-logo="https://live.fanmingming.cn/tv/第60集.png",第60集
+https://v4.qrssuv.com/wjv4/202308/31/PdQ5Z46zW61/video/index.m3u8
+#EXTINF:-1 group-title="正阳门下",tvg-name="第61集" tvg-logo="https://live.fanmingming.cn/tv/第61集.png",第61集
+https://v4.qrssuv.com/wjv4/202308/26/kJ19hekgzj1/video/index.m3u8
+#EXTINF:-1 group-title="正阳门下",tvg-name="第62集" tvg-logo="https://live.fanmingming.cn/tv/第62集.png",第62集
+https://v4.qrssuv.com/wjv4/202308/26/dnqSNRwydF1/video/index.m3u8
+#EXTINF:-1 group-title="正阳门下",tvg-name="第63集" tvg-logo="https://live.fanmingming.cn/tv/第63集.png",第63集
+https://v4.qrssuv.com/wjv4/202308/26/Brq33XjUCN1/video/index.m3u8
+#EXTINF:-1 group-title="正阳门下",tvg-name="第64集" tvg-logo="https://live.fanmingming.cn/tv/第64集.png",第64集
+https://v4.qrssuv.com/wjv4/202308/26/sQwi24dp051/video/index.m3u8
+#EXTINF:-1 group-title="正阳门下",tvg-name="第65集" tvg-logo="https://live.fanmingming.cn/tv/第65集.png",第65集
+https://v4.qrssuv.com/wjv4/202308/26/uQJyBP8CgR1/video/index.m3u8
+#EXTINF:-1 group-title="正阳门下",tvg-name="第66集" tvg-logo="https://live.fanmingming.cn/tv/第66集.png",第66集
+https://v4.qrssuv.com/wjv4/202308/26/vEhzYEfkMd1/video/index.m3u8
+#EXTINF:-1 group-title="正阳门下",tvg-name="第67集" tvg-logo="https://live.fanmingming.cn/tv/第67集.png",第67集
+https://v4.qrssuv.com/wjv4/202308/26/Ti0kXt6M2e1/video/index.m3u8
+#EXTINF:-1 group-title="正阳门下",tvg-name="第68集" tvg-logo="https://live.fanmingming.cn/tv/第68集.png",第68集
+https://v4.qrssuv.com/wjv4/202308/26/aApvNZdDuc1/video/index.m3u8
+#EXTINF:-1 group-title="正阳门下",tvg-name="第69集" tvg-logo="https://live.fanmingming.cn/tv/第69集.png",第69集
+https://v4.qrssuv.com/wjv4/202308/26/WksDk2H13t1/video/index.m3u8
+#EXTINF:-1 group-title="正阳门下",tvg-name="第70集" tvg-logo="https://live.fanmingming.cn/tv/第70集.png",第70集
+https://v4.qrssuv.com/wjv4/202308/26/sp4KMSywqV1/video/index.m3u8
+#EXTINF:-1 group-title="正阳门下",tvg-name="第71集" tvg-logo="https://live.fanmingming.cn/tv/第71集.png",第71集
+https://v7.qrssuv.com/wjv7/202309/07/CMrb8GZWPN1/video/index.m3u8
+#EXTINF:-1 group-title="正阳门下",tvg-name="第72集" tvg-logo="https://live.fanmingming.cn/tv/第72集.png",第72集
+https://v4.qrssuv.com/wjv4/202308/31/BBx3vYQRYv1/video/index.m3u8
+#EXTINF:-1 group-title="正阳门下",tvg-name="第73集" tvg-logo="https://live.fanmingming.cn/tv/第73集.png",第73集
+https://v7.qrssuv.com/wjv7/202309/07/Y7zgbkcSw31/video/index.m3u8
+#EXTINF:-1 group-title="正阳门下",tvg-name="第74集" tvg-logo="https://live.fanmingming.cn/tv/第74集.png",第74集
+https://v4.qrssuv.com/wjv4/202308/31/iNSLfD4iG91/video/index.m3u8
+#EXTINF:-1 group-title="正阳门下",tvg-name="第75集" tvg-logo="https://live.fanmingming.cn/tv/第75集.png",第75集
+https://v4.qrssuv.com/wjv4/202308/26/MBNkNwE03q1/video/index.m3u8
+#EXTINF:-1 group-title="正阳门下",tvg-name="第76集" tvg-logo="https://live.fanmingming.cn/tv/第76集.png",第76集
+https://v4.qrssuv.com/wjv4/202308/26/CM5QK5z5za1/video/index.m3u8
+#EXTINF:-1 group-title="正阳门下",tvg-name="第77集" tvg-logo="https://live.fanmingming.cn/tv/第77集.png",第77集
+https://v7.qrssuv.com/wjv7/202309/07/n7vDQ7QjUu1/video/index.m3u8
+#EXTINF:-1 group-title="正阳门下",tvg-name="第78集" tvg-logo="https://live.fanmingming.cn/tv/第78集.png",第78集
+https://v7.qrssuv.com/wjv7/202309/07/Rmn1qyiMXf1/video/index.m3u8
+#EXTINF:-1 group-title="正阳门下",tvg-name="第79集" tvg-logo="https://live.fanmingming.cn/tv/第79集.png",第79集
+https://v7.qrssuv.com/wjv7/202309/07/rL5DAF8BSE1/video/index.m3u8
+#EXTINF:-1 group-title="正阳门下",tvg-name="第80集" tvg-logo="https://live.fanmingming.cn/tv/第80集.png",第80集
+https://v4.qrssuv.com/wjv4/202308/26/CJYWirAyps1/video/index.m3u8
+#EXTINF:-1 group-title="正阳门下",tvg-name="第81集" tvg-logo="https://live.fanmingming.cn/tv/第81集.png",第81集
+https://v4.qrssuv.com/wjv4/202308/26/QWE0yGGzUf1/video/index.m3u8
+#EXTINF:-1 group-title="正阳门下",tvg-name="第82集" tvg-logo="https://live.fanmingming.cn/tv/第82集.png",第82集
+https://v7.qrssuv.com/wjv7/202309/07/Yk56jpAzTK1/video/index.m3u8
+#EXTINF:-1 group-title="正阳门下",tvg-name="第83集" tvg-logo="https://live.fanmingming.cn/tv/第83集.png",第83集
+https://v4.qrssuv.com/wjv4/202308/26/810YaqsNnV1/video/index.m3u8
+#EXTINF:-1 group-title="正阳门下",tvg-name="第84集" tvg-logo="https://live.fanmingming.cn/tv/第84集.png",第84集
+https://v4.qrssuv.com/wjv4/202308/26/hLCJq4zvBL1/video/index.m3u8
+#EXTINF:-1 group-title="亮剑" tvg-name="第01集" tvg-logo="https://live.fanmingming.cn/tv/第01集.png",第01集
+https://v9.qrssuv.com/wjv9/202309/12/81tn3UbF581/video/index.m3u8
+#EXTINF:-1 group-title="亮剑" tvg-name="第02集" tvg-logo="https://live.fanmingming.cn/tv/第02集.png",第02集
+https://v9.qrssuv.com/wjv9/202309/12/jad4FgNt1J1/video/index.m3u8
+#EXTINF:-1 group-title="亮剑" tvg-name="第03集" tvg-logo="https://live.fanmingming.cn/tv/第03集.png",第03集
+https://v9.qrssuv.com/wjv9/202309/12/G30AW4ikFx1/video/index.m3u8
+#EXTINF:-1 group-title="亮剑" tvg-name="第04集" tvg-logo="https://live.fanmingming.cn/tv/第04集.png",第04集
+https://v9.qrssuv.com/wjv9/202309/12/7ifeptZ4J31/video/index.m3u8
+#EXTINF:-1 group-title="亮剑" tvg-name="第05集" tvg-logo="https://live.fanmingming.cn/tv/第05集.png",第05集
+https://v9.qrssuv.com/wjv9/202309/12/NiS2KK81nM1/video/index.m3u8
+#EXTINF:-1 group-title="亮剑" tvg-name="第06集" tvg-logo="https://live.fanmingming.cn/tv/第06集.png",第06集
+https://v9.qrssuv.com/wjv9/202309/12/Mkqqw4m1gA1/video/index.m3u8
+#EXTINF:-1 group-title="亮剑" tvg-name="第07集" tvg-logo="https://live.fanmingming.cn/tv/第07集.png",第07集
+https://v9.qrssuv.com/wjv9/202309/12/cDrgFrgBU71/video/index.m3u8
+#EXTINF:-1 group-title="亮剑" tvg-name="第08集" tvg-logo="https://live.fanmingming.cn/tv/第08集.png",第08集
+https://v9.qrssuv.com/wjv9/202309/12/TKTS77MyXm1/video/index.m3u8
+#EXTINF:-1 group-title="亮剑" tvg-name="第09集" tvg-logo="https://live.fanmingming.cn/tv/第09集.png",第09集
+https://v9.qrssuv.com/wjv9/202309/12/Uq3Yx65KZL1/video/index.m3u8
+#EXTINF:-1 group-title="亮剑" tvg-name="第10集" tvg-logo="https://live.fanmingming.cn/tv/第10集.png",第10集
+https://v9.qrssuv.com/wjv9/202309/12/410vBwZzwe1/video/index.m3u8
+#EXTINF:-1 group-title="亮剑" tvg-name="第11集" tvg-logo="https://live.fanmingming.cn/tv/第11集.png",第11集
+https://v9.qrssuv.com/wjv9/202309/12/AQ2Huz8A3Q1/video/index.m3u8
+#EXTINF:-1 group-title="亮剑" tvg-name="第12集" tvg-logo="https://live.fanmingming.cn/tv/第12集.png",第12集
+https://v9.qrssuv.com/wjv9/202309/12/YVwVXCnLPm1/video/index.m3u8
+#EXTINF:-1 group-title="亮剑" tvg-name="第13集" tvg-logo="https://live.fanmingming.cn/tv/第13集.png",第13集
+https://v9.qrssuv.com/wjv9/202309/12/EyRTpaPD5j1/video/index.m3u8
+#EXTINF:-1 group-title="亮剑" tvg-name="第14集" tvg-logo="https://live.fanmingming.cn/tv/第14集.png",第14集
+https://v9.qrssuv.com/wjv9/202309/12/5uxC8QnicT1/video/index.m3u8
+#EXTINF:-1 group-title="亮剑" tvg-name="第15集" tvg-logo="https://live.fanmingming.cn/tv/第15集.png",第15集
+https://v9.qrssuv.com/wjv9/202309/12/vdBjcHMwBb1/video/index.m3u8
+#EXTINF:-1 group-title="亮剑" tvg-name="第16集" tvg-logo="https://live.fanmingming.cn/tv/第16集.png",第16集
+https://v9.qrssuv.com/wjv9/202309/12/wt753djVPm1/video/index.m3u8
+#EXTINF:-1 group-title="亮剑" tvg-name="第17集" tvg-logo="https://live.fanmingming.cn/tv/第17集.png",第17集
+https://v9.qrssuv.com/wjv9/202309/12/6DLmTCSpYK1/video/index.m3u8
+#EXTINF:-1 group-title="亮剑" tvg-name="第18集" tvg-logo="https://live.fanmingming.cn/tv/第18集.png",第18集
+https://v9.qrssuv.com/wjv9/202309/12/dzYAevZXsy1/video/index.m3u8
+#EXTINF:-1 group-title="亮剑" tvg-name="第19集" tvg-logo="https://live.fanmingming.cn/tv/第19集.png",第19集
+https://v9.qrssuv.com/wjv9/202309/12/HnPyPpFjmH1/video/index.m3u8
+#EXTINF:-1 group-title="亮剑" tvg-name="第20集" tvg-logo="https://live.fanmingming.cn/tv/第20集.png",第20集
+https://v9.qrssuv.com/wjv9/202309/12/GsMPLYyRp91/video/index.m3u8
+#EXTINF:-1 group-title="亮剑" tvg-name="第21集" tvg-logo="https://live.fanmingming.cn/tv/第21集.png",第21集
+https://v9.qrssuv.com/wjv9/202309/12/d6vSuSmWx41/video/index.m3u8
+#EXTINF:-1 group-title="亮剑" tvg-name="第22集" tvg-logo="https://live.fanmingming.cn/tv/第22集.png",第22集
+https://v9.qrssuv.com/wjv9/202309/12/FcT6QQSX8x1/video/index.m3u8
+#EXTINF:-1 group-title="亮剑" tvg-name="第23集" tvg-logo="https://live.fanmingming.cn/tv/第23集.png",第23集
+https://v9.qrssuv.com/wjv9/202309/12/b30UJ31WZM1/video/index.m3u8
+#EXTINF:-1 group-title="亮剑" tvg-name="第24集" tvg-logo="https://live.fanmingming.cn/tv/第24集.png",第24集
+https://v9.qrssuv.com/wjv9/202309/12/U5AKsz3n2y1/video/index.m3u8
+#EXTINF:-1 group-title="亮剑" tvg-name="第25集" tvg-logo="https://live.fanmingming.cn/tv/第25集.png",第25集
+https://v9.qrssuv.com/wjv9/202309/12/HAh1Bt8FVS1/video/index.m3u8
+#EXTINF:-1 group-title="亮剑" tvg-name="第26集" tvg-logo="https://live.fanmingming.cn/tv/第26集.png",第26集
+https://v9.qrssuv.com/wjv9/202309/12/zLL3yqqysL1/video/index.m3u8
+#EXTINF:-1 group-title="亮剑" tvg-name="第27集" tvg-logo="https://live.fanmingming.cn/tv/第27集.png",第27集
+https://v9.qrssuv.com/wjv9/202309/12/L3yqFu31dg1/video/index.m3u8
+#EXTINF:-1 group-title="亮剑" tvg-name="第28集" tvg-logo="https://live.fanmingming.cn/tv/第28集.png",第28集
+https://v9.qrssuv.com/wjv9/202309/12/aEu8fbsiXG1/video/index.m3u8
+#EXTINF:-1 group-title="亮剑" tvg-name="第29集" tvg-logo="https://live.fanmingming.cn/tv/第29集.png",第29集
+https://v9.qrssuv.com/wjv9/202309/12/LRJgWPSa861/video/index.m3u8
+#EXTINF:-1 group-title="亮剑" tvg-name="第30集" tvg-logo="https://live.fanmingming.cn/tv/第30集.png",第30集
+https://v9.qrssuv.com/wjv9/202309/12/zR3GkXphuH1/video/index.m3u8
 #EXTINF:-1 group-title="大考" tvg-logo="第01集" tvg-logo="https://live.fanmingming.cn/tv/第01集.png",第01集
 https://v4.tlkqc.com/wjv4/202309/04/2a1MBVFvQ11/video/index.m3u8
 #EXTINF:-1 group-title="大考" tvg-logo="第02集" tvg-logo="https://live.fanmingming.cn/tv/第02集.png",第02集
