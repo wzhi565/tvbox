@@ -646,6 +646,86 @@ https://v9.qrssuv.com/wjv9/202309/12/aEu8fbsiXG1/video/index.m3u8
 https://v9.qrssuv.com/wjv9/202309/12/LRJgWPSa861/video/index.m3u8
 #EXTINF:-1 group-title="亮剑" tvg-name="第30集" tvg-logo="https://live.fanmingming.cn/tv/第30集.png",第30集
 https://v9.qrssuv.com/wjv9/202309/12/zR3GkXphuH1/video/index.m3u8
+#EXTINF:-1 group-title="天下粮田",tvg-name="第01集" tvg-logo="https://live.fanmingming.cn/tv/第01集.png",第01集
+https://v4.qrssuv.com/wjv4/202308/26/eQZHMxgzyf1/video/index.m3u8
+#EXTINF:-1 group-title="天下粮田",tvg-name="第02集" tvg-logo="https://live.fanmingming.cn/tv/第02集.png",第02集
+https://v9.qrssuv.com/wjv9/202309/07/KZyF6Bnyvx1/video/index.m3u8
+#EXTINF:-1 group-title="天下粮田",tvg-name="第03集" tvg-logo="https://live.fanmingming.cn/tv/第03集.png",第03集
+https://v9.qrssuv.com/wjv9/202309/07/wG9mzLxkRR1/video/index.m3u8
+#EXTINF:-1 group-title="天下粮田",tvg-name="第04集" tvg-logo="https://live.fanmingming.cn/tv/第04集.png",第04集
+https://v4.qrssuv.com/wjv4/202308/31/jzStCWd6rH1/video/index.m3u8
+#EXTINF:-1 group-title="天下粮田",tvg-name="第05集" tvg-logo="https://live.fanmingming.cn/tv/第05集.png",第05集
+https://v4.qrssuv.com/wjv4/202308/31/DhzQwC8HWx1/video/index.m3u8
+#EXTINF:-1 group-title="天下粮田",tvg-name="第06集" tvg-logo="https://live.fanmingming.cn/tv/第06集.png",第06集
+https://v4.qrssuv.com/wjv4/202308/31/k5QyrYv4v81/video/index.m3u8
+#EXTINF:-1 group-title="天下粮田",tvg-name="第07集" tvg-logo="https://live.fanmingming.cn/tv/第07集.png",第07集
+https://v4.qrssuv.com/wjv4/202308/26/YjfZcXke441/video/index.m3u8
+#EXTINF:-1 group-title="天下粮田",tvg-name="第08集" tvg-logo="https://live.fanmingming.cn/tv/第08集.png",第08集
+https://v4.qrssuv.com/wjv4/202308/31/52iRxEMBaU1/video/index.m3u8
+#EXTINF:-1 group-title="天下粮田",tvg-name="第09集" tvg-logo="https://live.fanmingming.cn/tv/第09集.png",第09集
+https://v4.qrssuv.com/wjv4/202308/26/A4EZHSUc0t1/video/index.m3u8
+#EXTINF:-1 group-title="天下粮田",tvg-name="第10集" tvg-logo="https://live.fanmingming.cn/tv/第10集.png",第10集
+https://v4.qrssuv.com/wjv4/202308/26/9ksbWqJgg11/video/index.m3u8
+#EXTINF:-1 group-title="天下粮田",tvg-name="第11集" tvg-logo="https://live.fanmingming.cn/tv/第11集.png",第11集
+https://v4.qrssuv.com/wjv4/202308/26/pwPaKpCm0q1/video/index.m3u8
+#EXTINF:-1 group-title="天下粮田",tvg-name="第12集" tvg-logo="https://live.fanmingming.cn/tv/第12集.png",第12集
+https://v4.qrssuv.com/wjv4/202308/31/AZngeFX6zM1/video/index.m3u8
+#EXTINF:-1 group-title="天下粮田",tvg-name="第13集" tvg-logo="https://live.fanmingming.cn/tv/第13集.png",第13集
+https://v4.qrssuv.com/wjv4/202308/26/9HpV4GrhJv1/video/index.m3u8
+#EXTINF:-1 group-title="天下粮田",tvg-name="第14集" tvg-logo="https://live.fanmingming.cn/tv/第14集.png",第14集
+https://v4.qrssuv.com/wjv4/202308/26/mzPEhC43731/video/index.m3u8
+#EXTINF:-1 group-title="天下粮田",tvg-name="第15集" tvg-logo="https://live.fanmingming.cn/tv/第15集.png",第15集
+https://v4.qrssuv.com/wjv4/202308/26/cRKMutKNdB1/video/index.m3u8
+#EXTINF:-1 group-title="天下粮田",tvg-name="第16集" tvg-logo="https://live.fanmingming.cn/tv/第16集.png",第16集
+https://v4.qrssuv.com/wjv4/202308/31/48n9XGCFre1/video/index.m3u8
+#EXTINF:-1 group-title="天下粮田",tvg-name="第17集" tvg-logo="https://live.fanmingming.cn/tv/第17集.png",第17集
+https://v4.qrssuv.com/wjv4/202308/26/06x98dBSFi1/video/index.m3u8
+#EXTINF:-1 group-title="天下粮田",tvg-name="第18集" tvg-logo="https://live.fanmingming.cn/tv/第18集.png",第18集
+https://v4.qrssuv.com/wjv4/202308/31/mcfDTZQXpz1/video/index.m3u8
+#EXTINF:-1 group-title="天下粮田",tvg-name="第19集" tvg-logo="https://live.fanmingming.cn/tv/第19集.png",第19集
+https://v4.qrssuv.com/wjv4/202308/31/RebUN9Xf591/video/index.m3u8
+#EXTINF:-1 group-title="天下粮田",tvg-name="第20集" tvg-logo="https://live.fanmingming.cn/tv/第20集.png",第20集
+https://v4.qrssuv.com/wjv4/202308/31/hhuT55bYD51/video/index.m3u8
+#EXTINF:-1 group-title="天下粮田",tvg-name="第21集" tvg-logo="https://live.fanmingming.cn/tv/第21集.png",第21集
+https://v4.qrssuv.com/wjv4/202308/31/pLt0raAPSq1/video/index.m3u8
+#EXTINF:-1 group-title="天下粮田",tvg-name="第22集" tvg-logo="https://live.fanmingming.cn/tv/第22集.png",第22集
+https://v4.qrssuv.com/wjv4/202308/31/dBdWG4pmYB1/video/index.m3u8
+#EXTINF:-1 group-title="天下粮田",tvg-name="第23集" tvg-logo="https://live.fanmingming.cn/tv/第23集.png",第23集
+https://v4.qrssuv.com/wjv4/202308/31/XYvBzHs1F01/video/index.m3u8
+#EXTINF:-1 group-title="天下粮田",tvg-name="第24集" tvg-logo="https://live.fanmingming.cn/tv/第24集.png",第24集
+https://v4.qrssuv.com/wjv4/202308/31/9a1V7L6zXZ1/video/index.m3u8
+#EXTINF:-1 group-title="天下粮田",tvg-name="第25集" tvg-logo="https://live.fanmingming.cn/tv/第25集.png",第25集
+https://v4.qrssuv.com/wjv4/202308/31/A6wCCGQFY31/video/index.m3u8
+#EXTINF:-1 group-title="天下粮田",tvg-name="第26集" tvg-logo="https://live.fanmingming.cn/tv/第26集.png",第26集
+https://v4.qrssuv.com/wjv4/202308/26/AvLL4NWaGc1/video/index.m3u8
+#EXTINF:-1 group-title="天下粮田",tvg-name="第27集" tvg-logo="https://live.fanmingming.cn/tv/第27集.png",第27集
+https://v4.qrssuv.com/wjv4/202308/31/Sq1TUKTEGY1/video/index.m3u8
+#EXTINF:-1 group-title="天下粮田",tvg-name="第28集" tvg-logo="https://live.fanmingming.cn/tv/第28集.png",第28集
+https://v4.qrssuv.com/wjv4/202308/31/Gv7EzuSnzX1/video/index.m3u8
+#EXTINF:-1 group-title="天下粮田",tvg-name="第29集" tvg-logo="https://live.fanmingming.cn/tv/第29集.png",第29集
+https://v4.qrssuv.com/wjv4/202308/31/w6dGwAUCnS1/video/index.m3u8
+#EXTINF:-1 group-title="天下粮田",tvg-name="第30集" tvg-logo="https://live.fanmingming.cn/tv/第30集.png",第30集
+https://v4.qrssuv.com/wjv4/202308/31/rMJxjphGzi1/video/index.m3u8
+#EXTINF:-1 group-title="天下粮田",tvg-name="第31集" tvg-logo="https://live.fanmingming.cn/tv/第31集.png",第31集
+https://v4.qrssuv.com/wjv4/202308/31/PPLCe5mHnf1/video/index.m3u8
+#EXTINF:-1 group-title="天下粮田",tvg-name="第32集" tvg-logo="https://live.fanmingming.cn/tv/第32集.png",第32集
+https://v4.qrssuv.com/wjv4/202308/31/uVg20dGSaK1/video/index.m3u8
+#EXTINF:-1 group-title="天下粮田",tvg-name="第33集" tvg-logo="https://live.fanmingming.cn/tv/第33集.png",第33集
+https://v4.qrssuv.com/wjv4/202308/31/t3VAcKJmAX1/video/index.m3u8
+#EXTINF:-1 group-title="天下粮田",tvg-name="第34集" tvg-logo="https://live.fanmingming.cn/tv/第34集.png",第34集
+https://v4.qrssuv.com/wjv4/202308/26/3YtSSRUA4P1/video/index.m3u8
+#EXTINF:-1 group-title="天下粮田",tvg-name="第35集" tvg-logo="https://live.fanmingming.cn/tv/第35集.png",第35集
+https://v4.qrssuv.com/wjv4/202308/31/kS5DUcAS661/video/index.m3u8
+#EXTINF:-1 group-title="天下粮田",tvg-name="第36集" tvg-logo="https://live.fanmingming.cn/tv/第36集.png",第36集
+https://v4.qrssuv.com/wjv4/202308/31/x2YuCUkugZ1/video/index.m3u8
+#EXTINF:-1 group-title="天下粮田",tvg-name="第37集" tvg-logo="https://live.fanmingming.cn/tv/第37集.png",第37集
+https://v4.qrssuv.com/wjv4/202308/31/uyMdK1cvjK1/video/index.m3u8
+#EXTINF:-1 group-title="天下粮田",tvg-name="第38集" tvg-logo="https://live.fanmingming.cn/tv/第38集.png",第38集
+https://v9.qrssuv.com/wjv9/202309/07/WYZH6W8ch61/video/index.m3u8
+#EXTINF:-1 group-title="天下粮田",tvg-name="第39集" tvg-logo="https://live.fanmingming.cn/tv/第39集.png",第39集
+https://v9.qrssuv.com/wjv9/202309/07/RBuBSQEbef1/video/index.m3u8
+#EXTINF:-1 group-title="天下粮田",tvg-name="第40集" tvg-logo="https://live.fanmingming.cn/tv/第40集.png",第40集
+https://v4.qrssuv.com/wjv4/202308/31/WMpRTWA1EL1/video/index.m3u8
 #EXTINF:-1 group-title="大考" tvg-logo="第01集" tvg-logo="https://live.fanmingming.cn/tv/第01集.png",第01集
 https://v4.tlkqc.com/wjv4/202309/04/2a1MBVFvQ11/video/index.m3u8
 #EXTINF:-1 group-title="大考" tvg-logo="第02集" tvg-logo="https://live.fanmingming.cn/tv/第02集.png",第02集
@@ -690,3 +770,4 @@ https://v4.tlkqc.com/wjv4/202309/06/1jba6EZwZA1/video/index.m3u8
 https://v4.tlkqc.com/wjv4/202309/06/PRtVEZbeKs1/video/index.m3u8
 #EXTINF:-1 group-title="大考" tvg-logo="第22集" tvg-logo="https://live.fanmingming.cn/tv/第22集.png",第22集
 https://v4.tlkqc.com/wjv4/202309/05/QQB0iPzN7e1/video/index.m3u8
+
