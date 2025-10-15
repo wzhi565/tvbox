@@ -764,5 +764,87 @@ https://v4.tlkqc.com/wjv4/202309/06/1jba6EZwZA1/video/index.m3u8
 https://v4.tlkqc.com/wjv4/202309/06/PRtVEZbeKs1/video/index.m3u8
 #EXTINF:-1 group-title="大考" tvg-logo="第22集" tvg-logo="https://live.fanmingming.cn/tv/第22集.png",第22集
 https://v4.tlkqc.com/wjv4/202309/05/QQB0iPzN7e1/video/index.m3u8
-
-
+#EXTINF:-1 group-title="倚天剑屠龙刀",tvg-name=""第01集" tvg-logo="https://live.fanmingming.cn/tv/第01集.png",第01集
+https://v2.qrssuv.com/wjv2/202308/21/Y58MtPbNtA2/video/index.m3u8
+#EXTINF:-1 group-title="倚天剑屠龙刀",tvg-name=""第02集" tvg-logo="https://live.fanmingming.cn/tv/第02集.png",第02集
+https://v2.qrssuv.com/wjv2/202308/21/sypr4RPuZy2/video/index.m3u8
+#EXTINF:-1 group-title="倚天剑屠龙刀",tvg-name=""第03集" tvg-logo="https://live.fanmingming.cn/tv/第03集.png",第03集
+https://v2.qrssuv.com/wjv2/202308/21/mxXAG81A402/video/index.m3u8
+#EXTINF:-1 group-title="倚天剑屠龙刀",tvg-name=""第04集" tvg-logo="https://live.fanmingming.cn/tv/第04集.png",第04集
+https://v2.qrssuv.com/wjv2/202308/21/mDLPvKEMm02/video/index.m3u8
+#EXTINF:-1 group-title="倚天剑屠龙刀",tvg-name=""第05集" tvg-logo="https://live.fanmingming.cn/tv/第05集.png",第05集
+https://v2.qrssuv.com/wjv2/202308/21/HewecA7TAx2/video/index.m3u8
+#EXTINF:-1 group-title="倚天剑屠龙刀",tvg-name=""第06集" tvg-logo="https://live.fanmingming.cn/tv/第06集.png",第06集
+https://v2.qrssuv.com/wjv2/202308/21/S9Vzry6SJ12/video/index.m3u8
+#EXTINF:-1 group-title="倚天剑屠龙刀",tvg-name=""第07集" tvg-logo="https://live.fanmingming.cn/tv/第07集.png",第07集
+https://v2.qrssuv.com/wjv2/202308/21/AZFy9v5MeB2/video/index.m3u8
+#EXTINF:-1 group-title="倚天剑屠龙刀",tvg-name=""第08集" tvg-logo="https://live.fanmingming.cn/tv/第08集.png",第08集
+https://v2.qrssuv.com/wjv2/202308/21/6tBLfPiPWU2/video/index.m3u8
+#EXTINF:-1 group-title="倚天剑屠龙刀",tvg-name=""第09集" tvg-logo="https://live.fanmingming.cn/tv/第09集.png",第09集
+https://v2.qrssuv.com/wjv2/202308/21/Qwx9fGEZZz2/video/index.m3u8
+#EXTINF:-1 group-title="倚天剑屠龙刀",tvg-name=""第10集" tvg-logo="https://live.fanmingming.cn/tv/第10集.png",第10集
+https://v2.qrssuv.com/wjv2/202308/21/i35PFPbi7C2/video/index.m3u8
+#EXTINF:-1 group-title="倚天剑屠龙刀",tvg-name=""第11集" tvg-logo="https://live.fanmingming.cn/tv/第11集.png",第11集
+https://v2.qrssuv.com/wjv2/202308/21/zHLesHLdZG2/video/index.m3u8
+#EXTINF:-1 group-title="倚天剑屠龙刀",tvg-name=""第12集" tvg-logo="https://live.fanmingming.cn/tv/第12集.png",第12集
+https://v2.qrssuv.com/wjv2/202308/21/cpzHsXjrpU2/video/index.m3u8
+#EXTINF:-1 group-title="倚天剑屠龙刀",tvg-name=""第13集" tvg-logo="https://live.fanmingming.cn/tv/第13集.png",第13集
+https://v2.qrssuv.com/wjv2/202308/21/Wifz3PfU962/video/index.m3u8
+#EXTINF:-1 group-title="倚天剑屠龙刀",tvg-name=""第14集" tvg-logo="https://live.fanmingming.cn/tv/第14集.png",第14集
+https://v2.qrssuv.com/wjv2/202308/21/rVQQBaPm3N2/video/index.m3u8
+#EXTINF:-1 group-title="倚天剑屠龙刀",tvg-name=""第15集" tvg-logo="https://live.fanmingming.cn/tv/第15集.png",第15集
+https://v2.qrssuv.com/wjv2/202308/21/CDhQpgB36d2/video/index.m3u8
+#EXTINF:-1 group-title="倚天剑屠龙刀",tvg-name=""第16集" tvg-logo="https://live.fanmingming.cn/tv/第16集.png",第16集
+https://v2.qrssuv.com/wjv2/202308/21/W7S8KCXfKG2/video/index.m3u8
+#EXTINF:-1 group-title="倚天剑屠龙刀",tvg-name=""第17集" tvg-logo="https://live.fanmingming.cn/tv/第17集.png",第17集
+https://v2.qrssuv.com/wjv2/202308/21/c0iPSPtPx32/video/index.m3u8
+#EXTINF:-1 group-title="倚天剑屠龙刀",tvg-name=""第18集" tvg-logo="https://live.fanmingming.cn/tv/第18集.png",第18集
+https://v2.qrssuv.com/wjv2/202308/21/HDWppr0K6K2/video/index.m3u8
+#EXTINF:-1 group-title="倚天剑屠龙刀",tvg-name=""第19集" tvg-logo="https://live.fanmingming.cn/tv/第19集.png",第19集
+https://v2.qrssuv.com/wjv2/202308/21/zXrFv426Ub2/video/index.m3u8
+#EXTINF:-1 group-title="倚天剑屠龙刀",tvg-name=""第20集" tvg-logo="https://live.fanmingming.cn/tv/第20集.png",第20集
+https://v2.qrssuv.com/wjv2/202308/21/uaHNbXRWuu2/video/index.m3u8
+#EXTINF:-1 group-title="倚天剑屠龙刀",tvg-name=""第21集" tvg-logo="https://live.fanmingming.cn/tv/第21集.png",第21集
+https://v2.qrssuv.com/wjv2/202308/21/vq5zL2TirS2/video/index.m3u8
+#EXTINF:-1 group-title="倚天剑屠龙刀",tvg-name=""第22集" tvg-logo="https://live.fanmingming.cn/tv/第22集.png",第22集
+https://v2.qrssuv.com/wjv2/202308/21/LTKJigS7cx2/video/index.m3u8
+#EXTINF:-1 group-title="倚天剑屠龙刀",tvg-name=""第23集" tvg-logo="https://live.fanmingming.cn/tv/第23集.png",第23集
+https://v2.qrssuv.com/wjv2/202308/21/1Yhb9uzRkW2/video/index.m3u8
+#EXTINF:-1 group-title="倚天剑屠龙刀",tvg-name=""第24集" tvg-logo="https://live.fanmingming.cn/tv/第24集.png",第24集
+https://v2.qrssuv.com/wjv2/202308/21/ZAs8DiUP8Z2/video/index.m3u8
+#EXTINF:-1 group-title="倚天剑屠龙刀",tvg-name=""第25集" tvg-logo="https://live.fanmingming.cn/tv/第25集.png",第25集
+https://v2.qrssuv.com/wjv2/202308/21/tV5KjQ0rTH2/video/index.m3u8
+#EXTINF:-1 group-title="倚天剑屠龙刀",tvg-name=""第26集" tvg-logo="https://live.fanmingming.cn/tv/第26集.png",第26集
+https://v2.qrssuv.com/wjv2/202308/21/QwyycHgBH72/video/index.m3u8
+#EXTINF:-1 group-title="倚天剑屠龙刀",tvg-name=""第27集" tvg-logo="https://live.fanmingming.cn/tv/第27集.png",第27集
+https://v2.qrssuv.com/wjv2/202308/21/XnHFt4EvBM2/video/index.m3u8
+#EXTINF:-1 group-title="倚天剑屠龙刀",tvg-name=""第28集" tvg-logo="https://live.fanmingming.cn/tv/第28集.png",第28集
+https://v2.qrssuv.com/wjv2/202308/21/KR7rEevRf82/video/index.m3u8
+#EXTINF:-1 group-title="倚天剑屠龙刀",tvg-name=""第29集" tvg-logo="https://live.fanmingming.cn/tv/第29集.png",第29集
+https://v2.qrssuv.com/wjv2/202308/21/tPrVHA3kQ42/video/index.m3u8
+#EXTINF:-1 group-title="倚天剑屠龙刀",tvg-name=""第30集" tvg-logo="https://live.fanmingming.cn/tv/第30集.png",第30集
+https://v2.qrssuv.com/wjv2/202308/21/mW1VskiKuW2/video/index.m3u8
+#EXTINF:-1 group-title="倚天剑屠龙刀",tvg-name=""第31集" tvg-logo="https://live.fanmingming.cn/tv/第31集.png",第31集
+https://v2.qrssuv.com/wjv2/202308/21/FZWZvp4evP2/video/index.m3u8
+#EXTINF:-1 group-title="倚天剑屠龙刀",tvg-name=""第32集" tvg-logo="https://live.fanmingming.cn/tv/第32集.png",第32集
+https://v2.qrssuv.com/wjv2/202308/21/Y9ZJreZf2K2/video/index.m3u8
+#EXTINF:-1 group-title="倚天剑屠龙刀",tvg-name=""第33集" tvg-logo="https://live.fanmingming.cn/tv/第33集.png",第33集
+https://v2.qrssuv.com/wjv2/202308/21/gq1RNEPNSj2/video/index.m3u8
+#EXTINF:-1 group-title="倚天剑屠龙刀",tvg-name=""第34集" tvg-logo="https://live.fanmingming.cn/tv/第34集.png",第34集
+https://v2.qrssuv.com/wjv2/202308/21/39BcP4bGmC2/video/index.m3u8
+#EXTINF:-1 group-title="倚天剑屠龙刀",tvg-name=""第35集" tvg-logo="https://live.fanmingming.cn/tv/第35集.png",第35集
+https://v2.qrssuv.com/wjv2/202308/21/Rmfe9xZt9r2/video/index.m3u8
+#EXTINF:-1 group-title="倚天剑屠龙刀",tvg-name=""第36集" tvg-logo="https://live.fanmingming.cn/tv/第36集.png",第36集
+https://v2.qrssuv.com/wjv2/202308/21/F85N7kxpA12/video/index.m3u8
+#EXTINF:-1 group-title="倚天剑屠龙刀",tvg-name=""第37集" tvg-logo="https://live.fanmingming.cn/tv/第37集.png",第37集
+https://v2.qrssuv.com/wjv2/202308/21/DxUSfG4d8r2/video/index.m3u8
+#EXTINF:-1 group-title="倚天剑屠龙刀",tvg-name=""第38集" tvg-logo="https://live.fanmingming.cn/tv/第38集.png",第38集
+https://v2.qrssuv.com/wjv2/202308/21/2nPd41qGzh2/video/index.m3u8
+#EXTINF:-1 group-title="倚天剑屠龙刀",tvg-name=""第39集" tvg-logo="https://live.fanmingming.cn/tv/第39集.png",第39集
+https://v2.qrssuv.com/wjv2/202308/21/5UWHrgbATG2/video/index.m3u8
+#EXTINF:-1 group-title="倚天剑屠龙刀",tvg-name=""第40集" tvg-logo="https://live.fanmingming.cn/tv/第40集.png",第40集
+https://v2.qrssuv.com/wjv2/202308/21/V4Xy2kaeQw2/video/index.m3u8
+#EXTINF:-1 group-title="倚天剑屠龙刀",tvg-name=""第41集" tvg-logo="https://live.fanmingming.cn/tv/第41集.png",第41集
+https://v2.qrssuv.com/wjv2/202308/21/tHLdZcuTBj2/video/index.m3u8
+#EXTINF:-1 group-title="倚天剑屠龙刀",tvg-name=""第42集" tvg-logo="https://live.fanmingming.cn/tv/第42集.png",第42集
+https://v2.qrssuv.com/wjv2/202308/21/7xc1h0E4m32/video/index.m3u8
