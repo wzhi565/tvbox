@@ -848,3 +848,43 @@ https://v2.qrssuv.com/wjv2/202308/21/V4Xy2kaeQw2/video/index.m3u8
 https://v2.qrssuv.com/wjv2/202308/21/tHLdZcuTBj2/video/index.m3u8
 #EXTINF:-1 group-title="倚天剑屠龙刀",tvg-name=""第42集" tvg-logo="https://live.fanmingming.cn/tv/第42集.png",第42集
 https://v2.qrssuv.com/wjv2/202308/21/7xc1h0E4m32/video/index.m3u8
+#EXTINF:-1 group-title="九五至尊",tvg-name=""第01集" tvg-logo="https://live.fanmingming.cn/tv/第01集.png",第01集
+https://v5.qrssuv.com/wjv5/202310/14/6dJCisE1sp1/video/index.m3u8
+#EXTINF:-1 group-title="九五至尊",tvg-name=""第02集" tvg-logo="https://live.fanmingming.cn/tv/第02集.png",第02集
+https://v5.qrssuv.com/wjv5/202310/14/h7XdX8cMa11/video/index.m3u8
+#EXTINF:-1 group-title="九五至尊",tvg-name=""第03集" tvg-logo="https://live.fanmingming.cn/tv/第03集.png",第03集
+https://v5.qrssuv.com/wjv5/202310/14/C5LF7z1EtT1/video/index.m3u8
+#EXTINF:-1 group-title="九五至尊",tvg-name=""第04集" tvg-logo="https://live.fanmingming.cn/tv/第04集.png",第04集
+https://v5.qrssuv.com/wjv5/202310/14/NB2gXpaWbt1/video/index.m3u8
+#EXTINF:-1 group-title="九五至尊",tvg-name=""第05集" tvg-logo="https://live.fanmingming.cn/tv/第05集.png",第05集
+https://v5.qrssuv.com/wjv5/202310/14/MjjUkSzarN1/video/index.m3u8
+#EXTINF:-1 group-title="九五至尊",tvg-name=""第06集" tvg-logo="https://live.fanmingming.cn/tv/第06集.png",第06集
+https://v5.qrssuv.com/wjv5/202310/14/tAL7R42mkK1/video/index.m3u8
+#EXTINF:-1 group-title="九五至尊",tvg-name=""第07集" tvg-logo="https://live.fanmingming.cn/tv/第07集.png",第07集
+https://v5.qrssuv.com/wjv5/202310/14/FP4dp6WdmM1/video/index.m3u8
+#EXTINF:-1 group-title="九五至尊",tvg-name=""第08集" tvg-logo="https://live.fanmingming.cn/tv/第08集.png",第08集
+https://v5.qrssuv.com/wjv5/202310/14/4acGseWi6L1/video/index.m3u8
+#EXTINF:-1 group-title="九五至尊",tvg-name=""第09集" tvg-logo="https://live.fanmingming.cn/tv/第09集.png",第09集
+https://v5.qrssuv.com/wjv5/202310/14/KaHpPqYiMh1/video/index.m3u8
+#EXTINF:-1 group-title="九五至尊",tvg-name=""第10集" tvg-logo="https://live.fanmingming.cn/tv/第10集.png",第10集
+https://v5.qrssuv.com/wjv5/202310/14/8GwfdmexfJ1/video/index.m3u8
+#EXTINF:-1 group-title="九五至尊",tvg-name=""第11集" tvg-logo="https://live.fanmingming.cn/tv/第11集.png",第11集
+https://v5.qrssuv.com/wjv5/202310/14/nrZRUMEeyQ1/video/index.m3u8
+#EXTINF:-1 group-title="九五至尊",tvg-name=""第12集" tvg-logo="https://live.fanmingming.cn/tv/第12集.png",第12集
+https://v5.qrssuv.com/wjv5/202310/14/7BjmaJSt3B1/video/index.m3u8
+#EXTINF:-1 group-title="九五至尊",tvg-name=""第13集" tvg-logo="https://live.fanmingming.cn/tv/第13集.png",第13集
+https://v5.qrssuv.com/wjv5/202310/14/NAhh0D28hD1/video/index.m3u8
+#EXTINF:-1 group-title="九五至尊",tvg-name=""第14集" tvg-logo="https://live.fanmingming.cn/tv/第14集.png",第14集
+https://v5.qrssuv.com/wjv5/202310/14/HEdJsAgSie1/video/index.m3u8
+#EXTINF:-1 group-title="九五至尊",tvg-name=""第15集" tvg-logo="https://live.fanmingming.cn/tv/第15集.png",第15集
+https://v5.qrssuv.com/wjv5/202310/14/XzUe5grH6e1/video/index.m3u8
+#EXTINF:-1 group-title="九五至尊",tvg-name=""第16集" tvg-logo="https://live.fanmingming.cn/tv/第16集.png",第16集
+https://v5.qrssuv.com/wjv5/202310/14/Qp2DPehaZq1/video/index.m3u8
+#EXTINF:-1 group-title="九五至尊",tvg-name=""第17集" tvg-logo="https://live.fanmingming.cn/tv/第17集.png",第17集
+https://v5.qrssuv.com/wjv5/202310/14/eEVP0ePiRG1/video/index.m3u8
+#EXTINF:-1 group-title="九五至尊",tvg-name=""第18集" tvg-logo="https://live.fanmingming.cn/tv/第18集.png",第18集
+https://v5.qrssuv.com/wjv5/202310/14/P0pNuJStPT1/video/index.m3u8
+#EXTINF:-1 group-title="九五至尊",tvg-name=""第19集" tvg-logo="https://live.fanmingming.cn/tv/第19集.png",第19集
+https://v5.qrssuv.com/wjv5/202310/14/JrYn0KUbtf1/video/index.m3u8
+#EXTINF:-1 group-title="九五至尊",tvg-name=""第20集" tvg-logo="https://live.fanmingming.cn/tv/第20集.png",第20集
+https://v5.qrssuv.com/wjv5/202310/14/CkcbpA7nNz1/video/index.m3u8
