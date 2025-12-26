@@ -3,6 +3,8 @@
 http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 #EXTINF:-1 group-title="4k" tvg-logo="https://live.fanmingming.com/tv/LOVE NATURE 4K.png",LOVE NATURE 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="电影" tvg-name="疯狂动物城" tvg-logo="https://live.fanmingming.cn/tv/疯狂动物城.png",疯狂动物城
+https://vip.dytt-hot.com/20250212/60571_83b354fb/index.m3u8
 #EXTINF:-1 group-title="电影" tvg-id="F1" tvg-logo="https://live.fanmingming.com/tv/F1.png",F1
 https://v2.qrssuv.com/wjv2/202508/21/3nxsq2kEUf74/video/index.m3u8
 #EXTINF:-1  group-title="斗鱼电影",tvg-name="重温经典" tvg-logo="https://live.fanmingming.com/tv/重温经典.png",重温经典
@@ -888,4 +890,5 @@ https://v5.qrssuv.com/wjv5/202310/14/P0pNuJStPT1/video/index.m3u8
 https://v5.qrssuv.com/wjv5/202310/14/JrYn0KUbtf1/video/index.m3u8
 #EXTINF:-1 group-title="九五至尊",tvg-name=""第20集" tvg-logo="https://live.fanmingming.cn/tv/第20集.png",第20集
 https://v5.qrssuv.com/wjv5/202310/14/CkcbpA7nNz1/video/index.m3u8
+
 
