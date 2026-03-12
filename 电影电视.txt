@@ -940,6 +940,9 @@ https://v1.qsstvw.com/wjv1/202603/10/b8kWcPBxxK93/video/index.m3u8
 https://v1.qsstvw.com/wjv1/202603/10/Xp6iWmbMYV93/video/index.m3u8
 #EXTINF:-1 group-title="好好的日子" tvg-name="第25集" tvg-logo="https://live.fanmingming.com/tv/第25集.png",第25集
 https://v2.qsstvw.com/wjv2/202603/11/KNG2e8mfPS90/video/index.m3u8
+#EXTINF:-1 group-title="好好的日子" tvg-name="第26集" tvg-logo="https://live.fanmingming.com/tv/第26集.png",第26集
+https://v6.qsstvw.com/wjv6/202603/12/86ny0YwhZy87/video/index.m3u8
+
 
 
 
