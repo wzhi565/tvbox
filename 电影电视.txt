@@ -942,6 +942,64 @@ https://v1.qsstvw.com/wjv1/202603/10/Xp6iWmbMYV93/video/index.m3u8
 https://v2.qsstvw.com/wjv2/202603/11/KNG2e8mfPS90/video/index.m3u8
 #EXTINF:-1 group-title="好好的日子" tvg-name="第26集" tvg-logo="https://live.fanmingming.com/tv/第26集.png",第26集
 https://v6.qsstvw.com/wjv6/202603/12/86ny0YwhZy87/video/index.m3u8
+#EXTINF:-1 group-title="纯真年代的爱情" tvg-name="第01集" tvg-logo="https://live.fanmingming.com/tv/第01集.png",第01集
+https://v3.qsstvw.com/wjv3/202602/21/X5v2iER3iu93/video/index.m3u8
+#EXTINF:-1 group-title="纯真年代的爱情" tvg-name="第02集" tvg-logo="https://live.fanmingming.com/tv/第02集.png",第02集
+https://v1.qsstvw.com/wjv1/202602/21/ATgkCr3VqH96/video/index.m3u8
+#EXTINF:-1 group-title="纯真年代的爱情" tvg-name="第03集" tvg-logo="https://live.fanmingming.com/tv/第03集.png",第03集
+https://v2.qsstvw.com/wjv2/202602/21/hC00QycPLN96/video/index.m3u8
+#EXTINF:-1 group-title="纯真年代的爱情" tvg-name="第04集" tvg-logo="https://live.fanmingming.com/tv/第04集.png",第04集
+https://v4.qsstvw.com/wjv4/202602/22/cL5N9UsTca96/video/index.m3u8
+#EXTINF:-1 group-title="纯真年代的爱情" tvg-name="第05集" tvg-logo="https://live.fanmingming.com/tv/第05集.png",第05集
+https://v7.qsstvw.com/wjv7/202602/22/bmCh0qRGd990/video/index.m3u8
+#EXTINF:-1 group-title="纯真年代的爱情" tvg-name="第06集" tvg-logo="https://live.fanmingming.com/tv/第06集.png",第06集
+https://v4.qsstvw.com/wjv4/202602/23/EHy9pTbY1s90/video/index.m3u8
+#EXTINF:-1 group-title="纯真年代的爱情" tvg-name="第07集" tvg-logo="https://live.fanmingming.com/tv/第07集.png",第07集
+https://v1.qsstvw.com/wjv1/202602/23/f2c6yux89D90/video/index.m3u8
+#EXTINF:-1 group-title="纯真年代的爱情" tvg-name="第08集" tvg-logo="https://live.fanmingming.com/tv/第08集.png",第08集
+https://v6.qsstvw.com/wjv6/202602/24/t7uu0XFRq396/video/index.m3u8
+#EXTINF:-1 group-title="纯真年代的爱情" tvg-name="第09集" tvg-logo="https://live.fanmingming.com/tv/第09集.png",第09集
+https://v3.qsstvw.com/wjv3/202602/24/LFGWTmx58U93/video/index.m3u8
+#EXTINF:-1 group-title="纯真年代的爱情" tvg-name="第10集" tvg-logo="https://live.fanmingming.com/tv/第10集.png",第10集
+https://v2.qsstvw.com/wjv2/202602/25/ceabpjku4b89/video/index.m3u8
+#EXTINF:-1 group-title="纯真年代的爱情" tvg-name="第11集" tvg-logo="https://live.fanmingming.com/tv/第11集.png",第11集
+https://v11.qsstvw.com/wjv11/202602/25/PMPV9nYdBi96/video/index.m3u8
+#EXTINF:-1 group-title="纯真年代的爱情" tvg-name="第12集" tvg-logo="https://live.fanmingming.com/tv/第12集.png",第12集
+https://v1.qsstvw.com/wjv1/202602/25/fn8pAeXAun90/video/index.m3u8
+#EXTINF:-1 group-title="纯真年代的爱情" tvg-name="第13集" tvg-logo="https://live.fanmingming.com/tv/第13集.png",第13集
+https://v4.qsstvw.com/wjv4/202602/26/RvdDNs3ZjH90/video/index.m3u8
+#EXTINF:-1 group-title="纯真年代的爱情" tvg-name="第14集" tvg-logo="https://live.fanmingming.com/tv/第14集.png",第14集
+https://v9.qsstvw.com/wjv9/202602/26/cgv37abWmi90/video/index.m3u8
+#EXTINF:-1 group-title="纯真年代的爱情" tvg-name="第15集" tvg-logo="https://live.fanmingming.com/tv/第15集.png",第15集
+https://v10.qsstvw.com/wjv10/202602/27/ZHX05VDkjH93/video/index.m3u8
+#EXTINF:-1 group-title="纯真年代的爱情" tvg-name="第16集" tvg-logo="https://live.fanmingming.com/tv/第16集.png",第16集
+https://v3.qsstvw.com/wjv3/202602/27/c296A2qP2M97/video/index.m3u8
+#EXTINF:-1 group-title="纯真年代的爱情" tvg-name="第17集" tvg-logo="https://live.fanmingming.com/tv/第17集.png",第17集
+https://v9.qsstvw.com/wjv9/202602/28/H2Ga4Ut6VN92/video/index.m3u8
+#EXTINF:-1 group-title="纯真年代的爱情" tvg-name="第18集" tvg-logo="https://live.fanmingming.com/tv/第18集.png",第18集
+https://v8.qsstvw.com/wjv8/202603/01/zuttB41PJN93/video/index.m3u8
+#EXTINF:-1 group-title="纯真年代的爱情" tvg-name="第19集" tvg-logo="https://live.fanmingming.com/tv/第19集.png",第19集
+https://v3.qsstvw.com/wjv3/202603/01/b83rVPyKvy93/video/index.m3u8
+#EXTINF:-1 group-title="纯真年代的爱情" tvg-name="第20集" tvg-logo="https://live.fanmingming.com/tv/第20集.png",第20集
+https://v2.qsstvw.com/wjv2/202603/01/2TgpmBSn7c95/video/index.m3u8
+#EXTINF:-1 group-title="纯真年代的爱情" tvg-name="第21集" tvg-logo="https://live.fanmingming.com/tv/第21集.png",第21集
+https://v9.qsstvw.com/wjv9/202603/02/GGEEKZGihG92/video/index.m3u8
+#EXTINF:-1 group-title="纯真年代的爱情" tvg-name="第22集" tvg-logo="https://live.fanmingming.com/tv/第22集.png",第22集
+https://v12.qsstvw.com/wjv12/202603/02/rzMG7kRfLM92/video/index.m3u8
+#EXTINF:-1 group-title="纯真年代的爱情" tvg-name="第23集" tvg-logo="https://live.fanmingming.com/tv/第23集.png",第23集
+https://v9.qsstvw.com/wjv9/202603/03/3MCDvfUHLw94/video/index.m3u8
+#EXTINF:-1 group-title="纯真年代的爱情" tvg-name="第24集" tvg-logo="https://live.fanmingming.com/tv/第24集.png",第24集
+https://v12.qsstvw.com/wjv12/202603/03/gcDmsq1Xih90/video/index.m3u8
+#EXTINF:-1 group-title="纯真年代的爱情" tvg-name="第25集" tvg-logo="https://live.fanmingming.com/tv/第25集.png",第25集
+https://v10.qsstvw.com/wjv10/202603/04/0juj3udChe96/video/index.m3u8
+#EXTINF:-1 group-title="纯真年代的爱情" tvg-name="第26集" tvg-logo="https://live.fanmingming.com/tv/第26集.png",第26集
+https://v8.qsstvw.com/wjv8/202603/05/8KeVJUVrXf92/video/index.m3u8
+#EXTINF:-1 group-title="纯真年代的爱情" tvg-name="第27集" tvg-logo="https://live.fanmingming.com/tv/第27集.png",第27集
+https://v9.qsstvw.com/wjv9/202603/05/ngnFC0gew790/video/index.m3u8
+#EXTINF:-1 group-title="纯真年代的爱情" tvg-name="第28集" tvg-logo="https://live.fanmingming.com/tv/第28集.png",第28集
+https://v2.qsstvw.com/wjv2/202603/05/kPxqDrMveL97/video/index.m3u8
+#EXTINF:-1 group-title="纯真年代的爱情" tvg-name="第29集" tvg-logo="https://live.fanmingming.com/tv/第29集.png",第29集
+https://v1.qsstvw.com/wjv1/202603/05/5YhujgJd0P95/video/index.m3u8
 
 
 
