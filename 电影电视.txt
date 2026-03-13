@@ -1000,6 +1000,10 @@ https://v9.qsstvw.com/wjv9/202603/05/ngnFC0gew790/video/index.m3u8
 https://v2.qsstvw.com/wjv2/202603/05/kPxqDrMveL97/video/index.m3u8
 #EXTINF:-1 group-title="纯真年代的爱情" tvg-name="第29集" tvg-logo="https://live.fanmingming.com/tv/第29集.png",第29集
 https://v1.qsstvw.com/wjv1/202603/05/5YhujgJd0P95/video/index.m3u8
+#EXTINF:-1 group-title="纯真年代的爱情" tvg-name="第27集" tvg-logo="https://live.fanmingming.com/tv/第27集.png",第27集
+https://v6.qsstvw.com/wjv6/202603/13/dcEtfVuCve92/video/index.m3u8
+#EXTINF:-1 group-title="纯真年代的爱情" tvg-name="第28集" tvg-logo="https://live.fanmingming.com/tv/第28集.png",第28集
+https://v3.qsstvw.com/wjv3/202603/13/ZumVpBD0Zy87/video/index.m3u8
 
 
 
