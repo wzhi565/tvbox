@@ -962,6 +962,14 @@ https://v10.qsstvw.com/wjv10/202603/17/G329rkhUs890/video/index.m3u8
 https://v9.qsstvw.com/wjv9/202603/18/fMABw2JbAt96/video/index.m3u8
 #EXTINF:-1 group-title="好好的日子" tvg-name="第36集" tvg-logo="https://live.fanmingming.com/tv/第36集.png",第36集
 https://v11.qsstvw.com/wjv11/202603/19/3rgkfvRauy90/video/index.m3u8
+#EXTINF:-1 group-title="好好的日子" tvg-name="第37集" tvg-logo="https://live.fanmingming.com/tv/第37集.png",第37集
+https://v7.qsstvw.com/wjv7/202603/20/m58yRDivEe87/video/index.m3u8
+#EXTINF:-1 group-title="好好的日子" tvg-name="第38集" tvg-logo="https://live.fanmingming.com/tv/第38集.png",第38集
+https://v6.qsstvw.com/wjv6/202603/20/YUHadRLR8K96/video/index.m3u8
+#EXTINF:-1 group-title="好好的日子" tvg-name="第39集" tvg-logo="https://live.fanmingming.com/tv/第39集.png",第39集
+https://v4.qsstvw.com/wjv4/202603/20/nda0QVA1ee91/video/index.m3u8
+#EXTINF:-1 group-title="好好的日子" tvg-name="第40集" tvg-logo="https://live.fanmingming.com/tv/第40集.png",第40集
+https://v8.qsstvw.com/wjv8/202603/20/0z6BBcykZn90/video/index.m3u8
 #EXTINF:-1 group-title="纯真年代的爱情" tvg-name="第01集" tvg-logo="https://live.fanmingming.com/tv/第01集.png",第01集
 https://v3.qsstvw.com/wjv3/202602/21/X5v2iER3iu93/video/index.m3u8
 #EXTINF:-1 group-title="纯真年代的爱情" tvg-name="第02集" tvg-logo="https://live.fanmingming.com/tv/第02集.png",第02集
