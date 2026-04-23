@@ -1108,7 +1108,38 @@ https://v4.ppqrrs.com/wjv4/202308/27/fYwmq7ZDNd1/video/index.m3u8
 https://v4.ppqrrs.com/wjv4/202308/27/FeMJ1fmxQw1/video/index.m3u8
 #EXTINF:-1 group-title="那座城这家人" tvg-name="第40集" tvg-logo="https://live.fanmingming.com/tv/第40集.png",第40集
 https://v4.ppqrrs.com/wjv4/202308/27/y3xswtPFbP1/video/index.m3u8
-
+#EXTINF:-1 group-title="叵测" tvg-name="第01集" tvg-logo="https://live.fanmingming.com/tv/第01集.png",第01集
+https://v9.ppqrrs.com/wjv9/202604/01/jJZFRbY6i597/video/index.m3u8
+#EXTINF:-1 group-title="叵测" tvg-name="第02集" tvg-logo="https://live.fanmingming.com/tv/第02集.png",第02集
+https://v11.ppqrrs.com/wjv11/202604/01/wAsqAnwrpJ95/video/index.m3u8
+#EXTINF:-1 group-title="叵测" tvg-name="第03集" tvg-logo="https://live.fanmingming.com/tv/第03集.png",第03集
+https://v12.ppqrrs.com/wjv12/202604/01/37guyj1J2c91/video/index.m3u8
+#EXTINF:-1 group-title="叵测" tvg-name="第04集" tvg-logo="https://live.fanmingming.com/tv/第04集.png",第04集
+https://v12.ppqrrs.com/wjv12/202604/02/aEgpb0RhcN90/video/index.m3u8
+#EXTINF:-1 group-title="叵测" tvg-name="第05集" tvg-logo="https://live.fanmingming.com/tv/第05集.png",第05集
+https://v7.ppqrrs.com/wjv7/202604/02/SJgQ1MLw1R93/video/index.m3u8
+#EXTINF:-1 group-title="叵测" tvg-name="第06集" tvg-logo="https://live.fanmingming.com/tv/第06集.png",第06集
+https://v12.ppqrrs.com/wjv12/202604/03/r3kfDWiFpY94/video/index.m3u8
+#EXTINF:-1 group-title="叵测" tvg-name="第07集" tvg-logo="https://live.fanmingming.com/tv/第07集.png",第07集
+https://v1.ppqrrs.com/202604/04/Ucc3hSVC5v95/video/index.m3u8
+#EXTINF:-1 group-title="叵测" tvg-name="第08集" tvg-logo="https://live.fanmingming.com/tv/第08集.png",第08集
+https://v8.ppqrrs.com/wjv8/202604/05/6WdECThvvL96/video/index.m3u8
+#EXTINF:-1 group-title="叵测" tvg-name="第09集" tvg-logo="https://live.fanmingming.com/tv/第09集.png",第09集
+https://v3.ppqrrs.com/wjv3/202604/06/bKMBjgX06Q96/video/index.m3u8
+#EXTINF:-1 group-title="叵测" tvg-name="第10集" tvg-logo="https://live.fanmingming.com/tv/第10集.png",第10集
+https://v12.ppqrrs.com/wjv12/202604/07/0VJnDRgdtE88/video/index.m3u8
+#EXTINF:-1 group-title="叵测" tvg-name="第11集" tvg-logo="https://live.fanmingming.com/tv/第11集.png",第11集
+https://v6.ppqrrs.com/wjv6/202604/08/NqGuEEHXLZ96/video/index.m3u8
+#EXTINF:-1 group-title="叵测" tvg-name="第12集" tvg-logo="https://live.fanmingming.com/tv/第12集.png",第12集
+https://v1.ppqrrs.com/202604/09/g4DA6fuE8991/video/index.m3u8
+#EXTINF:-1 group-title="叵测" tvg-name="第13集" tvg-logo="https://live.fanmingming.com/tv/第13集.png",第13集
+https://v1.ppqrrs.com/202604/09/AHZuf5Sg3L89/video/index.m3u8
+#EXTINF:-1 group-title="叵测" tvg-name="第14集" tvg-logo="https://live.fanmingming.com/tv/第14集.png",第14集
+https://v3.ppqrrs.com/wjv3/202604/10/reCZ23KcpC87/video/index.m3u8
+#EXTINF:-1 group-title="叵测" tvg-name="第15集" tvg-logo="https://live.fanmingming.com/tv/第15集.png",第15集
+https://v7.ppqrrs.com/wjv7/202604/10/qrFjjNB2NN91/video/index.m3u8
+#EXTINF:-1 group-title="叵测" tvg-name="第16集" tvg-logo="https://live.fanmingming.com/tv/第16集.png",第16集
+https://v10.ppqrrs.com/wjv10/202604/10/pGCGGpmqG189/video/index.m3u8
 
 
 
