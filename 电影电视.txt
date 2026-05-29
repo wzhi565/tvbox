@@ -7,6 +7,10 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 https://vip.dytt-hot.com/20250212/60571_83b354fb/index.m3u8
 #EXTINF:-1 group-title="电影" tvg-id="F1" tvg-logo="https://live.fanmingming.com/tv/F1.png",F1
 https://vip.dytt-cinema.com/20250822/31287_0982d54d/index.m3u8
+#EXTINF:-1 group-title="电影" tvg-id="穿普拉达的女王" tvg-logo="https://live.fanmingming.com/tv/穿普拉达的女王.png",穿普拉达的女王
+https://v1.ppqrrs.com/wjv1/202308/19/hmKencq9tk2/video/index.m3u8
+#EXTINF:-1 group-title="电影" tvg-id="穿普拉达的女王2" tvg-logo="https://live.fanmingming.com/tv/穿普拉达的女王2.png",穿普拉达的女王2
+https://v4.ppqrrs.com/wjv4/202605/19/u4Se5nSh6691/video/index.m3u8
 #EXTINF:-1  group-title="斗鱼电影",tvg-name="重温经典" tvg-logo="https://live.fanmingming.com/tv/重温经典.png",重温经典
 http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 #EXTINF:-1 tvg-name="4K电影" tvg-logo="https://live.fanmingming.com/tv/4K电影.png" group-title="斗鱼电影",4K电影
